@@ -6,13 +6,23 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Rejestr kontrybucji diecezji poznańskiej z 1561 r.</title>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>Przepisane z rękopisu, zestawione z pierwotnymi źródłami; aparat krytyczny i komentarz.</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <msDesc n="1" type="fair copy" ana="primary">
+               <msIdentifier xml:id="IDS16786" xml:lang="la">
+                  <repository>Archiwum Głównym Akt Dawnych</repository>, <idno key="127"> 240</idno>  157-160
+               </msIdentifier>
+            </msDesc>           
+            
+            <msDesc n="2" type="register with excerpt" ana="primary">
+               <msIdentifier xml:id="IDS25158" xml:lang="la">
+                  <repository>Archiwum Skarbu Koronnego</repository>, <idno key="315">R.III, 32</idno> 
+               </msIdentifier>
+            </msDesc>           
          </sourceDesc>
       </fileDesc>
   </teiHeader>
