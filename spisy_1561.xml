@@ -12,23 +12,45 @@
             <p>Przepisane z rękopisu, zestawione z pierwotnymi źródłami; aparat krytyczny i komentarz.</p>
          </publicationStmt>
          <sourceDesc>
-            <msDesc n="1" type="fair copy" ana="primary">
-               <msIdentifier xml:id="IDS16786" xml:lang="la">
-                  <repository>Archiwum Głównym Akt Dawnych</repository>, <idno key="127"> 240</idno>  157-160
+            <msDesc>
+               <msIdentifier xml:lang="la">
+                  <institution>Archiwum Głównym Akt Dawnych</institution>
+                  <repository>Archiwum Skarbu Koronnego</repository>
+                  <idno>sygn. 1/7/0/3/91</idno>
                </msIdentifier>
-            </msDesc>           
-            
-            <msDesc n="2" type="register with excerpt" ana="primary">
-               <msIdentifier xml:id="IDS25158" xml:lang="la">
-                  <repository>Archiwum Skarbu Koronnego</repository>, <idno key="315">R.III, 32</idno> 
-               </msIdentifier>
-            </msDesc>           
+               <physDesc>
+                  <p>rozmiar: 220 mm x 330 mm</p>
+                  <p>k. 78 oraz 5 nlb (na początku oraz po k. 23, 64, 78).</p>
+                  <p>karty niezapisane: 20v, 28, 35v, 45, 52, 58v, 61v, 69v, 72v, 78.</p>
+               </physDesc>
+            </msDesc> 
+            <listWit>
+               <witness></witness>
+               <witness></witness>   
+            </listWit>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
   <text>
       <body>
-         <p>Some text here.</p>
+         <pb n="k.1"/>  
+         <p> Regestrum contributionis duplae in totum clerum A decretae A pro serenissimo principe domino domino Sigismundo Augusto rege Poloniae anno Domini millesimo quingentesimo sexagesimo primo in synodo provinciali Varssouiensi1, cuius contributionis exactor deputatus venerabilis dominus Michael Skzetussewski2 canonicus Posnaniensis. </p>     
+         <pb n="k. 1v"/>
+         <p>Decanatus rurales</p> 
+         <p>Posnaniensis</p>
+         <p>Pysdrensis</p> 
+         <p>Obornicensis</p> 
+         <p>Sthęszowiensis</p>
+         <p>Srzemensis</p> 
+         <p>Costensis</p>
+         <p>Novae Civitatis</p>
+         <p>Wschowensis</p> 
+         <p>Grodzicensis</p> 
+         <p>Vronicensis</p> 
+         <p>Miedzirzecensis</p> 
+         <pb n="k.2"/>  
+         <p>Praelaturae et canonicatus ecclesiae cathedralis Posnaniensis.</p>
+         <p>Reverendissimus in Christo pater et dominus dominus Andreas Czarnkowski Dei gratia episcopus Posnaniensis, de suis proventibus, per manus venerabilis domini Foelicis Pomorski in Cziazem6 plebani et sui thesaurarii solvit et numeravit in moneta per grossos triginta computan[da] florenos ducentos.</p> 
       </body>
   </text>
 </TEI>
