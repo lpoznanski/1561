@@ -51,6 +51,12 @@
          <pb n="k.2"/>  
          <p>Praelaturae et canonicatus ecclesiae cathedralis Posnaniensis.</p>
          <p>Reverendissimus in Christo pater et dominus dominus Andreas Czarnkowski Dei gratia episcopus Posnaniensis, de suis proventibus, per manus venerabilis domini Foelicis Pomorski in Cziazem6 plebani et sui thesaurarii solvit et numeravit in moneta per grossos triginta computan[da] florenos ducentos.</p> 
+         <pb/>
+         <table>
+            <row>
+               <cell></cell>
+            </row>
+         </table>
       </body>
   </text>
 </TEI>
