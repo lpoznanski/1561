@@ -83,7 +83,7 @@
                 <p>Reverendissimus in Christo pater et dominus dominus Andreas Czarnkowski Dei
                     gratia episcopus Posnaniensis, de suis proventibus, per manus venerabilis domini
                     Foelicis Pomorski in <seg xml:id="ASK91.v7" corresp="v7">Cziazem</seg> plebani et sui thesaurarii solvit et numeravit in
-                    moneta per grossos triginta computan[da] florenos ducentos.</p>
+                    moneta per grossos triginta <expan>computan<ex>da</ex></expan> florenos ducentos.</p>
                 <pb n="2v" xml:id=""/>
                 <table>
                     <row role="label">
@@ -266,7 +266,7 @@
                     <row role="data">
                         <cell>Albertus <seg xml:id="ASK.91.v9" corresp="v9">Rudniczki</seg></cell>
                         <cell>2 fl.</cell>
-                        <cell><seg xml:id="ASK91.v10" corresp="v10">s-t</seg></cell>
+                        <cell><seg xml:id="ASK91.v10" corresp="v10"><del>s-t</del></seg></cell>
                     </row>
                     <row role="data">
                         <cell>Stanislaus Cuninski</cell>
@@ -2282,8 +2282,7 @@
                     <row role="data">
                         <cell>Ioannes a Srzem</cell>
                         <cell>6 gr.</cell>
-                        <cell>s-t<hi rend="superscript">-</hi>
-                        </cell>
+                        <cell>s-t</cell>
                     </row>
                     <row role="data">
                         <cell>Gaiewski</cell>
@@ -4646,7 +4645,7 @@
             <p>Reverendissimus in Christo pater et dominus dominus Andreas Czarnkowski Dei gratia
                episcopus Posnaniensis, de suis proventibus, per manus venerabilis domini Foelicis
                Pomorski in <seg xml:id="ASK3.v7" corresp="v7">Cziaziem</seg> plebani et sui
-               thesaurarii solvit et numeravit in moneta per grossos triginta computan[da] florenos
+               thesaurarii solvit et numeravit in moneta per grossos triginta <expan>computan<ex>da</ex></expan> florenos
                ducentos.</p>
             <table>
                <row role="data">
@@ -4801,7 +4800,7 @@
                </row>
                <row role="data">
                   <cell>Paulus Sarbinius doctor</cell>
-                  <cell><seg xml:id="ASK3.v11" corresp="v11">mrc. 2</seg>
+                  <cell><seg xml:id="ASK3.v11" corresp="v11">mrc. 2 <del>fl.</del></seg>
                   </cell>
                   <cell>s-t</cell>
                </row>
@@ -4873,11 +4872,11 @@
                   <cell/>
                </row>
                <row>
-                  <cell>Ioannes Dąmbniczki</cell>
-                  <cell>2 fl.</cell>
-                  <cell>solvit<anchor n="v15" xml:id="ASK91.v15" corresp="v15"/></cell>
+                  <cell><del>Ioannes Dąmbniczki</del></cell>
+                  <cell><del>2 fl.</del></cell>
+                  <cell>s-t<anchor n="v15" xml:id="ASK91.v15" corresp="v15"/></cell>
                </row>
-               <row>
+               <row> 
                   <cell>Ioannes Piotrowski</cell>
                   <cell>2 fl.</cell>
                   <cell/>
@@ -4995,11 +4994,11 @@
                   <cell/>
                </row>
                <row role="data">
-                  <cell>Lucas a Gnesna<anchor n="v21" xml:id="ASK91.v21" corresp="v21"/></cell>
-                  <cell>24 gr.</cell>
-                  <cell/>
+                  <cell><del>Lucas a Gnesna</del><anchor n="v21" xml:id="ASK91.v21" corresp="v21"/></cell>
+                  <cell><del>24 gr.</del></cell>
+                  <cell>s-t</cell>
                </row>
-
+               <note place="right"></note>
                <row role="data">
                   <cell>Albertus Zakrzewsky</cell>
                   <cell><seg xml:id="ASK3.v22" corresp="v22"/></cell>
@@ -5498,8 +5497,8 @@
                </row>
                <note place="left-margin">Scriptus inter percepta</note>
                <row role="data">
-                  <cell>Praedicator almanorum</cell>
-                  <cell>28 gr.<anchor n="v50" xml:id="ASK3.v50" corresp="v50"/></cell>
+                  <cell><del>Praedicator almanorum</del></cell>
+                  <cell><del>28 gr.</del><anchor n="v50" xml:id="ASK3.v50" corresp="v50"/></cell>
                   <cell/>
                </row>
                <row role="data">
@@ -6007,9 +6006,9 @@
                   <cell/>
                </row>
                <row role="data">
-                  <cell>Mansionarii Pysdrenses numero quinque</cell>
-                  <cell>10 gr.</cell>
-                  <cell>s-t<anchor n="v95" xml:id="ASK3.v95" corresp="v95"/></cell>
+                  <cell><del>Mansionarii Pysdrenses numero quinque</del></cell>
+                  <cell><del>10 gr.<anchor n="v95" xml:id="ASK3.v95" corresp="v95"/></del></cell>
+                  <cell/>
                </row>
                <row role="data">
                   <cell>Praepositus Sancti Spiritus in Pysdry</cell>
@@ -9007,6 +9006,7 @@
                   <cell/>
                </row>
             </table>
+
          </div>
             <div type="notes">
                 <note n="1" xml:id="n-1" target="#note-1">
