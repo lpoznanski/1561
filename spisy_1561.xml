@@ -3538,7 +3538,7 @@
                         <cell/>
                     </row>
                     <row role="data">
-                        <cell>Noscowo</cell>
+                        <cell><seg xml:id="ASK91.v202" corresp="v202">Noscowo</seg></cell>
                         <cell>24 gr.</cell>
                         <cell/>
                     </row>
@@ -3569,7 +3569,7 @@
                     </row>
                 </table>
                 <pb n="58" xml:id="Y"/>
-                <p>In Cosmyn mansionarii tres Ioannes Klathka, Ioannes Buk, Baltazar vacant.</p>
+                <p>In Cosmyn mansionarii tres <seg xml:id="ASK91.v203" corresp="v203">Ioannes Klathka, Ioannes Buk, Baltazar</seg> vacant.</p>
                 <table>
                     <row role="data">
                         <cell>Raszkowo</cell>
@@ -3589,15 +3589,15 @@
                 </table>
                 <pb n="59" xml:id="Y"/>
                 <p>Decanatus Vschovensis</p>
-                <p>Honestus Stephanus agricola civis Wschowensis nomine dominorum proconsulis et
+                <p>Honestus Stephanus agricola <seg xml:id="ASK91.v204" corresp="v204">civis</seg> Wschowensis nomine dominorum proconsulis et
                     consulum civitatis Wschowensis marcas 4 peccuniarum solvit.</p>
                 <p>Altaristae ibidem </p>
                 <p>Altaristae quondam numero triginta tres in utraque ecclesia, tam parrochiali quam
-                    Corporis Christi, quorum proventus proconsul cum consulibus pro se usurpaverunt
+                    Corporis <seg xml:id="ASK91.v205" corresp="v205">Christi</seg>, quorum proventus proconsul cum <seg xml:id="ASK91.v206" corresp="v206">consulibus</seg> pro se usurpaverunt
                     et nemo ex eis inhabitat. Haereticus pro plebano habetur.</p>
                 <table>
                     <row role="data">
-                        <cell>Swiecziechow </cell>
+                        <cell><seg xml:id="ASK91.v207" corresp="v207">Swiecziechow</seg></cell>
                         <cell>2 fl.</cell>
                         <cell>s-t</cell>
                     </row>
@@ -3623,7 +3623,7 @@
                         <cell>s-t</cell>
                     </row>
                     <row role="data">
-                        <cell>Dęmbowa Lęka</cell>
+                        <cell><seg xml:id="ASK91.v208" corresp="v208">Dęmbowa</seg> Lęka</cell>
                         <cell>12 gr.</cell>
                         <cell>s-t</cell>
                     </row>
@@ -3638,12 +3638,12 @@
                         <cell/>
                     </row>
                     <row role="data">
-                        <cell>Przidczina </cell>
+                        <cell><seg xml:id="ASK91.v209" corresp="v209">Przidczina</seg></cell>
                         <cell>12 gr.</cell>
                         <cell/>
                     </row>
                     <row role="data">
-                        <cell>Vilcowo Almanicale<anchor n="13" xml:id="note-13"/>
+                        <cell><seg xml:id="ASK91.v210" corresp="v210">Vilcowo</seg> <choice><corr>Almanicale</corr><sic>almanicale</sic></choice><anchor n="13" xml:id="note-13"/>
                         </cell>
                         <cell>12 gr.</cell>
                         <cell/>
@@ -3677,18 +3677,18 @@
                         <cell/>
                     </row>
                     <row role="data">
-                        <cell>Thilendorf cum Lisnia</cell>
+                        <cell><seg xml:id="ASK91.v211" corresp="v211">Thilendorf cum Lisnia</seg></cell>
                         <cell>24 gr.</cell>
                         <cell/>
                     </row>
                     <row role="data">
-                        <cell>Antiquum Claustrum<anchor n="14" xml:id="note-14"/>
+                        <cell>Antiquum <choice><corr>Claustrum</corr><sic>claustrum</sic></choice><anchor n="14" xml:id="note-14"/>
                         </cell>
                         <cell>12 gr.</cell>
                         <cell/>
                     </row>
                     <row role="data">
-                        <cell>Golancza Jezierczicze annexa eidem</cell>
+                        <cell>Golancza <seg xml:id="ASK91.v212" corresp="v212">Jezierczicze</seg> annexa eidem</cell>
                         <cell>12 gr.</cell>
                         <cell/>
                     </row>
@@ -3711,13 +3711,13 @@
                 <pb n="61" xml:id="Y"/>
                 <table>
                     <row role="data">
-                        <cell>Bucowiecz prope Smigiel</cell>
+                        <cell><seg xml:id="ASK91.v213" corresp="v213">Bucowiecz</seg> prope Smigiel</cell>
                         <cell>12 gr.</cell>
                         <cell/>
                     </row>
                     <row role="data">
                         <cell> Lasoczicze. Altare ibidem</cell>
-                        <cell>12 gr.</cell>
+                        <cell>12 gr.<anchor xml:id="ASK91.v214" corresp="v214"/></cell>
                         <cell/>
                     </row>
                     <row role="data">
@@ -3738,10 +3738,10 @@
                 </table>
                 <pb n="61v" xml:id="Y"/>
                 <p>Decanatus Grodzicensis</p>
-                <p>Praepositura hospitalis in Kieblow</p>
+                <p><seg xml:id="ASK91.v215" corresp="v215">Praepositura hospitalis in Kieblow</seg></p>
                 <table>
                     <row role="data">
-                        <cell>Ioannes praepositus </cell>
+                        <cell>Ioannes <seg xml:id="ASK91.v216" corresp="v216">praepositus</seg></cell>
                         <cell>17 gr.</cell>
                         <cell>s-t</cell>
                     </row>
@@ -3768,7 +3768,7 @@
                         <cell>s-t</cell>
                     </row>
                     <row role="data">
-                        <cell>Lącki </cell>
+                        <cell><seg xml:id="ASK91.v217" corresp="v217">Lącki</seg></cell>
                         <cell>20 gr.</cell>
                         <cell>s-t</cell>
                     </row>
@@ -3791,7 +3791,7 @@
                         <cell/>
                     </row>
                     <row role="data">
-                        <cell>Coziczino </cell>
+                        <cell><seg xml:id="ASK91.v218" corresp="v218">Coziczino</seg></cell>
                         <cell>24 gr.</cell>
                         <cell>s-t</cell>
                     </row>
@@ -3801,14 +3801,14 @@
                 </p>
                 <table>
                     <row role="data">
-                        <cell>Mathias praepositus in Sbassin</cell>
+                        <cell>Mathias praepositus in Sbassin<anchor xml:id="ASK91.v219" corresp="v219"/></cell>
                         <cell>2 fl.</cell>
                         <cell>s-t</cell>
                     </row>
                     <row role="data">
                         <cell>Praepositus ibidem Sancti Spiritus</cell>
                         <cell>24 gr.</cell>
-                        <cell>s-t</cell>
+                        <cell>s-t<anchor xml:id="ASK91.v220" corresp="v220"/></cell>
                     </row>
                 </table>
                 <pb n="63" xml:id="Y"/>
@@ -3819,7 +3819,7 @@
                         <cell>s-t</cell>
                     </row>
                     <row role="data">
-                        <cell>Docowo </cell>
+                        <cell><seg xml:id="ASK91.v221" corresp="v221">Docowo</seg></cell>
                         <cell>24 gr.</cell>
                         <cell>s-t</cell>
                     </row>
@@ -3853,12 +3853,12 @@
                         <cell/>
                     </row>
                     <row role="data">
-                        <cell>Altaristae duo per grossos 17</cell>
-                        <cell>gr. 34</cell>
+                        <cell>Altaristae duo per <seg xml:id="ASK91.v222" corresp="v222">grossos 17</seg></cell>
+                        <cell><seg xml:id="ASK91.v223" corresp="v223">gr. 34</seg></cell>
                         <cell/>
                     </row>
                     <row role="data">
-                        <cell>Colsko </cell>
+                        <cell><seg xml:id="ASK91.v224" corresp="v224">Colsko</seg></cell>
                         <cell>12 gr.</cell>
                         <cell/>
                     </row>
@@ -3876,7 +3876,7 @@
                 <pb n="64" xml:id="Y"/>
                 <table>
                     <row role="data">
-                        <cell>In Sbassin quinque mansionariae per 1 fertonem</cell>
+                        <cell>In Sbassin quinque mansionariae per <seg xml:id="ASK91.v225" corresp="v225">1 fertonem</seg></cell>
                         <cell/>
                         <cell/>
                     </row>
@@ -3896,12 +3896,12 @@
                         <cell/>
                     </row>
                     <row role="data">
-                        <cell>Bucowiecz prope Grodzisko</cell>
+                        <cell><seg xml:id="ASK91.v226" corresp="v226">Bucowiecz</seg> prope Grodzisko</cell>
                         <cell>24 gr.</cell>
                         <cell/>
                     </row>
                     <row role="data">
-                        <cell>In Opalenicza duo altaria per 15 grossos</cell>
+                        <cell>In <seg xml:id="ASK91.v227" corresp="v227">Opalenicza</seg> duo altaria per 15 grossos</cell>
                         <cell/>
                         <cell/>
                     </row>
@@ -3939,7 +3939,7 @@
                         <cell/>
                     </row>
                     <row role="data">
-                        <cell>Raconawicze </cell>
+                        <cell><seg xml:id="ASK91.v228" corresp="v228">Raconawicze</seg> </cell>
                         <cell>12 gr.</cell>
                         <cell/>
                     </row>
@@ -3947,7 +3947,7 @@
                         <cell>Grodzisko parochialis haereticorum. Quinque
                             altaria. Praepositura. Haec omnia haereticus occupavit dominus
                             castellanus Miedzirzecensis</cell>
-                        <cell>2 mrc.</cell>
+                        <cell>2 mrc.<anchor xml:id="ASK91.v229" corresp="v229"/></cell>
                         <cell/>
                     </row>
                 </table>
@@ -3965,7 +3965,7 @@
                         <cell>s-t</cell>
                     </row>
                     <row role="data">
-                        <cell>Lwovek </cell>
+                        <cell><seg xml:id="ASK91.v230" corresp="v230">Lwovek</seg></cell>
                         <cell>2 fl.</cell>
                         <cell>s-t</cell>
                     </row>
@@ -4007,7 +4007,7 @@
                 <pb n="66" xml:id="Y"/>
                 <table>
                     <row role="data">
-                        <cell>Praepositus Sanctae Trinitatis </cell>
+                        <cell>Praepositus Sanctae <seg xml:id="ASK91.v231" corresp="v231">Trinitatis</seg></cell>
                         <cell>24 gr.</cell>
                         <cell>s-t</cell>
                     </row>
@@ -4019,8 +4019,8 @@
                         <cell>s-t</cell>
                     </row>
                     <row role="data">
-                        <cell>Chrzibsko. Missalia, maldrata, ab annis quatuor, de villa Mosczieiewo
-                            domini Lwowski, Niemierzewo domini Chelmski, Milno domini Ioannis
+                        <cell>Chrzibsko. Missalia, maldrata, ab annis quatuor, de <seg xml:id="ASK91.v232" corresp="v232">villa</seg> Mosczieiewo
+                            domini Lwowski, Niemierzewo domini Chelmski, <seg xml:id="ASK91.v233" corresp="v233">Milno</seg> domini Ioannis
                             Milienski, Isdebno domini Szlopanowski, Iablonowo domini Dziewierzewski,
                             Kykowo dominae Kikowska, Srzodka domini Pawlowski, molendinatores, in
                             omnibus istis villis, per haeredes istarum villarum solvere
@@ -4045,9 +4045,9 @@
                     </row>
                 </table>
                 <pb n="66v" xml:id="Y"/>
-                <p>Altare ibidem in Vronki. Martinus a Stobnicza
+                <p>Altare ibidem <seg xml:id="ASK91.v234" corresp="v234">in Vronki</seg>. Martinus a <seg xml:id="ASK91.v235" corresp="v235">Stobnicza</seg>
                     corporali iuramento praestito deposuit census trium marcarum per dominum
-                    Bucowieczki ab annis septem occupatum esse nec <expan>quicqu<ex>am?</ex>
+                    <seg xml:id="ASK91.v236" corresp="v236">Bucowieczki</seg> ab annis septem occupatum esse nec <expan>quicqu<ex>am?</ex>
                     </expan> ei persolvitur.</p>
                 <table>
                     <row role="data">
@@ -4056,7 +4056,7 @@
                         <cell>s-t</cell>
                     </row>
                     <row role="data">
-                        <cell>Buk</cell>
+                        <cell><seg xml:id="ASK91.v237" corresp="v237">Buk</seg></cell>
                         <cell>4 fl.</cell>
                         <cell>s-t</cell>
                     </row>
@@ -4094,7 +4094,7 @@
                 </table>
                 <table>
                     <row role="data">
-                        <cell>Lubosz </cell>
+                        <cell><seg xml:id="ASK91.v238" corresp="v238">Lubosz</seg></cell>
                         <cell>24 gr.</cell>
                         <cell>s-t</cell>
                     </row>
@@ -4108,7 +4108,7 @@
                         <cell/>
                     </row>
                     <row role="data">
-                        <cell>In Lwovek altare post Przetoczki vacat</cell>
+                        <cell>In Lwovek altare post <seg xml:id="ASK91.v239" corresp="v239">Przetoczki</seg> vacat</cell>
                         <cell/>
                         <cell/>
                     </row>
@@ -4136,7 +4136,7 @@
                 <pb n="68" xml:id="Y"/>
                 <table>
                     <row role="data">
-                        <cell>Zaiaczkowo </cell>
+                        <cell><seg xml:id="ASK91.v240" corresp="v240">Zaiaczkowo</seg></cell>
                         <cell>24 gr.</cell>
                         <cell/>
                     </row>
@@ -4144,13 +4144,13 @@
                 <p>Parochiales per haereticos occupatae</p>
                 <table>
                     <row role="data">
-                        <cell>Czeracz domini Jancowski</cell>
+                        <cell>Czeracz <seg xml:id="ASK91.v241" corresp="v241">domini Jancowski</seg></cell>
                         <cell>2 fl.</cell>
                         <cell/>
                     </row>
                     <row role="data">
-                        <cell>Sirakow oppidum per dominum Procopium Broniewski
-                            haereticus institutus </cell>
+                        <cell>Sirakow oppidum <seg xml:id="ASK91.v242" corresp="v242">per dominum Procopium Broniewski
+                            haereticus institutus</seg></cell>
                         <cell>2 fl.</cell>
                         <cell/>
                     </row>
@@ -4167,7 +4167,7 @@
                         <cell/>
                     </row>
                     <row role="data">
-                        <cell>Collegium Ostrorog</cell>
+                        <cell>Collegium <seg xml:id="ASK91.v243" corresp="v243">Ostrorog</seg></cell>
                         <cell>24 gr.</cell>
                         <cell/>
                     </row>
@@ -4175,7 +4175,7 @@
                 <pb n="68v" xml:id="Y"/>
                 <table>
                     <row role="data">
-                        <cell>Quinque mansionariae per grossos 24</cell>
+                        <cell>Quinque mansionariae per <seg xml:id="ASK91.v244" corresp="v244">grossos 24</seg></cell>
                         <cell>4 fl.</cell>
                         <cell/>
                     </row>
@@ -4186,7 +4186,7 @@
                     </row>
                     <row role="data">
                         <cell>Quilcz per haeredes desolata</cell>
-                        <cell>2 fl.</cell>
+                        <cell>2 fl.<anchor xml:id="ASK91.v245" corresp="v245"/></cell>
                         <cell/>
                     </row>
                     <row role="data">
@@ -4195,12 +4195,12 @@
                         <cell/>
                     </row>
                     <row role="data">
-                        <cell>Pniewy per dominum Sthephanum palatinum Brzestensem</cell>
+                        <cell>Pniewy per dominum <seg xml:id="ASK91.v246" corresp="v246">Sthephanum palatinum Brzestensem</seg></cell>
                         <cell>2 fl.</cell>
                         <cell/>
                     </row>
                     <row role="data">
-                        <cell>Tres altaristae per grossos 15</cell>
+                        <cell><seg xml:id="ASK91.v247" corresp="v247">Tres altaristae per grossos 15</seg></cell>
                         <cell/>
                     </row>
                 </table>
@@ -4212,7 +4212,7 @@
                         <cell/>
                     </row>
                     <row role="data">
-                        <cell>Miedzichod per dominum Iacobum Ostrorog</cell>
+                        <cell>Miedzichod per dominum <seg xml:id="ASK91.v248" corresp="v248">Iacobum</seg> Ostrorog</cell>
                         <cell>24 gr.</cell>
                         <cell/>
                     </row>
@@ -4236,10 +4236,10 @@
                         <cell>s-t</cell>
                     </row>
                     <row role="data">
-                        <cell>Trcziel. Plebanus duodecim grossos solvit, grossi 12
+                        <cell>Trcziel. Plebanus <seg xml:id="ASK91.v249" corresp="v249">duodecim grossos solvit</seg>, grossi 12
                             dimissi. Idem plebanus medio corporali iuramento praestito dixit, quod
                             decimam de praedio Trzcziel, missalia de molendino Mitrega, ac decimam
-                            de Miloslaw domini Lwosczi capitaneus Miedzirzecensis et castellana
+                            de Miloslaw domini <seg xml:id="ASK91.v250" corresp="v250">Lwosczi</seg> capitaneus Miedzirzecensis et castellana
                             Santocensis pro se usurpant</cell>
                         <cell>12 gr.</cell>
                         <cell>s-t</cell>
@@ -4274,12 +4274,12 @@
                         <cell/>
                     </row>
                     <row role="data">
-                        <cell>Cursko</cell>
+                        <cell><seg xml:id="ASK91.v251" corresp="v251">Cursko</seg></cell>
                         <cell>vacat, per fertonem</cell>
                         <cell/>
                     </row>
                     <row role="data">
-                        <cell>Templewo</cell>
+                        <cell>Templewo<anchor xml:id="ASK91.v252" corresp="v252"/></cell>
                         <cell/>
                         <cell/>
                     </row>
@@ -4308,7 +4308,7 @@
                     </row>
                     <row role="data">
                         <cell>Przetoczno</cell>
-                        <cell>1 mrc. </cell>
+                        <cell><seg xml:id="ASK91.v253" corresp="v253">1 mrc.</seg></cell>
                         <cell/>
                     </row>
                     <row role="data">
@@ -4317,7 +4317,7 @@
                         <cell/>
                     </row>
                     <row role="data">
-                        <cell>Valkenfalde </cell>
+                        <cell><seg xml:id="ASK91.v254" corresp="v254">Valkenfalde</seg></cell>
                         <cell>12 gr.</cell>
                         <cell/>
                     </row>
@@ -4335,7 +4335,7 @@
                         <cell/>
                     </row>
                     <row role="data">
-                        <cell>Bledzew </cell>
+                        <cell><seg xml:id="ASK91.v255" corresp="v255">Bledzew</seg></cell>
                         <cell>12 gr.</cell>
                         <cell/>
                     </row>
@@ -4346,11 +4346,11 @@
                     </row>
                     <row role="data">
                         <cell>Thyczina Gorunsko</cell>
-                        <cell>12 gr.</cell>
+                        <cell>12 gr.<anchor xml:id="ASK91.v256" corresp="v256"/></cell>
                         <cell/>
                     </row>
                     <row role="data">
-                        <cell>Sarnasziel </cell>
+                        <cell><seg xml:id="ASK91.v257" corresp="v257">Sarnasziel</seg></cell>
                         <cell>12 gr.</cell>
                         <cell/>
                     </row>
@@ -4360,7 +4360,7 @@
                         <cell/>
                     </row>
                     <row role="data">
-                        <cell>Bucowiecz </cell>
+                        <cell><seg xml:id="ASK91.v258" corresp="v258">Bucowiecz</seg></cell>
                         <cell>12 gr.</cell>
                         <cell/>
                     </row>
@@ -4432,7 +4432,7 @@
                         <cell>s-t</cell>
                     </row>
                     <row role="data">
-                        <cell>Vitus </cell>
+                        <cell><seg xml:id="ASK91.v259" corresp="v259">Vitus</seg></cell>
                         <cell>24 gr.</cell>
                         <cell>s-t</cell>
                     </row>
@@ -4448,7 +4448,7 @@
                 <p>Altaristae ibidem</p>
                 <table>
                     <row role="data">
-                        <cell>Stanislaus de Zerkow </cell>
+                        <cell>Stanislaus de <seg xml:id="ASK91.v260" corresp="v260">Zerkow</seg></cell>
                         <cell>9 gr.</cell>
                         <cell>s-t</cell>
                     </row>
@@ -4459,13 +4459,13 @@
                     </row>
                     <row role="data">
                         <cell>Lazarus altarista</cell>
-                        <cell>18 gr.</cell>
+                        <cell><seg xml:id="ASK91.v261" corresp="v261">18</seg> gr.</cell>
                         <cell>s-t</cell>
                     </row>
                     <row role="data">
                         <cell>Andreas Quaczka</cell>
                         <cell>8 gr.</cell>
-                        <cell>s-t</cell>
+                        <cell>s-t<anchor xml:id="ASK91.v262" corresp="v262"/></cell>
                     </row>
                 </table>
                 <pb n="74" xml:id="Y"/>
@@ -4529,7 +4529,7 @@
                         <cell>s-t</cell>
                     </row>
                     <row role="data">
-                        <cell>Albertus Bacca </cell>
+                        <cell>Albertus <seg xml:id="ASK91.v263" corresp="v263">Bacca</seg></cell>
                         <cell>7,5 gr.</cell>
                         <cell>s-t</cell>
                     </row>
@@ -4543,12 +4543,12 @@
                 <p>Debita in eisdem</p>
                 <table>
                     <row role="data">
-                        <cell>Praepositus in Srzoda</cell>
+                        <cell>Praepositus <seg xml:id="ASK91.v264" corresp="v264">in</seg> Srzoda</cell>
                         <cell>6 fl.</cell>
                         <cell/>
                     </row>
                     <row role="data">
-                        <cell>Custos Skrzetuski</cell>
+                        <cell>Custos <seg xml:id="ASK91.v265" corresp="v265">Skrzetuski</seg></cell>
                         <cell>24 gr.</cell>
                         <cell/>
                     </row>
@@ -4558,7 +4558,7 @@
                         <cell/>
                     </row>
                 </table>
-                <p>In altaristis debita </p>
+                <p>In altaristis <seg xml:id="ASK91.v266" corresp="v266">debita</seg></p>
                 <table>
                     <row role="data">
                         <cell>Michael Zieminski</cell>
@@ -7993,7 +7993,7 @@
                   <cell/>
                </row>
                <row role="data">
-                  <cell>Noscowo</cell>
+                  <cell><seg xml:id="ASK3.v202" corresp="v202">Noskowo</seg></cell>
                   <cell>24 gr.</cell>
                   <cell/>
                </row>
@@ -8023,7 +8023,7 @@
                   <cell/>
                </row>
             </table>
-            <p>In Cosmyn mansionarii tres Ioannes Klathka, Ioannes Buk, Baltazar vacant.</p>
+            <p>In Cosmyn mansionarii tres <seg xml:id="ASK3.v203" corresp="v203">Baltazar, Ioannes Klathka, Ioannes Buk</seg> vacant.</p>
             <pb n="341" xml:id=""/>
             <table>
                <row role="data">
@@ -8043,15 +8043,15 @@
                </row>
             </table>
             <p>Decanatus Vschovensis</p>
-            <p>Honestus Stephanus agricola civis Wschowensis nomine dominorum proconsulis et
+            <p>Honestus Stephanus agricola <seg xml:id="ASK3.v204" corresp="v204">civitatis</seg> Wschowensis nomine dominorum proconsulis et
                consulum civitatis Wschowensis marcas 4 peccuniarum solvit.</p>
             <p>Altaristae ibidem </p>
             <p>Altaristae quondam numero triginta tres in utraque ecclesia, tam parrochiali quam
-               Corporis Christi, quorum proventus proconsul cum consulibus pro se usurpaverunt et
+               Corporis <seg xml:id="ASK3.v205" corresp="v205">Christi fuerunt</seg>, quorum proventus proconsul cum <seg xml:id="ASK3.v206" corresp="v206">consulatu</seg> pro se usurpaverunt et
                nemo ex eis inhabitat. Haereticus pro plebano habetur.</p>
             <table>
                <row role="data">
-                  <cell>Swiecziechow </cell>
+                  <cell><seg xml:id="ASK3.v207" corresp="v207">Swieczichowo</seg></cell>
                   <cell>2 fl.</cell>
                   <cell>s-t</cell>
                </row>
@@ -8077,7 +8077,7 @@
                   <cell>s-t</cell>
                </row>
                <row role="data">
-                  <cell>Dęmbowa Lęka</cell>
+                  <cell><seg xml:id="ASK3.v208" corresp="v208">Dambowa</seg> Lęka</cell>
                   <cell>12 gr.</cell>
                   <cell>s-t</cell>
                </row>
@@ -8091,12 +8091,12 @@
                   <cell/>
                </row>
                <row role="data">
-                  <cell>Przidczina </cell>
+                  <cell><seg xml:id="ASK3.v209" corresp="v209">Prziczina</seg></cell>
                   <cell>12 gr.</cell>
                   <cell/>
                </row>
                <row role="data">
-                  <cell>Vilcowo Almanicale<anchor n="13" xml:id="note-13"/>
+                  <cell><seg xml:id="ASK3.v210" corresp="v210">Vilkowo</seg> <choice><corr>Almanicale</corr><sic>almanicale</sic></choice><anchor n="13" xml:id="note-13"/>
                   </cell>
                   <cell>12 gr.</cell>
                   <cell/>
@@ -8127,18 +8127,18 @@
                   <cell/>
                </row>
                <row role="data">
-                  <cell>Thilendorf cum Lisnia</cell>
+                  <cell><seg xml:id="ASK3.v211" corresp="v211">Tilemdorf</seg></cell>
                   <cell>24 gr.</cell>
                   <cell/>
                </row>
                <row role="data">
-                  <cell>Antiquum Claustrum<anchor n="14" xml:id="note-14"/>
+                  <cell>Antiquum <choice><corr>Claustrum</corr><sic>claustrum</sic></choice><anchor n="14" xml:id="note-14"/>
                   </cell>
                   <cell>12 gr.</cell>
                   <cell/>
                </row>
                <row role="data">
-                  <cell>Golancza Jezierczicze annexa eidem</cell>
+                  <cell>Golancza <seg xml:id="ASK3.v212" corresp="v212">Iezierzicze</seg> annexa eidem</cell>
                   <cell>12 gr.</cell>
                   <cell/>
                </row>
@@ -8161,13 +8161,18 @@
                   <cell/>
                </row>
                <row role="data">
-                  <cell>Bucowiecz prope Smigiel</cell>
+                  <cell><seg xml:id="ASK3.v213" corresp="v213">Bokowiecz</seg> prope Smigiel</cell>
+                  <cell>12 gr.</cell>
+                  <cell/>  
+               </row>
+               <row role="data">
+                  <cell> Lasoczicze <unclear>A</unclear></cell>
                   <cell>12 gr.</cell>
                   <cell/>
                </row>
                <row role="data">
-                  <cell> Lasoczicze. Altare ibidem</cell>
-                  <cell>12 gr.</cell>
+                  <cell>Altare ibidem</cell>
+                  <cell>12 gr.<anchor xml:id="ASK3.v214" corresp="v214" /></cell>
                   <cell/>
                </row>
                <row role="data">
@@ -8186,11 +8191,10 @@
                   <cell/>
                </row>
             </table>
-            <p>Decanatus Grodzicensis</p>
-            <p>Praepositura hospitalis in Kieblow</p>
+            <p>Decanatus Grodzicensis<seg xml:id="ASK3.v215" corresp="v215"/></p>
             <table>
                <row role="data">
-                  <cell>Ioannes praepositus </cell>
+                  <cell>Ioannes <seg xml:id="ASK3.v216" corresp="v216">praepositus hospitalis in Kieblow</seg></cell>
                   <cell>17 gr.</cell>
                   <cell>s-t</cell>
                </row>
@@ -8217,7 +8221,7 @@
                   <cell>s-t</cell>
                </row>
                <row role="data">
-                  <cell>Lącki </cell>
+                  <cell><seg xml:id="ASK3.v217" corresp="v217">Lęki</seg></cell>
                   <cell>20 gr.</cell>
                   <cell>s-t</cell>
                </row>
@@ -8240,35 +8244,27 @@
                   <cell/>
                </row>
                <row role="data">
-                  <cell>Coziczino </cell>
+                  <cell><seg xml:id="ASK3.v218" corresp="v218">Koziczino</seg></cell>
                   <cell>24 gr.</cell>
                   <cell>s-t</cell>
                </row>
-            </table>
-            <p>Sbassin Przeprostnia <expan>unit<ex>ae</ex>
-               </expan>
-            </p>
-            <table>
                <row role="data">
-                  <cell>Mathias praepositus in Sbassin</cell>
+                  <cell>Sbaszin Przeprostina <expan>unit<ex>a</ex></expan>. Praepositus mansionarii<anchor xml:id="ASK3.v219" corresp="v219"/></cell>
                   <cell>2 fl.</cell>
                   <cell>s-t</cell>
                </row>
                <row role="data">
                   <cell>Praepositus ibidem Sancti Spiritus</cell>
                   <cell>24 gr.</cell>
-                  <cell>s-t</cell>
+                  <cell>s-t<anchor xml:id="ASK3.v220" corresp="v220"/></cell>
                </row>
-            </table>
-
-            <table>
                <row role="data">
                   <cell>Opalienicza</cell>
                   <cell>1 mrc.</cell>
                   <cell>s-t</cell>
                </row>
                <row role="data">
-                  <cell>Docowo </cell>
+                  <cell><seg xml:id="ASK3.v221" corresp="v221">Dokowo</seg></cell>
                   <cell>24 gr.</cell>
                   <cell>s-t</cell>
                </row>
@@ -8304,12 +8300,12 @@
             <pb n="343" xml:id=""/>
             <table>
                <row role="data">
-                  <cell>Altaristae duo per grossos 17</cell>
-                  <cell>gr. 34</cell>
+                  <cell>Altaristae duo per <seg xml:id="ASK3.v222" corresp="v222">17 gr.</seg></cell>
+                  <cell><seg xml:id="ASK3.v223" corresp="v223">34 gr.</seg></cell>
                   <cell/>
                </row>
                <row role="data">
-                  <cell>Colsko </cell>
+                  <cell><seg xml:id="ASK3.v224" corresp="v224">Kolsko</seg></cell>
                   <cell>12 gr.</cell>
                   <cell/>
                </row>
@@ -8324,7 +8320,7 @@
                   <cell/>
                </row>
                <row role="data">
-                  <cell>In Sbassin quinque mansionariae per 1 fertonem</cell>
+                  <cell>In Sbassin quinque mansionariae per <seg xml:id="ASK3.v225" corresp="v225">12 grossos</seg></cell>
                   <cell/>
                   <cell/>
                </row>
@@ -8344,12 +8340,12 @@
                   <cell/>
                </row>
                <row role="data">
-                  <cell>Bucowiecz prope Grodzisko</cell>
+                  <cell><seg xml:id="ASK3.v226" corresp="v226">Bukowiecz</seg> prope Grodzisko</cell>
                   <cell>24 gr.</cell>
                   <cell/>
                </row>
                <row role="data">
-                  <cell>In Opalenicza duo altaria per 15 grossos</cell>
+                  <cell>In <seg xml:id="ASK3.v227" corresp="v227">Opalienicza</seg> duo altaria per 15 grossos</cell>
                   <cell/>
                   <cell/>
                </row>
@@ -8387,14 +8383,24 @@
                   <cell/>
                </row>
                <row role="data">
-                  <cell>Raconawicze </cell>
+                  <cell><seg xml:id="ASK3.v228" corresp="v228">Rakonawicze</seg></cell>
                   <cell>12 gr.</cell>
                   <cell/>
                </row>
+               <note place="left-margin">Dominus castellanus Miedzirzecensis </note>
                <row role="data">
-                  <cell>Grodzisko parochialis haereticorum. Quinque altaria. Praepositura. Haec
-                     omnia haereticus occupavit dominus castellanus Miedzirzecensis</cell>
-                  <cell>2 mrc.</cell>
+                  <cell>Grodzisko parochialis haereticorum</cell>
+                  <cell>2 </cell>
+                  <cell>mrc.</cell>
+               </row>
+               <row>
+                  <cell>Quinque altaria     Haec omnia haereticus occupavit</cell>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>Praepositura Sancti Spiritus<anchor xml:id="ASK3.v229" corresp="v229"/></cell>
+                  <cell/>
                   <cell/>
                </row>
             </table>
@@ -8412,7 +8418,7 @@
                   <cell>s-t</cell>
                </row>
                <row role="data">
-                  <cell>Lwovek </cell>
+                  <cell><seg xml:id="ASK3.v230" corresp="v230">Lwowko praepositus</seg></cell>
                   <cell>2 fl.</cell>
                   <cell>s-t</cell>
                </row>
@@ -8450,7 +8456,7 @@
                   <cell>s-t</cell>
                </row>
                <row role="data">
-                  <cell>Praepositus Sanctae Trinitatis </cell>
+                  <cell>Praepositus Sanctae <seg xml:id="ASK3.v231" corresp="v231">Trinitatis a praepositura</seg></cell>
                   <cell>24 gr.</cell>
                   <cell>s-t</cell>
                </row>
@@ -8462,8 +8468,8 @@
                   <cell>s-t</cell>
                </row>
                <row role="data">
-                  <cell>Chrzibsko. Missalia, maldrata, ab annis quatuor, de villa Mosczieiewo domini
-                     Lwowski, Niemierzewo domini Chelmski, Milno domini Ioannis Milienski, Isdebno
+                  <cell>Chrzibsko. Missalia, maldrata, ab annis quatuor, de <seg xml:id="ASK3.v232" corresp="v232">villis</seg> Mosczieiewo domini
+                     Lwowski, Niemierzewo domini Chelmski, <seg xml:id="ASK3.v233" corresp="v233">Milyno</seg> domini Ioannis Milienski, Isdebno
                      domini Szlopanowski, Iablonowo domini Dziewierzewski, Kykowo dominae Kikowska,
                      Srzodka domini Pawlowski, molendinatores, in omnibus istis villis, per haeredes
                      istarum villarum solvere prohibentur</cell>
@@ -8489,8 +8495,8 @@
                   <cell>s-t</cell>
                </row>
             </table>
-            <p>Altare ibidem in Vronki. Martinus a Stobnicza corporali iuramento praestito deposuit
-               census trium marcarum per dominum Bucowieczki ab annis septem occupatum esse nec
+            <p>Altare ibidem<seg xml:id="ASK3.v234" corresp="v234"/>. Martinus a <seg xml:id="ASK3.v235" corresp="v235">Stobnicza altarista</seg> corporali iuramento praestito deposuit
+               census trium marcarum per dominum <seg xml:id="ASK3.v236" corresp="v236">Bukowieczki</seg> ab annis septem occupatum esse nec
                      <expan>quicqu<ex>am?</ex>
                </expan> ei persolvitur.</p>
             <table>
@@ -8500,7 +8506,7 @@
                   <cell>s-t</cell>
                </row>
                <row role="data">
-                  <cell>Buk</cell>
+                  <cell><seg xml:id="ASK3.v237" corresp="v237">Buk plebanus</seg></cell>
                   <cell>4 fl.</cell>
                   <cell>s-t</cell>
                </row>
@@ -8533,7 +8539,7 @@
                   <cell>s-t</cell>
                </row>
                <row role="data">
-                  <cell>Lubosz </cell>
+                  <cell><seg xml:id="ASK3.v238" corresp="v238">Lubasz</seg></cell>
                   <cell>24 gr.</cell>
                   <cell>s-t</cell>
                </row>
@@ -8547,7 +8553,7 @@
                   <cell/>
                </row>
                <row role="data">
-                  <cell>In Lwovek altare post Przetoczki vacat</cell>
+                  <cell>In Lwovek altare post <seg xml:id="ASK3.v239" corresp="v239">Przitoczki</seg> vacat</cell>
                   <cell/>
                   <cell/>
                </row>
@@ -8575,7 +8581,7 @@
 
             <table>
                <row role="data">
-                  <cell>Zaiaczkowo </cell>
+                  <cell><seg xml:id="ASK3.v240" corresp="v240">Zaieczkowo</seg></cell>
                   <cell>24 gr.</cell>
                   <cell/>
                </row>
@@ -8583,12 +8589,12 @@
             <p>Parochiales per haereticos occupatae</p>
             <table>
                <row role="data">
-                  <cell>Czeracz domini Jancowski</cell>
+                  <cell>Czeracz<seg xml:id="ASK3.v241" corresp="v241"/></cell>
                   <cell>2 fl.</cell>
                   <cell/>
                </row>
                <row role="data">
-                  <cell>Sirakow oppidum per dominum Procopium Broniewski haereticus institutus </cell>
+                  <cell>Sirakow oppidum<seg xml:id="ASK3.v242" corresp="v242"/></cell>
                   <cell>2 fl.</cell>
                   <cell/>
                </row>
@@ -8605,13 +8611,32 @@
                   <cell/>
                </row>
                <row role="data">
-                  <cell>Collegium Ostrorog</cell>
+                  <cell>Collegium <seg xml:id="ASK3.v243" corresp="v243">Ostrorog praepositus</seg></cell>
                   <cell>24 gr.</cell>
                   <cell/>
                </row>
                <row role="data">
-                  <cell>Quinque mansionariae per grossos 24</cell>
+                  <cell>Quinque mansionariae per <seg xml:id="ASK3.v244" corresp="v244"><del>14</del>24 gr.</seg></cell>
                   <cell>4 fl.</cell>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell>Lewicze Ioannis Rosbiczki</cell>
+                  <cell>12 gr.</cell>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell>Pniewy per dominum <seg xml:id="ASK3.v246" corresp="v246">palatinidem Brzestensem <expan>Sthe<ex>phanum</ex></expan></seg></cell>
+                  <cell>2 fl.</cell>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell><seg xml:id="ASK3.v247" corresp="v247">Altaristae tres per 15 gr.</seg></cell>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell>Praepositura Sancti Spiritus</cell>
+                  <cell>24 gr.</cell>
                   <cell/>
                </row>
                <row role="data">
@@ -8621,33 +8646,14 @@
                </row>
                <row role="data">
                   <cell>Quilcz per haeredes desolata</cell>
-                  <cell>2 fl.</cell>
-                  <cell/>
-               </row>
-               <row role="data">
-                  <cell>Lewicze Ioannis Rosbiczki</cell>
-                  <cell>12 gr.</cell>
-                  <cell/>
-               </row>
-               <row role="data">
-                  <cell>Pniewy per dominum Sthephanum palatinum Brzestensem</cell>
-                  <cell>2 fl.</cell>
-                  <cell/>
-               </row>
-               <row role="data">
-                  <cell>Tres altaristae per grossos 15</cell>
-                  <cell/>
-               </row>
-               <row role="data">
-                  <cell>Praepositura Sancti Spiritus</cell>
-                  <cell>24 gr.</cell>
+                  <cell>2 fl.<anchor xml:id="ASK3.v245" corresp="v245"/></cell>
                   <cell/>
                </row>
             </table>
             <pb n="345  " xml:id=""/>
             <table>
                <row role="data">
-                  <cell>Miedzichod per dominum Iacobum Ostrorog</cell>
+                  <cell>Miedzichod per dominum<seg xml:id="ASK3.v248" corresp="v248"> </seg>Ostrorog</cell>
                   <cell>24 gr.</cell>
                   <cell/>
                </row>
@@ -8670,9 +8676,9 @@
                   <cell>s-t</cell>
                </row>
                <row role="data">
-                  <cell>Trcziel. Plebanus duodecim grossos solvit, grossi 12 dimissi. Idem plebanus
+                  <cell>Trcziel. Plebanus<seg xml:id="ASK3.v249" corresp="v249"> </seg>grossi 12 dimissi. Idem plebanus
                      medio corporali iuramento praestito dixit, quod decimam de praedio Trzcziel,
-                     missalia de molendino Mitrega, ac decimam de Miloslaw domini Lwosczi capitaneus
+                     missalia de molendino Mitrega, ac decimam de Miloslaw domini <seg xml:id="ASK3.v250" corresp="v250">Lwowsczi</seg> capitaneus
                      Miedzirzecensis et castellana Santocensis pro se usurpant</cell>
                   <cell>12 gr.</cell>
                   <cell>s-t</cell>
@@ -8707,13 +8713,13 @@
                   <cell/>
                </row>
                <row role="data">
-                  <cell>Cursko</cell>
-                  <cell>vacat, per fertonem</cell>
+                  <cell><seg xml:id="ASK3.v251" corresp="v251">Kursko</seg></cell>
+                  <cell>12 gr.</cell>
                   <cell/>
                </row>
                <row role="data">
                   <cell>Templewo</cell>
-                  <cell/>
+                  <cell>12 gr.<anchor xml:id="ASK3.v252" corresp="v252"/></cell>
                   <cell/>
                </row>
                <row role="data">
@@ -8738,7 +8744,7 @@
                </row>
                <row role="data">
                   <cell>Przetoczno</cell>
-                  <cell>1 mrc. </cell>
+                  <cell><seg xml:id="ASK3.v253" corresp="v253"><del>12 gr.</del> mrc.</seg></cell>
                   <cell/>
                </row>
                <row role="data">
@@ -8747,7 +8753,7 @@
                   <cell/>
                </row>
                <row role="data">
-                  <cell>Valkenfalde </cell>
+                  <cell><seg xml:id="ASK3.v254" corresp="v254">Valkiemvalde</seg></cell>
                   <cell>12 gr.</cell>
                   <cell/>
                </row>
@@ -8762,7 +8768,7 @@
                   <cell/>
                </row>
                <row role="data">
-                  <cell>Bledzew </cell>
+                  <cell><seg xml:id="ASK3.v255" corresp="v255">Bledzow</seg></cell>
                   <cell>12 gr.</cell>
                   <cell/>
                </row>
@@ -8772,12 +8778,17 @@
                   <cell/>
                </row>
                <row role="data">
-                  <cell>Thyczina Gorunsko</cell>
+                  <cell>Thyczina</cell>
                   <cell>12 gr.</cell>
                   <cell/>
                </row>
                <row role="data">
-                  <cell>Sarnasziel </cell>
+                  <cell>Gorunsko</cell>
+                  <cell>12 gr.<anchor xml:id="ASK3.v256" corresp="v256"/></cell>
+                  <cell/>
+               </row>
+               <row role="data">
+                  <cell><seg xml:id="ASK3.v257" corresp="v257">Czarnimysl</seg></cell>
                   <cell>12 gr.</cell>
                   <cell/>
                </row>
@@ -8790,8 +8801,8 @@
             <pb n="346" xml:id=""/>
             <table>
                <row role="data">
-                  <cell>Bucowiecz </cell>
-                  <cell>12 gr.</cell>
+                  <cell><seg xml:id="ASK3.v258" corresp="v258">Bukowiecz</seg></cell>
+                  <cell>12 gr.</cell>  
                   <cell/>
                </row>
                <row role="data">
@@ -8858,7 +8869,7 @@
                   <cell>s-t</cell>
                </row>
                <row role="data">
-                  <cell>Vitus </cell>
+                  <cell><seg xml:id="ASK3.v259" corresp="v259">Vitus praedicator</seg></cell>
                   <cell>24 gr.</cell>
                   <cell>s-t</cell>
                </row>
@@ -8872,7 +8883,7 @@
             <p>Altaristae ibidem</p>
             <table>
                <row role="data">
-                  <cell>Stanislaus de Zerkow </cell>
+                  <cell>Stanislaus de <seg xml:id="ASK3.v260" corresp="v260">Zirkow</seg></cell>
                   <cell>9 gr.</cell>
                   <cell>s-t</cell>
                </row>
@@ -8883,12 +8894,7 @@
                </row>
                <row role="data">
                   <cell>Lazarus altarista</cell>
-                  <cell>18 gr.</cell>
-                  <cell>s-t</cell>
-               </row>
-               <row role="data">
-                  <cell>Andreas Quaczka</cell>
-                  <cell>8 gr.</cell>
+                  <cell><seg xml:id="ASK3.v261" corresp="v261">15</seg> gr.</cell>
                   <cell>s-t</cell>
                </row>
                <row role="data">
@@ -8900,6 +8906,11 @@
                   <cell>Laurentius Cziganek</cell>
                   <cell>30 gr.</cell>
                   <cell>s-t</cell>
+               </row>
+               <row role="data">
+                  <cell>Andreas Quaczka</cell>
+                  <cell>8 gr.</cell>
+                  <cell>s-t<anchor xml:id="ASK3.v262" corresp="v262"/></cell>
                </row>
                <row role="data">
                   <cell>Iacobus a Srzoda</cell>
@@ -8947,7 +8958,7 @@
                   <cell>s-t</cell>
                </row>
                <row role="data">
-                  <cell>Albertus Bacca </cell>
+                  <cell>Albertus <seg xml:id="ASK3.v263" corresp="v263">Bacca:</seg></cell>
                   <cell>7,5 gr.</cell>
                   <cell>s-t</cell>
                </row>
@@ -8961,12 +8972,12 @@
             <p>Debita in eisdem</p>
             <table>
                <row role="data">
-                  <cell>Praepositus in Srzoda</cell>
+                  <cell>Praepositus <seg xml:id="ASK3.v264" corresp="v264">de</seg> Srzoda</cell>
                   <cell>6 fl.</cell>
                   <cell/>
                </row>
                <row role="data">
-                  <cell>Custos Skrzetuski</cell>
+                  <cell>Custos<seg xml:id="ASK3.v265" corresp="v265"/></cell>
                   <cell>24 gr.</cell>
                   <cell/>
                </row>
@@ -8976,7 +8987,7 @@
                   <cell/>
                </row>
             </table>
-            <p>In altaristis debita </p>
+            <p>In altaristis<seg xml:id="ASK3.v266" corresp="v266"/></p>
             <table>
                <row role="data">
                   <cell>Michael Zieminski</cell>
@@ -8996,33 +9007,21 @@
                   <cell>32 fl.</cell>
                   <cell/>
                </row>
-            </table>
-
-            <table>
                <row role="data">
                   <cell>Przemethensis</cell>
                   <cell>12 fl.</cell>
                   <cell>s-t</cell>
                </row>
-            </table>
-
-            <table>
                <row role="data">
                   <cell>Obrensis</cell>
                   <cell>8 fl.</cell>
                   <cell>s-t</cell>
                </row>
-            </table>
-
-            <table>
                <row role="data">
                   <cell>Bledzowiensis</cell>
                   <cell>6 fl.</cell>
                   <cell>s-t</cell>
                </row>
-            </table>
-
-            <table>
                <row role="data">
                   <cell>Paradisiensis</cell>
                   <cell>10 fl.</cell>
