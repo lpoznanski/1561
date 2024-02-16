@@ -4862,10 +4862,8 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
-                <seg xml:id="ASK91.141" corresp="v141">
-                    <p>Gostin</p>
+                    <p>Gostin<anchor xml:id="ASK91.141" corresp="v141"/></p>
                     <p>Altaristae ibidem in Gostin</p>
-                </seg>
                 <table>
                     <row role="data">
                         <cell>Bartholomaeus Pniewita</cell>
@@ -4977,10 +4975,8 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
-                <seg xml:id="ASK91.v147" corresp="v147">
-                    <p>Poniecz</p>
+                    <p><seg xml:id="ASK91.v147" corresp="v147">Poniecz</seg></p>
                     <p>Altaristae ibidem</p>
-                </seg>
                 <table>
                     <row role="data">
                         <cell>Blasius praedicator</cell>
@@ -5579,10 +5575,8 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
-                <seg xml:id="ASK91.v174" corresp="v174">
-                    <p>Smigiel</p>
+                    <p><seg xml:id="ASK91.v174" corresp="v174">Smigiel</seg></p>
                     <p>Altaristae ibidem</p>
-                </seg>
                 <table>
                     <row role="data">
                         <cell>Ioannes Iwan</cell>
@@ -6391,10 +6385,8 @@
                     </row>
                 </table>
                 <pb n="61v" facs="FFimg:ask_91%2F0061_v.jpg"/>
-                <seg xml:id="ASK91.v216" corresp="v216">
                     <p>Decanatus Grodzicensis</p>
-                    <p>Praepositura hospitalis in Kieblow</p>
-                </seg>
+                <p>Praepositura hospitalis in Kieblow<anchor xml:id="ASK91.v216" corresp="v216" n="v216"/></p>
                 <table>
                     <row role="data">
                         <cell>Ioannes <seg xml:id="ASK91.v217" corresp="v217">praepositus</seg>
@@ -6457,11 +6449,11 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
-                <seg xml:id="ASK91.v220" corresp="v220" type="order">
-                    <p>Sbassin Przeprostnia <expan>unit<ex>ae</ex>
+                <p><seg xml:id="ASK91.v220" corresp="v220" type="order">
+                    Sbassin Przeprostnia <expan>unit<ex>ae</ex>
                         </expan>
-                    </p>
-                </seg>
+                    </seg>
+                </p>
                 <table>
                     <row role="data">
                         <cell>
@@ -8681,7 +8673,7 @@
                     </row>
                     <row role="data">
                         <cell>
-                            <seg xml:id="ASK3.v84" corresp="v83">Siedliecz plebanus</seg>
+                            <seg xml:id="ASK3.v83" corresp="v83">Siedliecz plebanus</seg>
                         </cell>
                         <cell>24 gr.</cell>
                         <cell>s-t</cell>
@@ -8733,7 +8725,7 @@
                 <table>
                     <row role="data">
                         <cell>
-                            <seg xml:id="ASK91.v89" corresp="v89" type="order">Splawie</seg>
+                            <seg xml:id="ASK3.v89" corresp="v89" type="order">Splawie</seg>
                         </cell>
                         <cell>24 gr.</cell>
                         <cell>s-t</cell>
@@ -9137,7 +9129,7 @@
                             Szlomowo et Zaczulthowo, per reverendissimum olim dominum episcopum
                             Cracoviensem Zebrzidowski marcas tres suppressas esse</cell>
                         <cell>
-                            <seg xml:id="ASK91.v103" corresp="v103" type="order">17 gr.</seg>
+                            <seg xml:id="ASK3.v103" corresp="v103" type="order">17 gr.</seg>
                         </cell>
                         <cell>non soluti</cell>
                     </row>
@@ -9146,7 +9138,7 @@
                             ecclesia desolata una cum proventibus, allodiumque in cimiterio est
                             aedificatum</cell>
                         <cell>
-                            <seg xml:id="ASK91.v104" corresp="v104" type="order">13 gr.</seg>
+                            <seg xml:id="ASK3.v104" corresp="v104" type="order">13 gr.</seg>
                         </cell>
                         <cell>non soluti</cell>
                     </row>
@@ -9234,7 +9226,7 @@
                         <cell/>
                     </row>
                     <row role="data">
-                        <cell>Mathias Napora in loco Ioannis <seg xml:id="ASK3.114" corresp="v113"
+                        <cell>Mathias Napora in loco Ioannis <seg xml:id="ASK3.113" corresp="v113"
                                 >Iakierth</seg>
                         </cell>
                         <cell>24 gr.</cell>
@@ -9254,7 +9246,7 @@
                 <table>
                     <row role="data">
                         <cell>
-                            <seg xml:id="ASK91.114" corresp="v114">Praepositus Sancti Spiritus extra
+                            <seg xml:id="ASK3.114" corresp="v114">Praepositus Sancti Spiritus extra
                                 Szamothuly. Grossi sex sunt ei dimissi, quia dominus Biechowski
                                 prohibuit suis subditis in villa Kampa fertones ab annis octo
                                 persolvere, licet excommunicantur</seg>
@@ -9733,7 +9725,7 @@
                     </row>
                     <row role="data">
                         <cell>
-                            <seg xml:id="ASK91.133" corresp="v133" type="order">Ioannes Brodnicza. Census apud
+                            <seg xml:id="ASK3.133" corresp="v133" type="order">Ioannes Brodnicza. Census apud
                                 dominum castellanum Callisiensem in Jutrosin occupati</seg>
                         </cell>
                         <cell>15 gr.<anchor xml:id="ASK3.v134" corresp="v134" n="v134"/>
@@ -9807,8 +9799,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
-                <p>
-                    <seg xml:id="ASK3.141" corresp="v141">Altaristae ibidem in Gostin</seg>
+                <p>Altaristae ibidem in Gostin<anchor xml:id="ASK3.141" corresp="v141"/>
                 </p>
                 <table>
                     <row role="data">
@@ -9921,7 +9912,7 @@
                     </row>
                 </table>
                 <p>
-                    <seg xml:id="ASK3.v147" corresp="v147">Altaristae ibidem in Poniecz</seg>
+                    Altaristae ibidem <seg xml:id="ASK3.v147" corresp="v147">in Poniecz</seg>
                 </p>
                 <table>
                     <row role="data">
@@ -10167,7 +10158,7 @@
                         <cell>17 gr.</cell>
                         <cell/>
                     </row>
-                    <pb n="335" xml:id=""/>
+                    <pb n="335v" facs="FFimg:ask_3%2F335v.jpg"/>
                     <row role="data">
                         <cell>
                             <seg xml:id="ASK3.v158" corresp="v158" type="order">Skorosewicze</seg>
@@ -10329,7 +10320,7 @@
                     </row>
                     <row role="data">
                         <cell>
-                            <seg xml:id="ASK91.v169" corresp="v169">Martinus</seg> a
+                            <seg xml:id="ASK3.v169" corresp="v169">Martinus</seg> a
                             Zelanczin</cell>
                         <cell>30 gr.</cell>
                         <cell>s-t</cell>
@@ -10414,7 +10405,7 @@
                     <row role="data">
                         <cell>Gorca <choice><corr>Monachorum</corr><sic>monarchorum</sic>
                             </choice>
-                            <anchor n="12" corresp="note-12"/>
+                            <anchor n="10" corresp="note-10"/>
                         </cell>
                         <cell>20 gr.</cell>
                         <cell>s-t</cell>
@@ -10496,7 +10487,7 @@
                 </table>
                 <pb n="337v" facs="FFimg:ask_3%2F337v.jpg"/>
                 <p>
-                    <seg xml:id="ASK3.v174" corresp="v174">Altaristae ibidem in Smigiel</seg>
+                    Altaristae ibidem <seg xml:id="ASK3.v174" corresp="v174">in Smigiel</seg>
                 </p>
                 <table>
                     <row role="data">
@@ -10685,7 +10676,7 @@
                     </row>
                     <row role="data">
                         <cell>
-                            <seg xml:id="ASK91.v180" corresp="v180">Morkowo</seg>
+                            <seg xml:id="ASK3.v180" corresp="v180">Morkowo</seg>
                         </cell>
                         <cell>12 gr.</cell>
                         <cell/>
@@ -10976,7 +10967,7 @@
                     </row>
                 </table>
                 <p>
-                    <seg xml:id="ASK91.v198" corresp="v198">Praepositura</seg> Sancti Spiritus ante
+                    <seg xml:id="ASK3.v198" corresp="v198">Praepositura</seg> Sancti Spiritus ante
                     Coszmin</p>
                 <table>
                     <row role="data">
@@ -11248,7 +11239,7 @@
                                 <corr>Claustrum</corr>
                                 <sic>claustrum</sic>
                             </choice>
-                            <anchor n="12" xml:id="note-12"/>
+                            <anchor n="12" corresp="note-12"/>
                         </cell>
                         <cell>12 gr.</cell>
                         <cell/>
@@ -11313,7 +11304,7 @@
                     </row>
                 </table>
                 <p>
-                    <seg xml:id="ASK3.v216" corresp="v216">Decanatus Grodzicensis</seg>
+                    Decanatus Grodzicensis<anchor xml:id="ASK3.v216" corresp="v216" n="v216"/>
                 </p>
                 <table>
                     <row role="data">
@@ -12116,7 +12107,7 @@
                     </row>
                     <row role="data">
                         <cell>
-                            <seg xml:id="ASK91.v264" corresp="v264" type="order">Andreas
+                            <seg xml:id="ASK3.v264" corresp="v264" type="order">Andreas
                                 Quaczka</seg>
                         </cell>
                         <cell>8 gr.</cell>
