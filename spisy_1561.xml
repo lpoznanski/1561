@@ -7428,8 +7428,8 @@
                         <cell>4 fl.</cell>
                         <cell>s-t</cell>
                     </row>
-                    <note place="left-margin">Archidiaconi</note>
                     <row role="data">
+                        <cell rows="2">Archidiaconi</cell>
                         <cell>Srzemensis</cell>
                         <cell>2 fl.</cell>
                         <cell>s-t</cell>
@@ -7774,7 +7774,6 @@
                         <cell>s-t
                         </cell>
                     </row>
-                    <note place="right"/>
                     <row role="data">
                         <cell>Albertus Zakrzewsky</cell>
                         <cell>
@@ -8311,8 +8310,8 @@
                         <cell>15 gr. </cell>
                         <cell/>
                     </row>
-                    <note place="left-margin">Scriptus inter percepta</note>
                     <row role="data">
+                        <cell>Scriptus inter percepta</cell>
                         <cell>
                             <del>Praedicator almanorum</del>
                         </cell>
@@ -11537,8 +11536,8 @@
                         <cell>12 gr.</cell>
                         <cell/>
                     </row>
-                    <note place="left-margin">Dominus castellanus Miedzirzecensis </note>
                     <row role="data">
+                        <cell rows="3">Dominus castellanus Miedzirzecensis </cell>
                         <cell>Grodzisko parochialis haereticorum</cell>
                         <cell>2 </cell>
                         <cell>mrc.</cell>
@@ -11983,7 +11982,7 @@
                     </row>
                     <row role="data">
                         <cell>Gorunsko</cell>
-                        <cell>12 gr.<anchor xml:id="ASK3.v258" corresp="v258"/>
+                        <cell>12 gr.<anchor xml:id="ASK3.v258" corresp="v258" n="v258"/>
                         </cell>
                         <cell/>
                     </row>
