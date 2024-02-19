@@ -17,28 +17,28 @@
             </editionStmt>
             <publicationStmt>
                 <!-- opis publikacji - poniżej przykład -->
-                <publisher>Laboratorium Humanistycznych Danych Badawczych?</publisher>
-                <pubPlace>Lublin</pubPlace>
+                <publisher>Instytut Historii PAN</publisher>
+                <pubPlace>Warszawa</pubPlace>
                 <availability>
                     <licence>CC...</licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
                 <!-- Do uzupełnienia opis rękopisów-->
-                <msDesc n="1" type="">
+                <msDesc n="1" type="original">
                     <msIdentifier xml:id="W.ASK91" xml:lang="la">
-                        <repository>ASK</repository>
+                        <repository>AGAD ASK</repository>
                         <idno>1/7/0/3/91</idno>
-                    </msIdentifier>
-                </msDesc>
-                <msDesc n="2" type="">
-                    <msIdentifier xml:id="W.ASK3" xml:lang="la">
-                        <repository/>
-                        <idno/>
                     </msIdentifier>
                     <p>rozmiar: 220 mm x 330 mm </p>
                     <p>k. 78 oraz 5 nlb (na początku oraz po k. 23, 64, 78).</p>
                     <p>karty niezapisane: 20v, 28, 35v, 45, 52, 58v, 61v, 69v, 72v, 78.</p>
+                </msDesc>
+                <msDesc n="2" type="original">
+                    <msIdentifier xml:id="W.ASK3" xml:lang="la">
+                        <repository>AGAD ASK</repository>
+                        <idno>1/7/0/3/3</idno>
+                    </msIdentifier>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -11034,7 +11034,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
-                <pb n="340v " facs="FFimg:ask_3%2F340v .jpg"/>
+                <pb n="340v " facs="FFimg:ask_3%2F340v.jpg"/>
                 <table>
                     <row role="data">
                         <cell>Potarzicza</cell>
@@ -11825,7 +11825,7 @@
                         <cell/>
                     </row>
                 </table>
-                <pb n="345  " facs="FFimg:ask_3%2F345  .jpg"/>
+                <pb n="345" facs="FFimg:ask_3%2F345.jpg"/>
                 <table>
                     <row role="data">
                         <cell>Miedzichod <seg xml:id="ASK3.v250" corresp="v250">per dominum
