@@ -2424,12 +2424,14 @@
     <text>
         <body>
             <div xml:id="ASK91">
+                <milestone n="1" facs="FFimg:ask_91!0001_r.jpg" xml:id="ask91-1"/>
                 <pb n="1" facs="FFimg:ask_91!0001_r.jpg"/>
                 <p>Regestrum contributionis duplae in totum clerum <seg xml:id="ASK91.v1" corresp="v1" type="order">decretae</seg> pro serenissimo principe domino domino
                     <rs type="person" ref="Q207">Sigismundo Augusto</rs> rege Poloniae anno Domini millesimo quingentesimo sexagesimo
                     primo in synodo provinciali Varssouiensi, cuius contributionis exactor deputatus
                     venerabilis dominus <rs type="person" ref="Q208">Michael <seg xml:id="ASK91.v2" corresp="v2">Skzetussewski</seg>
                     </rs> <rs type="institution" ref="Q929">canonicus Posnaniensis</rs>.</p>
+                <milestone n="1v" facs="FFimg:ask_91!0001_v.jpg" xml:id="ask91-2"/>
                 <pb n="1v" facs="FFimg:ask_91!0001_v.jpg"/>
                 <p>Decanatus rurales</p>
                 <p>
@@ -2471,6 +2473,7 @@
                 <p>
                     <rs type="place" ref="Q2911">Miedzirzecensis</rs>
                 </p>
+                <milestone n="2" facs="FFimg:ask_91!0002_r.jpg" xml:id="ask91-3"/>
                 <pb n="2" facs="FFimg:ask_91!0002_r.jpg"/>
                 <p>Praelaturae et canonicatus <rs type="institution" ref="Q934">ecclesiae cathedralis Posnaniensis</rs>.</p>
                 <p>Reverendissimus in Christo pater et dominus dominus <rs type="person" ref="Q209">Andreas Czarnkowski</rs> Dei
@@ -2479,6 +2482,7 @@
                     et sui thesaurarii solvit et numeravit in moneta per grossos triginta
                             <expan>computan<ex>da</ex>
                     </expan> florenos ducentos.</p>
+                <milestone n="2v" facs="FFimg:ask_91!0002_v.jpg" xml:id="ask91-4"/>
                 <pb n="2v" facs="FFimg:ask_91!0002_v.jpg"/>
                 <table>
                     <row role="label">
@@ -2526,6 +2530,7 @@
                         <cell>argenti ad mrc. 4,5</cell>
                     </row>
                 </table>
+                <milestone n="3" facs="FFimg:ask_91!0003_r.jpg" xml:id="ask91-5"/>
                 <pb n="3" facs="FFimg:ask_91!0003_r.jpg"/>
                 <table>
                     <row role="label">
@@ -2572,6 +2577,7 @@
                         <cell>argenti septem</cell>
                     </row>
                 </table>
+                <milestone n="3v" facs="FFimg:ask_91!0003_v.jpg" xml:id="ask91-6"/>
                 <pb n="3v" facs="FFimg:ask_91!0003_v.jpg"/>
                 <table>
                     <row role="label">
@@ -2624,6 +2630,7 @@
                         <cell>argenti mrc. 1,5</cell>
                     </row>
                 </table>
+                <milestone n="4" facs="FFimg:ask_91!0004_r.jpg" xml:id="ask91-7"/>
                 <pb n="4" facs="FFimg:ask_91!0004_r.jpg"/>
                 <table>
                     <row role="data">
@@ -2661,6 +2668,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="4v" facs="FFimg:ask_91!0004_v.jpg" xml:id="ask91-8"/>
                 <pb n="4v" facs="FFimg:ask_91!0004_v.jpg"/>
                 <table>
                     <row role="data">
@@ -2700,6 +2708,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="5" facs="FFimg:ask_91!0005_r.jpg" xml:id="ask91-9"/>
                 <pb n="5" facs="FFimg:ask_91!0005_r.jpg"/>
                 <table>
                     <row role="data">
@@ -2743,6 +2752,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="5v" facs="FFimg:ask_91!0005_v.jpg" xml:id="ask91-10"/>
                 <pb n="5v" facs="FFimg:ask_91!0005_v.jpg"/>
                 <table>
                     <row role="data">
@@ -2789,6 +2799,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="6" facs="FFimg:ask_91!0006_r.jpg" xml:id="ask91-11"/>
                 <pb n="6" facs="FFimg:ask_91!0006_r.jpg"/>
                 <table>
                     <row role="data">
@@ -2827,6 +2838,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="6v" facs="FFimg:ask_91!0006_v.jpg" xml:id="ask91-12"/>
                 <pb n="6v" facs="FFimg:ask_91!0006_v.jpg"/>
                 <table>
                     <row role="data">
@@ -2860,6 +2872,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="7" facs="FFimg:ask_91!0007_r.jpg" xml:id="ask91-13"/>
                 <pb n="7" facs="FFimg:ask_91!0007_r.jpg"/>
                 <p>Altaristae ecclesiae cathedralis Posnaniensis</p>
                 <table>
@@ -2888,6 +2901,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="7v" facs="FFimg:ask_91!0007_v.jpg" xml:id="ask91-14"/>
                 <pb n="7v" facs="FFimg:ask_91!0007_v.jpg"/>
                 <table>
                     <row role="data">
@@ -2942,6 +2956,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="8" facs="FFimg:ask_91!0008_r.jpg" xml:id="ask91-15"/>
                 <pb n="8" facs="FFimg:ask_91!0008_r.jpg"/>
                 <table>
                     <row role="data">
@@ -2993,6 +3008,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="8v" facs="FFimg:ask_91!0008_v.jpg" xml:id="ask91-16"/>
                 <pb n="8v" facs="FFimg:ask_91!0008_v.jpg"/>
                 <p>Debita in eisdem</p>
                 <table>
@@ -3024,6 +3040,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="9" facs="FFimg:ask_91!0009_r.jpg" xml:id="ask91-17"/>
                 <pb n="9" facs="FFimg:ask_91!0009_r.jpg"/>
                 <table>
                     <row role="data">
@@ -3072,6 +3089,7 @@
                         </cell>
                     </row>
                 </table>
+                <milestone n="9v" facs="FFimg:ask_91!0009_v.jpg" xml:id="ask91-18"/>
                 <pb n="9v" facs="FFimg:ask_91!0009_v.jpg"/>
                 <p>Collegium sanctae Mariae in Summo Posnaniensi</p>
                 <table>
@@ -3099,6 +3117,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="10" facs="FFimg:ask_91!0010_r.jpg" xml:id="ask91-19"/>
                 <pb n="10" facs="FFimg:ask_91!0010_r.jpg"/>
                 <table>
                     <row role="data">
@@ -3145,6 +3164,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="10v" facs="FFimg:ask_91!0010_v.jpg" xml:id="ask91-20"/>
                 <pb n="10v" facs="FFimg:ask_91!0010_v.jpg"/>
                 <p>Debita in eisdem</p>
                 <table>
@@ -3196,6 +3216,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="11" facs="FFimg:ask_91!0011_r.jpg" xml:id="ask91-21"/>
                 <pb n="11" facs="FFimg:ask_91!0011_r.jpg"/>
                 <table>
                     <row role="data">
@@ -3240,6 +3261,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="11v" facs="FFimg:ask_91!0011_v.jpg" xml:id="ask91-22"/>
                 <pb n="11v" facs="FFimg:ask_91!0011_v.jpg"/>
                 <table>
                     <row role="data">
@@ -3285,6 +3307,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="12" facs="FFimg:ask_91!0012_r.jpg" xml:id="ask91-23"/>
                 <pb n="12" facs="FFimg:ask_91!0012_r.jpg"/>
                 <p>Debita in eisdem</p>
                 <table>
@@ -3331,6 +3354,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="12v" facs="FFimg:ask_91!0012_v.jpg" xml:id="ask91-24"/>
                 <pb n="12v" facs="FFimg:ask_91!0012_v.jpg"/>
                 <p>Altaristae ibidem</p>
                 <table>
@@ -3367,6 +3391,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="13" facs="FFimg:ask_91!0013_r.jpg" xml:id="ask91-25"/>
                 <pb n="13" facs="FFimg:ask_91!0013_r.jpg"/>
                 <table>
                     <row role="data">
@@ -3421,6 +3446,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="13v" facs="FFimg:ask_91!0013_v.jpg" xml:id="ask91-26"/>
                 <pb n="13v" facs="FFimg:ask_91!0013_v.jpg"/>
                 <table>
                     <row role="data">
@@ -3466,6 +3492,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="14" facs="FFimg:ask_91!0014_r.jpg" xml:id="ask91-27"/>
                 <pb n="14" facs="FFimg:ask_91!0014_r.jpg"/>
                 <table>
                     <row role="data">
@@ -3520,6 +3547,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="14v" facs="FFimg:ask_91!0014_v.jpg" xml:id="ask91-28"/>
                 <pb n="14v" facs="FFimg:ask_91!0014_v.jpg"/>
                 <table>
                     <row role="data">
@@ -3572,6 +3600,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="15" facs="FFimg:ask_91!0015_r.jpg" xml:id="ask91-29"/>
                 <pb n="15" facs="FFimg:ask_91!0015_r.jpg"/>
                 <table>
                     <row role="data">
@@ -3628,6 +3657,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="15v" facs="FFimg:ask_91!0015_v.jpg" xml:id="ask91-30"/>
                 <pb n="15v" facs="FFimg:ask_91!0015_v.jpg"/>
                 <table>
                     <row role="data">
@@ -3690,6 +3720,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="16" facs="FFimg:ask_91!0016_r.jpg" xml:id="ask91-31"/>
                 <pb n="16" facs="FFimg:ask_91!0016_r.jpg"/>
                 <table>
                     <row role="data">
@@ -3742,6 +3773,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="16v" facs="FFimg:ask_91!0016_v.jpg" xml:id="ask91-32"/>
                 <pb n="16v" facs="FFimg:ask_91!0016_v.jpg"/>
                 <table>
                     <row role="data">
@@ -3795,6 +3827,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="17" facs="FFimg:ask_91!0017_r.jpg" xml:id="ask91-33"/>
                 <pb n="17" facs="FFimg:ask_91!0017_r.jpg"/>
                 <table>
                     <row role="data">
@@ -3823,6 +3856,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="17v" facs="FFimg:ask_91!0017_v.jpg" xml:id="ask91-34"/>
                 <pb n="17v" facs="FFimg:ask_91!0017_v.jpg"/>
                 <table>
                     <row role="data">
@@ -3873,6 +3907,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="18" facs="FFimg:ask_91!0018_r.jpg" xml:id="ask91-35"/>
                 <pb n="18" facs="FFimg:ask_91!0018_r.jpg"/>
                 <p>Altaristae <seg xml:id="ASK91.v56" corresp="v56">sancti Stanislai</seg>
                 </p>
@@ -3910,6 +3945,7 @@
                     </row>
                 </table>
                 <p>Debita in eisdem</p>
+                <milestone n="18v" facs="FFimg:ask_91!0018_v.jpg" xml:id="ask91-36"/>
                 <pb n="18v" facs="FFimg:ask_91!0018_v.jpg"/>
                 <table>
                     <row role="data">
@@ -3968,6 +4004,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="19" facs="FFimg:ask_91!0019_r.jpg" xml:id="ask91-37"/>
                 <pb n="19" facs="FFimg:ask_91!0019_r.jpg"/>
                 <table>
                     <row role="data">
@@ -3998,6 +4035,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="19v" facs="FFimg:ask_91!0019_v.jpg" xml:id="ask91-38"/>
                 <pb n="19v" facs="FFimg:ask_91!0019_v.jpg"/>
                 <p>Altaristae in eadem ecclesia</p>
                 <table>
@@ -4032,6 +4070,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="20" facs="FFimg:ask_91!0020_r.jpg" xml:id="ask91-39"/>
                 <pb n="20" facs="FFimg:ask_91!0020_r.jpg"/>
                 <p>
                     <seg xml:id="ASK91.v69" corresp="v69">Ecclesia sanctae Margaretae</seg>
@@ -4046,6 +4085,7 @@
                     </row>
                 </table>
                 <anchor xml:id="ASK91.v70" corresp="v70" n="v70"/>
+                <milestone n="21" facs="FFimg:ask_91!0021_r.jpg" xml:id="ask91-40"/>
                 <pb n="21" facs="FFimg:ask_91!0021_r.jpg"/>
                 <p>Decanatus Posnaniensis</p>
                 <table>
@@ -4089,6 +4129,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="21v" facs="FFimg:ask_91!0021_v.jpg" xml:id="ask91-41"/>
                 <pb n="21v" facs="FFimg:ask_91!0021_v.jpg"/>
                 <table>
                     <row role="data">
@@ -4134,6 +4175,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="22" facs="FFimg:ask_91!0022_r.jpg" xml:id="ask91-42"/>
                 <pb n="22" facs="FFimg:ask_91!0022_r.jpg"/>
                 <table>
                     <row role="data">
@@ -4178,6 +4220,7 @@
                     </row>
                 </table>
                 <anchor n="v85" xml:id="ASK91.v85" corresp="v85"/>
+                <milestone n="22v" facs="FFimg:ask_91!0022_v.jpg" xml:id="ask91-43"/>
                 <pb n="22v" facs="FFimg:ask_91!0022_v.jpg"/>
                 <p>Altaristae <seg xml:id="ASK91.v86" corresp="v86">in Costrzin</seg>
                 </p>
@@ -4225,6 +4268,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="23" facs="FFimg:ask_91!0023_r.jpg" xml:id="ask91-44"/>
                 <pb n="23" facs="FFimg:ask_91!0023_r.jpg"/>
                 <table>
                     <row role="data">
@@ -4265,6 +4309,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="23v" facs="FFimg:ask_91!0023_v.jpg" xml:id="ask91-45"/>
                 <pb n="23v" facs="FFimg:ask_91!0023_v.jpg"/>
                 <table>
                     <row role="data">
@@ -4303,6 +4348,7 @@
                     </row>
                     <anchor n="v91" xml:id="ASK91.v91" corresp="v91"/>
                 </table>
+                <milestone n="24" facs="FFimg:ask_91!0024_r.jpg" xml:id="ask91-46"/>
                 <pb n="24" facs="FFimg:ask_91!0024_r.jpg"/>
                 <p>Decanatus Pysdrensis</p>
                 <table>
@@ -4338,6 +4384,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="24v" facs="FFimg:ask_91!0024_v.jpg" xml:id="ask91-47"/>
                 <pb n="24v" facs="FFimg:ask_91!0024_v.jpg"/>
                 <table>
                     <row role="data">
@@ -4383,10 +4430,12 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="25" facs="FFimg:ask_91!0025_r.jpg" xml:id="ask91-48"/>
                 <pb n="25" facs="FFimg:ask_91!0025_r.jpg"/>
                 <p>
                     <seg xml:id="ASK91.v93" corresp="v93" type="order">Mansionarii Pysdrenses</seg>
                     numero quinque decem grossos solverunt.</p>
+                <milestone n="25v" facs="FFimg:ask_91!0025_v.jpg" xml:id="ask91-49"/>
                 <pb n="25v" facs="FFimg:ask_91!0025_v.jpg"/>
                 <p>Debita in <seg xml:id="ASK91.v94" corresp="v94">eisdem altaribus</seg>
                 </p>
@@ -4423,6 +4472,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="26" facs="FFimg:ask_91!0026_r.jpg" xml:id="ask91-50"/>
                 <pb n="26" facs="FFimg:ask_91!0026_r.jpg"/>
                 <table>
                     <row role="data">
@@ -4463,6 +4513,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="26v" facs="FFimg:ask_91!0026_v.jpg" xml:id="ask91-51"/>
                 <pb n="26v" facs="FFimg:ask_91!0026_v.jpg"/>
                 <table>
                     <row role="data">
@@ -4496,6 +4547,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="27" facs="FFimg:ask_91!0027_r.jpg" xml:id="ask91-52"/>
                 <pb n="27" facs="FFimg:ask_91!0027_r.jpg"/>
                 <p>Debita in eisdem</p>
                 <table>
@@ -4533,6 +4585,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="27v" facs="FFimg:ask_91!0027_v.jpg" xml:id="ask91-53"/>
                 <pb n="27v" facs="FFimg:ask_91!0027_v.jpg"/>
                 <table>
                     <row role="data">
@@ -4548,6 +4601,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="28v" facs="FFimg:ask_91!0028_v.jpg" xml:id="ask91-54"/>
                 <pb n="28v" facs="FFimg:ask_91!0028_v.jpg"/>
                 <p>Decanatus Obornicensis</p>
                 <p>Oborniki</p>
@@ -4576,6 +4630,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="29" facs="FFimg:ask_91!0029_r.jpg" xml:id="ask91-55"/>
                 <pb n="29" facs="FFimg:ask_91!0029_r.jpg"/>
                 <table>
                     <row role="data">
@@ -4625,6 +4680,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="29v" facs="FFimg:ask_91!0029_v.jpg" xml:id="ask91-56"/>
                 <pb n="29v" facs="FFimg:ask_91!0029_v.jpg"/>
                 <table>
                     <row role="data">
@@ -4660,6 +4716,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="30" facs="FFimg:ask_91!0030_r.jpg" xml:id="ask91-57"/>
                 <pb n="30" facs="FFimg:ask_91!0030_r.jpg"/>
                 <table>
                     <row role="data">
@@ -4717,6 +4774,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="30v" facs="FFimg:ask_91!0030_v.jpg" xml:id="ask91-58"/>
                 <pb n="30v" facs="FFimg:ask_91!0030_v.jpg"/>
                 <p>Debita in eisdem</p>
                 <table>
@@ -4776,6 +4834,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="31" facs="FFimg:ask_91!0031_r.jpg" xml:id="ask91-59"/>
                 <pb n="31" facs="FFimg:ask_91!0031_r.jpg"/>
                 <p>Mansionarii in sorte <rs type="person" ref="Q42">domini Lucae de Gorca</rs> et Swidwa manuales sunt loco
                     vicariorum qui decantant, et amovibiles, licet annis anteactis quilibet per
@@ -4808,6 +4867,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="31v" facs="FFimg:ask_91!0031_v.jpg" xml:id="ask91-60"/>
                 <pb n="31v" facs="FFimg:ask_91!0031_v.jpg"/>
                 <table>
                     <row role="data">
@@ -4848,6 +4908,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="32" facs="FFimg:ask_91!0032_r.jpg" xml:id="ask91-61"/>
                 <pb n="32" facs="FFimg:ask_91!0032_r.jpg"/>
                 <table>
                     <row role="data">
@@ -4888,6 +4949,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="32v" facs="FFimg:ask_91!0032_v.jpg" xml:id="ask91-62"/>
                 <pb n="32v" facs="FFimg:ask_91!0032_v.jpg"/>
                 <table>
                     <row role="data">
@@ -4928,6 +4990,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="33" facs="FFimg:ask_91!0033_r.jpg" xml:id="ask91-63"/>
                 <pb n="33" facs="FFimg:ask_91!0033_r.jpg"/>
                 <table>
                     <row role="data">
@@ -4968,6 +5031,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="33v" facs="FFimg:ask_91!0033_v.jpg" xml:id="ask91-64"/>
                 <pb n="33v" facs="FFimg:ask_91!0033_v.jpg"/>
                 <table>
                     <row role="data">
@@ -5004,6 +5068,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="34" facs="FFimg:ask_91!0034_r.jpg" xml:id="ask91-65"/>
                 <pb n="34" facs="FFimg:ask_91!0034_r.jpg"/>
                 <table>
                     <row role="data">
@@ -5044,6 +5109,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="34v" facs="FFimg:ask_91!0034_v.jpg" xml:id="ask91-66"/>
                 <pb n="34v" facs="FFimg:ask_91!0034_v.jpg"/>
                 <table>
                     <row role="data">
@@ -5070,6 +5136,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="35" facs="FFimg:ask_91!0035_r.jpg" xml:id="ask91-67"/>
                 <pb n="35" facs="FFimg:ask_91!0035_r.jpg"/>
                 <table>
                     <row role="data">
@@ -5094,6 +5161,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="36" facs="FFimg:ask_91!0036_r.jpg" xml:id="ask91-68"/>
                 <pb n="36" facs="FFimg:ask_91!0036_r.jpg"/>
                 <p>Decanatus Stessowiensis</p>
                 <table>
@@ -5137,6 +5205,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="36v" facs="FFimg:ask_91!0036_v.jpg" xml:id="ask91-69"/>
                 <pb n="36v" facs="FFimg:ask_91!0036_v.jpg"/>
                 <table>
                     <row role="data">
@@ -5182,6 +5251,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="37" facs="FFimg:ask_91!0037_r.jpg" xml:id="ask91-70"/>
                 <pb n="37" facs="FFimg:ask_91!0037_r.jpg"/>
                 <table>
                     <row role="data">
@@ -5219,6 +5289,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="37v" facs="FFimg:ask_91!0037_v.jpg" xml:id="ask91-71"/>
                 <pb n="37v" facs="FFimg:ask_91!0037_v.jpg"/>
                 <p>Parochiales per haereticos occupatae</p>
                 <table>
@@ -5233,6 +5304,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="38" facs="FFimg:ask_91!0038_r.jpg" xml:id="ask91-72"/>
                 <pb n="38" facs="FFimg:ask_91!0038_r.jpg"/>
                 <p>Decanatus Srzemensis</p>
                 <table>
@@ -5275,6 +5347,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="38v" facs="FFimg:ask_91!0038_v.jpg" xml:id="ask91-73"/>
                 <pb n="38v" facs="FFimg:ask_91!0038_v.jpg"/>
                 <table>
                     <row role="data">
@@ -5329,6 +5402,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="39" facs="FFimg:ask_91!0039_r.jpg" xml:id="ask91-74"/>
                 <pb n="39" facs="FFimg:ask_91!0039_r.jpg"/>
                 <table>
                     <row role="data">
@@ -5378,6 +5452,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="39v" facs="FFimg:ask_91!0039_v.jpg" xml:id="ask91-75"/>
                 <pb n="39v" facs="FFimg:ask_91!0039_v.jpg"/>
                 <table>
                     <row role="data">
@@ -5418,6 +5493,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="40" facs="FFimg:ask_91!0040_r.jpg" xml:id="ask91-76"/>
                 <pb n="40" facs="FFimg:ask_91!0040_r.jpg"/>
                 <table>
                     <row role="data">
@@ -5461,6 +5537,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="40v" facs="FFimg:ask_91!0040_v.jpg" xml:id="ask91-77"/>
                 <pb n="40v" facs="FFimg:ask_91!0040_v.jpg"/>
                 <table>
                     <row role="data">
@@ -5516,6 +5593,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="41" facs="FFimg:ask_91!0041_r.jpg" xml:id="ask91-78"/>
                 <pb n="41" facs="FFimg:ask_91!0041_r.jpg"/>
                 <table>
                     <row role="data">
@@ -5556,6 +5634,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="41v" facs="FFimg:ask_91!0041_v.jpg" xml:id="ask91-79"/>
                 <pb n="41v" facs="FFimg:ask_91!0041_v.jpg"/>
                 <table>
                     <row role="data">
@@ -5601,6 +5680,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="42" facs="FFimg:ask_91!0042_r.jpg" xml:id="ask91-80"/>
                 <pb n="42" facs="FFimg:ask_91!0042_r.jpg"/>
                 <table>
                     <row role="data">
@@ -5644,6 +5724,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="42v" facs="FFimg:ask_91!0042_v.jpg" xml:id="ask91-81"/>
                 <pb n="42v" facs="FFimg:ask_91!0042_v.jpg"/>
                 <table>
                     <row role="data">
@@ -5693,6 +5774,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="43" facs="FFimg:ask_91!0043_r.jpg" xml:id="ask91-82"/>
                 <pb n="43" facs="FFimg:ask_91!0043_r.jpg"/>
                 <p>Debita in eisdem</p>
                 <table>
@@ -5739,6 +5821,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="43v" facs="FFimg:ask_91!0043_v.jpg" xml:id="ask91-83"/>
                 <pb n="43v" facs="FFimg:ask_91!0043_v.jpg"/>
                 <table>
                     <row role="data">
@@ -5776,6 +5859,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="44" facs="FFimg:ask_91!0044_r.jpg" xml:id="ask91-84"/>
                 <pb n="44" facs="FFimg:ask_91!0044_r.jpg"/>
                 <p>Debita in eisdem</p>
                 <table>
@@ -5817,6 +5901,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="44v" facs="FFimg:ask_91!0044_v.jpg" xml:id="ask91-85"/>
                 <pb n="44v" facs="FFimg:ask_91!0044_v.jpg"/>
                 <table>
                     <row role="data">
@@ -5855,6 +5940,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="45v" facs="FFimg:ask_91!0045_v.jpg" xml:id="ask91-86"/>
                 <pb n="45v" facs="FFimg:ask_91!0045_v.jpg"/>
                 <p>Decanatus Costensis</p>
                 <table>
@@ -5901,6 +5987,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="46" facs="FFimg:ask_91!0046_r.jpg" xml:id="ask91-87"/>
                 <pb n="46" facs="FFimg:ask_91!0046_r.jpg"/>
                 <table>
                     <row role="data">
@@ -5953,6 +6040,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="46v" facs="FFimg:ask_91!0046_v.jpg" xml:id="ask91-88"/>
                 <pb n="46v" facs="FFimg:ask_91!0046_v.jpg"/>
                 <table>
                     <row role="data">
@@ -6008,6 +6096,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="47" facs="FFimg:ask_91!0047_r.jpg" xml:id="ask91-89"/>
                 <pb n="47" facs="FFimg:ask_91!0047_r.jpg"/>
                 <table>
                     <row role="data">
@@ -6062,6 +6151,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="47v" facs="FFimg:ask_91!0047_v.jpg" xml:id="ask91-90"/>
                 <pb n="47v" facs="FFimg:ask_91!0047_v.jpg"/>
                 <table>
                     <row role="data">
@@ -6102,6 +6192,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="48" facs="FFimg:ask_91!0048_r.jpg" xml:id="ask91-91"/>
                 <pb n="48" facs="FFimg:ask_91!0048_r.jpg"/>
                 <table>
                     <row role="data">
@@ -6157,6 +6248,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="48v" facs="FFimg:ask_91!0048_v.jpg" xml:id="ask91-92"/>
                 <pb n="48v" facs="FFimg:ask_91!0048_v.jpg"/>
                 <p>Altaristae in Ossieczna</p>
                 <table>
@@ -6203,6 +6295,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="49" facs="FFimg:ask_91!0049_r.jpg" xml:id="ask91-93"/>
                 <pb n="49" facs="FFimg:ask_91!0049_r.jpg"/>
                 <table>
                     <row role="data">
@@ -6248,6 +6341,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="49v" facs="FFimg:ask_91!0049_v.jpg" xml:id="ask91-94"/>
                 <pb n="49v" facs="FFimg:ask_91!0049_v.jpg"/>
                 <table>
                     <row role="data">
@@ -6291,6 +6385,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="50" facs="FFimg:ask_91!0050_r.jpg" xml:id="ask91-95"/>
                 <pb n="50" facs="FFimg:ask_91!0050_r.jpg"/>
                 <table>
                     <row role="data">
@@ -6338,6 +6433,7 @@
                         </cell>
                     </row>
                 </table>
+                <milestone n="50v" facs="FFimg:ask_91!0050_v.jpg" xml:id="ask91-96"/>
                 <pb n="50v" facs="FFimg:ask_91!0050_v.jpg"/>
                 <p>Debita in eisdem</p>
                 <p>In Costen altaristae</p>
@@ -6381,6 +6477,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="51" facs="FFimg:ask_91!0051_r.jpg" xml:id="ask91-97"/>
                 <pb n="51" facs="FFimg:ask_91!0051_r.jpg"/>
                 <table>
                     <row role="data">
@@ -6419,6 +6516,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="51v" facs="FFimg:ask_91!0051_v.jpg" xml:id="ask91-98"/>
                 <pb n="51v" facs="FFimg:ask_91!0051_v.jpg"/>
                 <table>
                     <row role="data">
@@ -6453,6 +6551,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="52v" facs="FFimg:ask_91!0052_v.jpg" xml:id="ask91-99"/>
                 <pb n="52v" facs="FFimg:ask_91!0052_v.jpg"/>
                 <p>Decanatus Novae Civitatis</p>
                 <table>
@@ -6499,6 +6598,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="53" facs="FFimg:ask_91!0053_r.jpg" xml:id="ask91-100"/>
                 <pb n="53" facs="FFimg:ask_91!0053_r.jpg"/>
                 <p>Altaristae <seg xml:id="ASK91.v186" corresp="v186">ibidem</seg>
                 </p>
@@ -6535,6 +6635,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="53v" facs="FFimg:ask_91!0053_v.jpg" xml:id="ask91-101"/>
                 <pb n="53v" facs="FFimg:ask_91!0053_v.jpg"/>
                 <table>
                     <row role="data">
@@ -6579,6 +6680,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="54" facs="FFimg:ask_91!0054_r.jpg" xml:id="ask91-102"/>
                 <pb n="54" facs="FFimg:ask_91!0054_r.jpg"/>
                 <table>
                     <row role="data">
@@ -6623,6 +6725,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="54v" facs="FFimg:ask_91!0054_v.jpg" xml:id="ask91-103"/>
                 <pb n="54v" facs="FFimg:ask_91!0054_v.jpg"/>
                 <table>
                     <row role="data">
@@ -6665,6 +6768,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="55" facs="FFimg:ask_91!0055_r.jpg" xml:id="ask91-104"/>
                 <pb n="55" facs="FFimg:ask_91!0055_r.jpg"/>
                 <table>
                     <row role="data">
@@ -6702,6 +6806,7 @@
                 </table>
                 <p>Mansionariae quatuor ab annis tribus vacant, quorum proventus per haeredem
                     <rs type="person" ref="Q132">dominum Andream de Gorca</rs> percipiuntur, et in usus suos convertuntur.</p>
+                <milestone n="55v" facs="FFimg:ask_91!0055_v.jpg" xml:id="ask91-105"/>
                 <pb n="55v" facs="FFimg:ask_91!0055_v.jpg"/>
                 <p>Altaristae ibidem</p>
                 <table>
@@ -6744,6 +6849,7 @@
                 <p>
                     <seg xml:id="ASK91.v198" corresp="v198">Praepositura hospitalis</seg> Sancti
                     Spiritus ante Coszmin</p>
+                <milestone n="56" facs="FFimg:ask_91!0056_r.jpg" xml:id="ask91-106"/>
                 <pb n="56" facs="FFimg:ask_91!0056_r.jpg"/>
                 <table>
                     <row role="data">
@@ -6779,6 +6885,7 @@
                         <seg xml:id="ASK91.v202" corresp="v202">Honorabilis</seg> Albertus a Coszmin
                     praebendarius</rs> solus per se solvit a mansionariis quatuor, a quolibet per grossos
                     24, marcas 2 solvit.</p>
+                <milestone n="56v" facs="FFimg:ask_91!0056_v.jpg" xml:id="ask91-107"/>
                 <pb n="56v" facs="FFimg:ask_91!0056_v.jpg"/>
                 <table>
                     <row role="data">
@@ -6817,6 +6924,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="57" facs="FFimg:ask_91!0057_r.jpg" xml:id="ask91-108"/>
                 <pb n="57" facs="FFimg:ask_91!0057_r.jpg"/>
                 <table>
                     <row role="data">
@@ -6848,6 +6956,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="57v" facs="FFimg:ask_91!0057_v.jpg" xml:id="ask91-109"/>
                 <pb n="57v" facs="FFimg:ask_91!0057_v.jpg"/>
                 <table>
                     <row role="data">
@@ -6888,6 +6997,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="58" facs="FFimg:ask_91!0058_r.jpg" xml:id="ask91-110"/>
                 <pb n="58" facs="FFimg:ask_91!0058_r.jpg"/>
                 <p>In Cosmyn mansionarii tres <seg xml:id="ASK91.v204" corresp="v204">
                         <rs type="person" ref="Q139">Ioannes
@@ -6910,6 +7020,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="59" facs="FFimg:ask_91!0059_r.jpg" xml:id="ask91-111"/>
                 <pb n="59" facs="FFimg:ask_91!0059_r.jpg"/>
                 <p>Decanatus Vschovensis</p>
                 <p>Honestus Stephanus agricola <seg xml:id="ASK91.v205" corresp="v205">civis</seg>
@@ -6930,6 +7041,7 @@
                     </row>
                 </table>
                 <p>Altaristae ibidem</p>
+                <milestone n="59v" facs="FFimg:ask_91!0059_v.jpg" xml:id="ask91-112"/>
                 <pb n="59v" facs="FFimg:ask_91!0059_v.jpg"/>
                 <table>
                     <row role="data">
@@ -6962,6 +7074,7 @@
                 </table>
                 <p>Debita in eisdem</p>
                 <p>Omnes altaristae in Vschowa, quorum numerus triginta tres.</p>
+                <milestone n="60" facs="FFimg:ask_91!0060_r.jpg" xml:id="ask91-113"/>
                 <pb n="60" facs="FFimg:ask_91!0060_r.jpg"/>
                 <table>
                     <row role="data">
@@ -7009,6 +7122,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="60v" facs="FFimg:ask_91!0060_v.jpg" xml:id="ask91-114"/>
                 <pb n="60v" facs="FFimg:ask_91!0060_v.jpg"/>
                 <table>
                     <row role="data">
@@ -7055,6 +7169,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="61" facs="FFimg:ask_91!0061_r.jpg" xml:id="ask91-115"/>
                 <pb n="61" facs="FFimg:ask_91!0061_r.jpg"/>
                 <table>
                     <row role="data">
@@ -7086,6 +7201,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="62" facs="FFimg:ask_91!0062_r.jpg" xml:id="ask91-116"/>
                 <pb n="61v" facs="FFimg:ask_91!0061_v.jpg"/>
                     <p>Decanatus Grodzicensis</p>
                 <p>Praepositura hospitalis in Kieblow<anchor xml:id="ASK91.v216" corresp="v216" n="v216"/>
@@ -7131,6 +7247,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="62v" facs="FFimg:ask_91!0062_v.jpg" xml:id="ask91-117"/>
                 <pb n="62v" facs="FFimg:ask_91!0062_v.jpg"/>
                 <table>
                     <row role="data">
@@ -7180,6 +7297,7 @@
                         </cell>
                     </row>
                 </table>
+                <milestone n="63" facs="FFimg:ask_91!0063_r.jpg" xml:id="ask91-118"/>
                 <pb n="63" facs="FFimg:ask_91!0063_r.jpg"/>
                 <table>
                     <row role="data">
@@ -7210,6 +7328,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="63v" facs="FFimg:ask_91!0063_v.jpg" xml:id="ask91-119"/>
                 <pb n="63v" facs="FFimg:ask_91!0063_v.jpg"/>
                 <p>Debita in eisdem</p>
                 <table>
@@ -7250,6 +7369,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="64" facs="FFimg:ask_91!0064_r.jpg" xml:id="ask91-120"/>
                 <pb n="64" facs="FFimg:ask_91!0064_r.jpg"/>
                 <table>
                     <row role="data">
@@ -7292,6 +7412,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="64v" facs="FFimg:ask_91!0064_v.jpg" xml:id="ask91-121"/>
                 <pb n="64v" facs="FFimg:ask_91!0064_v.jpg"/>
                 <table>
                     <row role="data">
@@ -7335,6 +7456,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="65" facs="FFimg:ask_91!0065_r.jpg" xml:id="ask91-122"/>
                 <pb n="65" facs="FFimg:ask_91!0065_r.jpg"/>
                 <p>Decanatus Vronicensis</p>
                 <table>
@@ -7357,6 +7479,7 @@
                     </row>
                 </table>
                 <p>Altaristae ibidem</p>
+                <milestone n="65v" facs="FFimg:ask_91!0065_v.jpg" xml:id="ask91-123"/>
                 <pb n="65v" facs="FFimg:ask_91!0065_v.jpg"/>
                 <table>
                     <row role="data">
@@ -7400,6 +7523,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="66" facs="FFimg:ask_91!0066_r.jpg" xml:id="ask91-124"/>
                 <pb n="66" facs="FFimg:ask_91!0066_r.jpg"/>
                 <table>
                     <row role="data">
@@ -7442,6 +7566,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="66v" facs="FFimg:ask_91!0066_v.jpg" xml:id="ask91-125"/>
                 <pb n="66v" facs="FFimg:ask_91!0066_v.jpg"/>
                 <p>Altare <seg xml:id="ASK91.v236" corresp="v236">ibidem in Vronki</seg>
                 </p>
@@ -7476,6 +7601,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="67" facs="FFimg:ask_91!0067_r.jpg" xml:id="ask91-126"/>
                 <pb n="67" facs="FFimg:ask_91!0067_r.jpg"/>
                 <table>
                     <row role="data">
@@ -7516,6 +7642,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="67v" facs="FFimg:ask_91!0067_v.jpg" xml:id="ask91-127"/>
                 <pb n="67v" facs="FFimg:ask_91!0067_v.jpg"/>
                 <p>Debita in eisdem</p>
                 <table>
@@ -7553,6 +7680,7 @@
                     </row>
                     <anchor n="v271" xml:id="ASK91.v271" corresp="v271"/>
                 </table>
+                <milestone n="68" facs="FFimg:ask_91!0068_r.jpg" xml:id="ask91-128"/>
                 <pb n="68" facs="FFimg:ask_91!0068_r.jpg"/>
                 <table>
                     <row role="data">
@@ -7598,6 +7726,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="68v" facs="FFimg:ask_91!0068_v.jpg" xml:id="ask91-129"/>
                 <pb n="68v" facs="FFimg:ask_91!0068_v.jpg"/>
                 <table>
                     <row role="data">
@@ -7643,6 +7772,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="69" facs="FFimg:ask_91!0069_r.jpg" xml:id="ask91-130"/>
                 <pb n="69" facs="FFimg:ask_91!0069_r.jpg"/>
                 <table>
                     <row role="data">
@@ -7665,6 +7795,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="70" facs="FFimg:ask_91!0070_r.jpg" xml:id="ask91-131"/>
                 <pb n="70" facs="FFimg:ask_91!0070_r.jpg"/>
                 <p>Decanatus Miedzirzeczensis</p>
                 <table>
@@ -7701,6 +7832,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="70v" facs="FFimg:ask_91!0070_v.jpg" xml:id="ask91-132"/>
                 <pb n="70v" facs="FFimg:ask_91!0070_v.jpg"/>
                 <p>Occupata per haereticos ac per alios debita</p>
                 <table>
@@ -7739,6 +7871,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="71" facs="FFimg:ask_91!0071_r.jpg" xml:id="ask91-133"/>
                 <pb n="71" facs="FFimg:ask_91!0071_r.jpg"/>
                 <table>
                     <row role="data">
@@ -7781,6 +7914,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="71v" facs="FFimg:ask_91!0071_v.jpg" xml:id="ask91-134"/>
                 <pb n="71v" facs="FFimg:ask_91!0071_v.jpg"/>
                 <table>
                     <row role="data">
@@ -7826,6 +7960,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="72" facs="FFimg:ask_91!0072_r.jpg" xml:id="ask91-135"/>
                 <pb n="72" facs="FFimg:ask_91!0072_r.jpg"/>
                 <table>
                     <row role="data">
@@ -7864,6 +7999,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="73" facs="FFimg:ask_91!0073_r.jpg" xml:id="ask91-136"/>
                 <pb n="73" facs="FFimg:ask_91!0073_r.jpg"/>
                 <p>Collegiata ecclesia in Srzoda</p>
                 <table>
@@ -7912,6 +8048,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="73v" facs="FFimg:ask_91!0073_v.jpg" xml:id="ask91-137"/>
                 <pb n="73v" facs="FFimg:ask_91!0073_v.jpg"/>
                 <table>
                     <row role="data">
@@ -7958,6 +8095,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="74" facs="FFimg:ask_91!0074_r.jpg" xml:id="ask91-138"/>
                 <pb n="74" facs="FFimg:ask_91!0074_r.jpg"/>
                 <table>
                     <row role="data">
@@ -8012,6 +8150,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="74v" facs="FFimg:ask_91!0074_v.jpg" xml:id="ask91-139"/>
                 <pb n="74v" facs="FFimg:ask_91!0074_v.jpg"/>
                 <table>
                     <row role="data">
@@ -8057,6 +8196,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="75" facs="FFimg:ask_91!0075_r.jpg" xml:id="ask91-140"/>
                 <pb n="75" facs="FFimg:ask_91!0075_r.jpg"/>
                 <p>Debita in eisdem</p>
                 <table>
@@ -8101,6 +8241,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="75v" facs="FFimg:ask_91!0075_v.jpg" xml:id="ask91-141"/>
                 <pb n="75v" facs="FFimg:ask_91!0075_v.jpg"/>
                 <p>Abbates</p>
                 <table>
@@ -8110,6 +8251,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="76" facs="FFimg:ask_91!0076_r.jpg" xml:id="ask91-142"/>
                 <pb n="76" facs="FFimg:ask_91!0076_r.jpg"/>
                 <table>
                     <row role="data">
@@ -8118,6 +8260,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="76v" facs="FFimg:ask_91!0076_v.jpg" xml:id="ask91-143"/>
                 <pb n="76v" facs="FFimg:ask_91!0076_v.jpg"/>
                 <table>
                     <row role="data">
@@ -8126,6 +8269,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="77" facs="FFimg:ask_91!0077_r.jpg" xml:id="ask91-144"/>
                 <pb n="77" facs="FFimg:ask_91!0077_r.jpg"/>
                 <table>
                     <row role="data">
@@ -8134,6 +8278,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="77v" facs="FFimg:ask_91!0077_v.jpg" xml:id="ask91-145"/>
                 <pb n="77v" facs="FFimg:ask_91!0077_v.jpg"/>
                 <table>
                     <row role="data">
@@ -8142,18 +8287,21 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="78" facs="FFimg:ask_91!0078_r.jpg" xml:id="ask91-146"/>
                 <pb n="78" facs="FFimg:ask_91!0078_r.jpg"/>
                 <p>[Pieczęć Archiwum Skarbowego z Warszawie, dn. 28 III 36 r., z notatką archiwisty:
                     W tym voluminie akt jest 77 (siedemdziesiąt siedem) ponumerowanych kart. K[arol]
                     Wiśniewski, podreferendarz Archiwum Skarbowego]</p>
             </div>
             <div xml:id="ASK3">
-                <pb n="318" facs="FFimg:ask_3!318.JPG"/>
+                <milestone n="318" facs="FFimg:ask_3!318.JPG" xml:id="ask3-1"/>
+                <pb n="318" facs="FFimg:ask_3!318.JPG" corresp="b-1"/>
                 <p>Regestrum contributionis duplae in totum clerum pro serenissimo principe domino
                     domino <rs type="person" ref="Q207">Sigismundo Augusto</rs> rege Poloniae anno Domini millesimo quingentesimo
                     sexagesimo primo in synodo provinciali Varssouiensi <seg xml:id="ASK3.v1" corresp="v1" type="order">decretae</seg>, cuius contributionis exactor deputatus
                     venerabilis dominus <rs type="person" ref="Q208">Michael <seg xml:id="ASK3.v2" corresp="v2">Skrzethussewsky</seg>
                     </rs> <rs type="institution" ref="Q929">canonicus Posnaniensis</rs>.</p>
+                <milestone n="318v" facs="FFimg:ask_3!318v.JPG" xml:id="ask3-2"/>
                 <pb n="318v" facs="FFimg:ask_3!318v.JPG"/>
                 <p>Decanatus rurales</p>
                 <p>
@@ -8174,9 +8322,11 @@
                     <rs type="place" ref="Q2912">Srzemensis</rs>
                 </p>
                 <p>
-                    <seg xml:id="ASK3.v4" corresp="v4">
-                        <rs type="place" ref="Q2914">Costhensis</rs>
+                    <rs type="place" ref="Q2914">
+                        <seg xml:id="ASK3.v4" corresp="v4">
+                        Costhensis
                     </seg>
+                    </rs>
                 </p>
                 <p>
                     <rs type="place" ref="Q2920">Novae Civitatis</rs>
@@ -8195,6 +8345,7 @@
                 <p>
                     <rs type="place" ref="Q2911">Miedzirzecensis</rs>
                 </p>
+                <milestone n="319" facs="FFimg:ask_3!319.JPG" xml:id="ask3-3"/>
                 <pb n="319" facs="FFimg:ask_3!319.JPG"/>
                 <p>Praelaturae et canonicatus <rs type="institution" ref="Q934">ecclesiae cathedralis Posnaniensis</rs>.</p>
                 <p>Reverendissimus in Christo pater et dominus dominus <rs type="person" ref="Q209">Andreas Czarnkowski</rs> Dei
@@ -8203,6 +8354,7 @@
                     et sui thesaurarii solvit et numeravit in moneta per grossos triginta
                             <expan>computan<ex>da</ex>
                     </expan> florenos ducentos.</p>
+                <milestone n="319-1" xml:id="ask3-4"/>
                 <table>
                     <row role="data">
                         <cell>
@@ -8249,6 +8401,7 @@
                         <cell>6 fl.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="319-2" xml:id="ask3-5"/>
                     <row role="data">
                         <cell>
                             <rs type="institution" ref="Q2879">
@@ -8295,6 +8448,7 @@
                         <cell>2 fl.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="319-3" xml:id="ask3-6"/>
                     <row role="data">
                         <cell>
                             <rs type="institution" ref="Q929">
@@ -8336,6 +8490,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="319v" facs="FFimg:ask_3!319v.JPG" xml:id="ask3-7"/>
                 <pb n="319v" facs="FFimg:ask_3!319v.JPG"/>
                 <table>
                     <row role="data">
@@ -8372,6 +8527,7 @@
                         <cell>2 fl.</cell>
                         <cell/>
                     </row>
+                    <milestone n="319v-1" xml:id="ask3-8"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q227">Petrus Cuneczki</rs>
@@ -8408,6 +8564,7 @@
                         <cell>2 fl.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="319v-2" xml:id="ask3-9"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q232">Iacobus Lanczki</rs>
@@ -8449,6 +8606,7 @@
                         </cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="319v-3" xml:id="ask3-10"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q236">Stanislaus Sziskowski</rs>
@@ -8491,6 +8649,7 @@
                         </cell>
                         <cell/>
                     </row>
+                    <milestone n="320" facs="FFimg:ask_3!320.JPG" xml:id="ask3-11"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q240">Ioannes Bielinski</rs>
@@ -8529,6 +8688,7 @@
                         <cell>24 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="320-1" xml:id="ask3-12"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q245">Ioannes Dambniczki</rs>
@@ -8569,6 +8729,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="320v" facs="FFimg:ask_3!320v.JPG" xml:id="ask3-13"/>
                 <pb n="320v" facs="FFimg:ask_3!320v.JPG"/>
                 <p>Altaristae ecclesiae cathedralis Posnaniensis</p>
                 <table>
@@ -8596,8 +8757,7 @@
                         <cell>12 gr.</cell>
                         <cell>s-t</cell>
                     </row>
-                </table>
-                <table>
+                    <milestone n="320v-1" xml:id="ask3-14"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q250">Thomas <seg xml:id="ASK3.v18" corresp="v18">Kolaczek</seg>
@@ -8649,8 +8809,7 @@
                         <cell>45 gr.</cell>
                         <cell>s-t</cell>
                     </row>
-                </table>
-                <table>
+                    <milestone n="320v-2" xml:id="ask3-15"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q255">Gabriel Ridzinski</rs>. Grossi quatuor dimissi, quia census per dominum
@@ -8691,6 +8850,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="321" facs="FFimg:ask_3!321.JPG" xml:id="ask3-16"/>
                 <pb n="321" facs="FFimg:ask_3!321.JPG"/>
                 <p>Debita in eisdem</p>
                 <table>
@@ -8726,6 +8886,7 @@
                         <cell>s-t
                         </cell>
                     </row>
+                    <milestone n="321-1" xml:id="ask3-17"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q263">Albertus Zakrzewsky</rs>
@@ -8779,6 +8940,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="321v" facs="FFimg:ask_3!321v.JPG" xml:id="ask3-18"/>
                 <pb n="321v" facs="FFimg:ask_3!321v.JPG"/>
                 <p>Collegium sanctae Mariae in Summo Posnaniensi</p>
                 <table>
@@ -8805,6 +8967,7 @@
                         <cell>24 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="321v-1" xml:id="ask3-19"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q219">Ioannes Skrzethussewski</rs>
@@ -8850,6 +9013,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="321v-2" xml:id="ask3-20"/>
                 <p>Debita in eisdem</p>
                 <table>
                     <row role="data">
@@ -8893,6 +9057,7 @@
                         <cell>24 gr.</cell>
                         <cell/>
                     </row>
+                    <milestone n="322" facs="FFimg:ask_3!322.JPG" xml:id="ask3-21"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q275">Martinus Zidowski</rs>
@@ -8943,6 +9108,7 @@
                         <cell>24 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="322-1" xml:id="ask3-22"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q279">Laurentius Rosnowski</rs>
@@ -8990,6 +9156,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="322v" facs="FFimg:ask_3!322v.JPG" xml:id="ask3-23"/>
                 <p>Debita in eisdem</p>
                 <table>
                     <row role="data">
@@ -9035,6 +9202,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="322v-1" xml:id="ask3-24"/>
                 <p>Altaristae ibidem</p>
                 <table>
                     <row role="data">
@@ -9070,6 +9238,7 @@
                         <cell>24 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="323" facs="FFimg:ask_3!323.JPG" xml:id="ask3-25"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q177">Laurentius Cziganek</rs>
@@ -9121,6 +9290,7 @@
                         <cell>24 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="323-1" xml:id="ask3-26"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q219">Ioannes Skrzetuszewski</rs>
@@ -9146,7 +9316,7 @@
                         <cell/>
                         <cell/>
                     </row>
-                </table>
+                </table>    
                 <pb n="323v" facs="FFimg:ask_3!323v.JPG"/>
                 <p>Altaristae eiusdem <seg xml:id="ASK3.v37" corresp="v37">ecclesiae sanctae Mariae
                         Magdalenae <expan>Posn<ex>aniensis?</ex>
@@ -9167,6 +9337,7 @@
                         <cell>16 gr. </cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="323v" facs="FFimg:ask_3!323v.JPG" xml:id="ask3-27"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q69">Petrus <seg xml:id="ASK3.v38" corresp="v38">Costen</seg>
@@ -9218,6 +9389,7 @@
                         <cell>9 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="323v-1" xml:id="ask3-28"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q294">Ioannes Zarzewo</rs>
@@ -9267,6 +9439,7 @@
                         <cell>18 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="323v-2" xml:id="ask3-29"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q162">Petrus <seg xml:id="ASK3.v40" corresp="v40">de Comorniky</seg>
@@ -9316,6 +9489,7 @@
                         <cell>20 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="324" facs="FFimg:ask_3!324.JPG" xml:id="ask3-30"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q252">Mathias a Popowo</rs>
@@ -9386,6 +9560,7 @@
                         <cell>28 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="324-1" xml:id="ask3-31"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q137">Stanislaus <seg xml:id="ASK3.v47" corresp="v47">Carsniczki</seg>
@@ -9436,6 +9611,7 @@
                         <cell>26 gr.</cell>
                         <cell/>
                     </row>
+                    <milestone n="324v" facs="FFimg:ask_3!324v.JPG" xml:id="ask3-32"/>
                     <row role="data">
                         <cell>Post mortem <rs type="person" ref="Q312">Ioannis Vino</rs>
                         </cell>
@@ -9487,6 +9663,7 @@
                         <cell>8 gr.</cell>
                         <cell/>
                     </row>
+                    <milestone n="325" facs="FFimg:ask_3!325.JPG" xml:id="ask3-33"/>
                     <row role="data">
                         <cell>Post mortem <rs type="person" ref="Q319">Vincentii de Posnania</rs>
                         </cell>
@@ -9513,6 +9690,7 @@
                         <cell>24 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="325-1" xml:id="ask3-34"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q320">Sebastianus <seg xml:id="ASK3.v54" corresp="v54">a Zbaszin</seg>
@@ -9560,6 +9738,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="325-2" xml:id="ask3-35"/>
                 <p>Altaristae <seg xml:id="ASK3.v56" corresp="v56">ad sanctum Stanislaum</seg>
                 </p>
                 <table>
@@ -9597,6 +9776,7 @@
                     </row>
                 </table>
                 <p>Debita in eisdem</p>
+                <milestone n="325v" facs="FFimg:ask_3!325v.JPG" xml:id="ask3-36"/>
                 <table>
                     <row role="data">
                         <cell>
@@ -9657,7 +9837,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
-
+                <milestone n="325v-1" xml:id="ask3-37"/>
                 <table>
                     <row role="data">
                         <cell>Praepositus Sanctae Crucis</cell>
@@ -9689,6 +9869,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="326" facs="FFimg:ask_3!326.JPG" xml:id="ask3-38"/>
                 <p>Altaristae in eadem ecclesia</p>
                 <table>
                     <row role="data">
@@ -9724,6 +9905,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="326-1" xml:id="ask3-39"/>
                 <p>
                     <seg xml:id="ASK3.v69" corresp="v69">Sancti Margarethae ecclesia in
                         Srzodka</seg>
@@ -9738,6 +9920,7 @@
                 </table>
                 <p>Altare in ecclesia sanctae Barbarae<anchor xml:id="ASK3.v70" corresp="v70" n="v70"/>
                 </p>
+                <milestone n="326v" facs="FFimg:ask_3!326v.JPG" xml:id="ask3-40"/>
                 <pb n="326v" facs="FFimg:ask_3!326v.JPG"/>
                 <p>Decanatus Posnaniensis</p>
                 <table>
@@ -9779,6 +9962,7 @@
                         <cell>24 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="326v-1" xml:id="ask3-41"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q71">Paulus mansionarius</rs> corporali iuramento comprobavit, nihil se
@@ -9821,6 +10005,7 @@
                         <cell>2 fl.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="326v-2" xml:id="ask3-42"/>
                     <row role="data">
                         <cell>
                             <seg xml:id="ASK3.v80" corresp="v80">Golthowo plebanus</seg>
@@ -9871,6 +10056,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="327" facs="FFimg:ask_3!327.JPG" xml:id="ask3-43"/>
                 <pb n="327" facs="FFimg:ask_3!327.JPG"/>
                 <p>Altaristae <seg xml:id="ASK3.v86" corresp="v86">ibidem in Costrzin</seg>
                 </p>
@@ -9924,6 +10110,7 @@
                         <cell>4 fl.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="327-1" xml:id="ask3-44"/>
                     <row role="data">
                         <cell>Niezamisl</cell>
                         <cell>4 fl.</cell>
@@ -9954,6 +10141,7 @@
                         <cell>6 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="327-2" xml:id="ask3-45"/>
                     <row role="data">
                         <cell>Gluszina</cell>
                         <cell>2 fl.</cell>
@@ -9998,6 +10186,7 @@
                         </cell>
                     </row>
                 </table>
+                <milestone n="327v" facs="FFimg:ask_3!327v.JPG" xml:id="ask3-46"/>
                 <p>Decanatus Pysdrensis</p>
                 <table>
                     <row role="data">
@@ -10031,6 +10220,7 @@
                         <cell>9 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="327v-1" xml:id="ask3-47"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q11">Symon Camieniecz</rs>
@@ -10073,6 +10263,7 @@
                         <cell>12 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="327v-2" xml:id="ask3-48"/>
                     <row role="data">
                         <cell>
                             <seg xml:id="ASK3.v93" corresp="v93" type="order">Mansionarii
@@ -10081,6 +10272,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="328" facs="FFimg:ask_3!328.JPG" xml:id="ask3-49"/>
                 <pb n="328" facs="FFimg:ask_3!328.JPG"/>
                 <p>Debita in <seg xml:id="ASK3.v94" corresp="v94">eisdem</seg>
                 </p>
@@ -10126,6 +10318,7 @@
                         <cell>12 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="328-1" xml:id="ask3-50"/>
                     <row role="data">
                         <cell>Grabowo</cell>
                         <cell>12 gr.</cell>
@@ -10163,6 +10356,7 @@
                         <cell>6 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="328-2" xml:id="ask3-51"/>
                     <row role="data">
                         <cell>Biechowo</cell>
                         <cell>2 fl.</cell>
@@ -10197,6 +10391,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="328v" facs="FFimg:ask_3!328v.JPG" xml:id="ask3-52"/>
                 <p>Debita in eisdem</p>
                 <table>
                     <row role="data">
@@ -10231,6 +10426,7 @@
                         <cell>12 gr.</cell>
                         <cell/>
                     </row>
+                    <milestone n="328v-1" xml:id="ask3-53"/>
                     <row role="data">
                         <cell>Kaczanowo</cell>
                         <cell>12 gr.</cell>
@@ -10250,6 +10446,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="329" facs="FFimg:ask_3!329.JPG" xml:id="ask3-54"/>
                 <pb n="329" facs="FFimg:ask_3!329.JPG"/>
                 <p>Decanatus Obornicensis</p>
                 <p>Oborniki</p>
@@ -10277,6 +10474,7 @@
                         <cell>15 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="329-1" xml:id="ask3-55"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q23">Iozephus Norek</rs>
@@ -10324,6 +10522,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="329v" facs="FFimg:ask_3!329v.JPG" xml:id="ask3-56"/>
                 <pb n="329v" facs="FFimg:ask_3!329v.JPG"/>
                 <table>
                     <row role="data">
@@ -10360,6 +10559,7 @@
                         </cell>
                         <cell>non soluti</cell>
                     </row>
+                    <milestone n="329v-1" xml:id="ask3-57"/>
                     <row role="data">
                         <cell>Pruscze</cell>
                         <cell>24 gr.</cell>
@@ -10416,6 +10616,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="330" facs="FFimg:ask_3!330.JPG" xml:id="ask3-58"/>
                 <p>Debita in eisdem</p>
                 <table>
                     <row role="data">
@@ -10428,6 +10629,7 @@
                     </row>
                     <anchor xml:id="ASK3.110" corresp="v110" n="v110"/>
                 </table>
+                
                 <pb n="330" facs="FFimg:ask_3!330.JPG"/>
                 <p>Altaristae <seg xml:id="ASK3.111" corresp="v111">ibidem ecclesiae
                         Szamotuliensis</seg>
@@ -10467,7 +10669,7 @@
                         <cell/>
                     </row>
                 </table>
-
+                <milestone n="330-1" xml:id="ask3-59"/>
                 <p>Mansionarii in sorte <rs type="person" ref="Q42">domini Lucae de Gorca</rs> et Swidwa manuales sunt loco
                     vicariorum qui decantant, et amovibiles, licet annis anteactis quilibet per
                     grossos 24 persolvebant, iuramento corporali dixerunt, omnes census annihilatos
@@ -10497,6 +10699,7 @@
                         <cell>12 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="330v" facs="FFimg:ask_3!330v.JPG" xml:id="ask3-60"/>
                     <row role="data">
                         <cell>Obiezierze</cell>
                         <cell>4 <seg xml:id="ASK3.v115" corresp="v115">
@@ -10536,6 +10739,7 @@
                         <cell>2 fl.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="330v-1" xml:id="ask3-61"/>
                     <row role="data">
                         <cell>Lubasz</cell>
                         <cell>2 fl.</cell>
@@ -10573,6 +10777,7 @@
                         <cell>24 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="330v-2" xml:id="ask3-62"/>
                     <row role="data">
                         <cell>Sobotha</cell>
                         <cell>2 fl.</cell>
@@ -10613,6 +10818,7 @@
                         <cell>2 fl.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="331" facs="FFimg:ask_3!331.JPG" xml:id="ask3-63"/>
                     <row role="data">
                         <cell>Uchorowo</cell>
                         <cell>12 gr.</cell>
@@ -10650,6 +10856,7 @@
                         <cell>2 fl.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="331-1" xml:id="ask3-64"/>
                     <row role="data">
                         <cell>Rosnowo</cell>
                         <cell>14 gr.</cell>
@@ -10686,6 +10893,7 @@
                         <cell>12 gr.</cell>
                         <cell/>
                     </row>
+                    <milestone n="331v" facs="FFimg:ask_3!331v.JPG" xml:id="ask3-65"/>
                     <row role="data">
                         <cell>Budziszewo</cell>
                         <cell>12 gr.</cell>
@@ -10723,6 +10931,7 @@
                         <cell>1 mrc.</cell>
                         <cell/>
                     </row>
+                    <milestone n="331v-1" xml:id="ask3-66"/>
                     <row role="data">
                         <cell>
                             <seg xml:id="ASK3.v122" corresp="v122">Altare in Szlomo</seg>
@@ -10747,6 +10956,7 @@
                         <cell>2 fl.</cell>
                         <cell/>
                     </row>
+                    <milestone n="331v-2" xml:id="ask3-67"/>
                     <row role="data">
                         <cell>Praepositus ibidem</cell>
                         <cell>9 gr.</cell>
@@ -10770,6 +10980,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="332" facs="FFimg:ask_3!332.JPG" xml:id="ask3-68"/>
                 <pb n="332" facs="FFimg:ask_3!332.JPG"/>
                 <p>Decanatus Stessowiensis</p>
                 <table>
@@ -10804,6 +11015,7 @@
                         <cell>2 fl.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="332-1" xml:id="ask3-69"/>
                     <row role="data">
                         <cell>
                             <seg xml:id="ASK3.v129" corresp="v129">Komorniki</seg>
@@ -10845,6 +11057,7 @@
                         <cell>1 mrc.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="332-2" xml:id="ask3-70"/>
                     <row role="data">
                         <cell>Altare <seg xml:id="ASK3.131" corresp="v131">ibidem</seg>
                         </cell>
@@ -10881,6 +11094,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="332v" facs="FFimg:ask_3!332v.JPG" xml:id="ask3-71"/>
                 <p>Parochiales per haereticos occupatae</p>
                 <table>
                     <row role="data">
@@ -10894,6 +11108,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="332v-1" xml:id="ask3-72"/>
                 <p>Decanatus Srzemensis</p>
                 <table>
                     <row role="data">
@@ -10937,6 +11152,7 @@
                         <cell>23 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="333" facs="FFimg:ask_3!333.JPG" xml:id="ask3-73"/>
                     <row role="data">
                         <cell>Organista</cell>
                         <cell>22 gr.</cell>
@@ -10989,6 +11205,7 @@
                         <cell>20 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="333-1" xml:id="ask3-74"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q66">Martinus Lipski</rs>
@@ -11033,6 +11250,7 @@
                         <cell>16 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="333v" facs="FFimg:ask_3!333v.JPG" xml:id="ask3-75"/>
                     <row role="data">
                         <cell>Valentinus Crobia</cell>
                         <cell>20 gr.</cell>
@@ -11067,6 +11285,7 @@
                         <cell>20,5 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="333v-1" xml:id="ask3-76"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q71">Paulus altarista</rs>
@@ -11108,7 +11327,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
-
+                <milestone n="333v-2" xml:id="ask3-77"/>
                 <table>
                     <row role="data">
                         <cell>
@@ -11167,6 +11386,7 @@
                         <cell>24 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="334" facs="FFimg:ask_3!334.JPG" xml:id="ask3-78"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q77">Iacobus baccalaureus</rs> a suo altari nichil dedit, iuramento corporali
@@ -11203,6 +11423,7 @@
                         <cell>20 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="334-1" xml:id="ask3-79"/>
                     <row role="data">
                         <cell>
                             <seg xml:id="ASK3.149" corresp="v149" type="order">
@@ -11245,6 +11466,7 @@
                         <cell>4 fl.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="334v" facs="FFimg:ask_3!334v.JPG" xml:id="ask3-80"/>
                     <row role="data">
                         <cell>Zitowieczko</cell>
                         <cell>2 fl.</cell>
@@ -11283,6 +11505,7 @@
                         <cell>1 mrc.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="334v-1" xml:id="ask3-81"/>
                     <row role="data">
                         <cell>
                             <seg xml:id="ASK3.v152" corresp="v152">Pempowo</seg>
@@ -11330,7 +11553,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
-
+                <milestone n="334v-2" xml:id="ask3-82"/>
                 <p>Debita in eisdem</p>
                 <table>
                     <row role="data">
@@ -11377,6 +11600,7 @@
                         <cell>24 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="335" facs="FFimg:ask_3!335.JPG" xml:id="ask3-83"/>
                     <row role="data">
                         <cell>Zakrzewo</cell>
                         <cell>24 gr.</cell>
@@ -11412,6 +11636,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="335-1" xml:id="ask3-84"/>
                 <p>Debita in eisdem</p>
                 <table>
                     <row role="data">
@@ -11444,6 +11669,7 @@
                         <cell/>
                         <cell/>
                     </row>
+                    <milestone n="335v" facs="FFimg:ask_3%2F335v.jpg" xml:id="ask3-85"/>
                     <row role="data">
                         <cell>Conary</cell>
                         <cell>12 gr.</cell>
@@ -11488,6 +11714,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="336" facs="FFimg:ask_3!336.JPG" xml:id="ask3-86"/>
                 <pb n="336" facs="FFimg:ask_3!336.JPG"/>
                 <p>Decanatus Costensis</p>
                 <table>
@@ -11532,6 +11759,7 @@
                         <cell>24 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="336-1" xml:id="ask3-87"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q94">Troianus Vronski</rs>
@@ -11582,6 +11810,7 @@
                         <cell>10 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="336-2" xml:id="ask3-88"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q67">Albertus Sadlinski</rs>
@@ -11627,6 +11856,7 @@
                         <cell>24 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="336v" facs="FFimg:ask_3!336v.JPG" xml:id="ask3-89"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q106">Gregorius de Sirakow</rs>
@@ -11678,6 +11908,7 @@
                         <cell>18 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="336v-1" xml:id="ask3-90"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q113">Przespoliewski</rs>
@@ -11733,6 +11964,7 @@
                         <cell>24 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="336v-2" xml:id="ask3-91"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q96">Paulus Cozmin</rs>
@@ -11780,6 +12012,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="337" facs="FFimg:ask_3!337.JPG" xml:id="ask3-92"/>
                 <p>Altaristae in Ossieczna</p>
                 <table>
                     <row role="data">
@@ -11822,9 +12055,7 @@
                         <cell>2 fl.</cell>
                         <cell>s-t</cell>
                     </row>
-                </table>
-
-                <table>
+                    <milestone n="337-1" xml:id="ask3-93"/>
                     <row role="data">
                         <cell>
                             <p>
@@ -11867,6 +12098,7 @@
                         <cell>15 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="337v" facs="FFimg:ask_3!337v.JPG" xml:id="ask3-94"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q89">Gregorius</rs>
@@ -11918,6 +12150,7 @@
                         <cell>24 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="337v-1" xml:id="ask3-95"/>
                     <row role="data">
                         <cell>Brodnicza</cell>
                         <cell>4 fl.</cell>
@@ -11963,6 +12196,7 @@
                         </cell>
                     </row>
                 </table>
+                <milestone n="338" facs="FFimg:ask_3!338.JPG" xml:id="ask3-96"/>
                 <pb n="338" facs="FFimg:ask_3!338.JPG"/>
                 <p>Debita in eisdem</p>
                 <p>In Costen altaristae</p>
@@ -12010,6 +12244,7 @@
                         <cell>24 gr.</cell>
                         <cell/>
                     </row>
+                    <milestone n="338-1" xml:id="ask3-97"/>
                     <row role="data">
                         <cell>Radomiczko</cell>
                         <cell>24 gr.</cell>
@@ -12045,6 +12280,7 @@
                         <cell>24 gr.</cell>
                         <cell/>
                     </row>
+                    <milestone n="338-2" xml:id="ask3-98"/>
                     <row role="data">
                         <cell>Boianowo</cell>
                         <cell>22 gr.</cell>
@@ -12081,6 +12317,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="338v" facs="FFimg:ask_3!338v.JPG" xml:id="ask3-99"/>
                 <p>Decanatus Novae Civitatis</p>
                 <table>
                     <row role="data">
@@ -12126,6 +12363,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="338v-1" xml:id="ask3-100"/>
                 <p>Altaristae <seg xml:id="ASK3.v186" corresp="v186">ibidem in Iaroczin</seg>
                 </p>
                 <table>
@@ -12163,6 +12401,7 @@
                         <cell>2 fl.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="339" facs="FFimg:ask_3!339.JPG" xml:id="ask3-101"/>
                     <row role="data">
                         <cell>Mchy</cell>
                         <cell>24 gr.</cell>
@@ -12204,6 +12443,7 @@
                         <cell>1 mrc.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="339-1" xml:id="ask3-102"/>
                     <row role="data">
                         <cell>
                             <seg xml:id="ASK3.v191" corresp="v191">Czirquicza</seg>
@@ -12246,6 +12486,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="339v" facs="FFimg:ask_3!339v.JPG" xml:id="ask3-103"/>
                 <pb n="339v" facs="FFimg:ask_3!339v.JPG"/>
                 <table>
                     <row role="data">
@@ -12287,6 +12528,7 @@
                         <cell>24 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="339v-1" xml:id="ask3-104"/>
                     <row role="data">
                         <cell>Odalanowo</cell>
                         <cell>18 gr.</cell>
@@ -12327,6 +12569,7 @@
                 </table>
                 <p>Mansionariae quatuor ab annis tribus vacant, quorum proventus per haeredem
                     <rs type="person" ref="Q132">dominum Andream de Gorca</rs> percipiuntur, et in usus suos convertuntur.</p>
+                <milestone n="339v-2" xml:id="ask3-105"/>
                 <p>Altaristae ibidem</p>
                 <table>
                     <row role="data">
@@ -12371,6 +12614,7 @@
                 <p>
                     <seg xml:id="ASK3.v198" corresp="v198">Praepositura</seg> Sancti Spiritus ante
                     Coszmin</p>
+                <milestone n="340" facs="FFimg:ask_3!340.JPG" xml:id="ask3-106"/>
                 <table>
                     <row role="data">
                         <cell>
@@ -12406,6 +12650,7 @@
                         <seg xml:id="ASK3.v202" corresp="v202">Honorabilis dominus</seg> Albertus a
                     Coszmin praebendarius</rs> solus per se solvit a mansionariis quatuor, a quolibet per
                     grossos 24, marcas 2 solvit.</p>
+                <milestone n="340-1" facs="FFimg:ask_3!340.JPG" xml:id="ask3-107"/>
                 <table>
                     <row role="data">
                         <cell>Gogoliewo</cell>
@@ -12438,7 +12683,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
-                <pb n="340v " facs="FFimg:ask_3!340v.JPG"/>
+                <pb n="340v" facs="FFimg:ask_3!340v.JPG"/>
                 <table>
                     <row role="data">
                         <cell>Potarzicza</cell>
@@ -12446,6 +12691,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="340v " facs="FFimg:ask_3!340v.JPG" xml:id="ask3-108"/>
                 <table>
                     <row role="data">
                         <cell>Ostrow Krempe</cell>
@@ -12475,6 +12721,7 @@
                         <cell>1 mrc.</cell>
                         <cell/>
                     </row>
+                    <milestone n="340v-1" xml:id="ask3-109"/>
                     <row role="data">
                         <cell>Golina</cell>
                         <cell>12 gr.</cell>
@@ -12513,6 +12760,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="340v-2" xml:id="ask3-110"/>
                 <p>In Cosmyn mansionarii tres <seg xml:id="ASK3.v204" corresp="v204">
                         <rs type="person" ref="Q93">Baltazar</rs>,
                         <rs type="person" ref="Q139">Ioannes Klathka</rs>, <rs type="person" ref="Q140">Ioannes Buk</rs>
@@ -12535,6 +12783,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="341" facs="FFimg:ask_3!341.JPG" xml:id="ask3-111"/>
                 <p>Decanatus Vschovensis</p>
                 <p>
                     <rs type="person" ref="Q68">Honestus Stephanus agricola <seg xml:id="ASK3.v205" corresp="v205">civitatis</seg> Wschowensis</rs> nomine dominorum proconsulis et consulum
@@ -12555,6 +12804,7 @@
                     </row>
                 </table>
                 <p>Altaristae ibidem</p>
+                <milestone n="341-1" xml:id="ask3-112"/>
                 <table>
                     <row role="data">
                         <cell>
@@ -12589,6 +12839,7 @@
                 </table>
                 <p>Debita in eisdem</p>
                 <p>Omnes altaristae in Vschowa, quorum numerus triginta tres.</p>
+                <milestone n="341v" facs="FFimg:ask_3!341v.JPG" xml:id="ask3-113"/>
                 <table>
                     <row role="data">
                         <cell>Vlossakowicze</cell>
@@ -12634,6 +12885,7 @@
                         <cell>12 gr.</cell>
                         <cell/>
                     </row>
+                    <milestone n="341v-1" xml:id="ask3-114"/>
                     <row role="data">
                         <cell>Niechlod</cell>
                         <cell>12 gr.</cell>
@@ -12680,6 +12932,7 @@
                         <cell>12 gr.</cell>
                         <cell/>
                     </row>
+                    <milestone n="342" facs="FFimg:ask_3!342.JPG" xml:id="ask3-115"/>
                     <row role="data">
                         <cell>
                             <seg xml:id="ASK3.v214" corresp="v214">Bokowiecz</seg> prope
@@ -12715,6 +12968,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="342-1" xml:id="ask3-116"/>
                 <p>
                     Decanatus Grodzicensis<anchor xml:id="ASK3.v216" corresp="v216" n="v216"/>
                 </p>
@@ -12752,6 +13006,7 @@
                         <cell>12 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <pb n="342v" facs="FFimg:ask_3!342v.JPG"/>
                     <row role="data">
                         <cell>
                             <seg xml:id="ASK3.v218" corresp="v218">Lęki</seg>
@@ -12760,7 +13015,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
-                <pb n="342v" facs="FFimg:ask_3!342v.JPG"/>
+                <milestone n="342v" facs="FFimg:ask_3!342v.JPG" xml:id="ask3-117"/>
                 <table>
                     <row role="data">
                         <cell>Pthaszkowo</cell>
@@ -12800,6 +13055,7 @@
                         <cell>s-t<anchor xml:id="ASK3.v222" corresp="v222" n="v222"/>
                         </cell>
                     </row>
+                    <milestone n="342v-1" xml:id="ask3-118"/>
                     <row role="data">
                         <cell>Opalienicza</cell>
                         <cell>1 mrc.</cell>
@@ -12828,6 +13084,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="342v-2" xml:id="ask3-119"/>
                 <p>Debita in eisdem</p>
                 <table>
                     <row role="data">
@@ -12868,6 +13125,7 @@
                         <cell>12 gr.</cell>
                         <cell/>
                     </row>
+                    <milestone n="343" facs="FFimg:ask_3!343.JPG" xml:id="ask3-120"/>
                     <row role="data">
                         <cell>In Sbassin quinque mansionariae per <seg xml:id="ASK3.v227" corresp="v227">12 grossos</seg>
                         </cell>
@@ -12907,9 +13165,7 @@
                         <cell>12 gr.</cell>
                         <cell/>
                     </row>
-                </table>
-
-                <table>
+                    <milestone n="343-1" xml:id="ask3-121"/>
                     <row role="data">
                         <cell>Prochi</cell>
                         <cell>20 gr.</cell>
@@ -12960,6 +13216,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="343v" facs="FFimg:ask_3!343v.JPG" xml:id="ask3-122"/>
                 <pb n="343v" facs="FFimg:ask_3!343v.JPG"/>
                 <p>Decanatus Vronicensis</p>
                 <table>
@@ -12982,6 +13239,7 @@
                     </row>
                 </table>
                 <p>Altaristae ibidem</p>
+                <milestone n="343v-1" xml:id="ask3-123"/>
                 <table>
                     <row role="data">
                         <cell>
@@ -13023,6 +13281,7 @@
                         <cell>15 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="343v-2" xml:id="ask3-124"/>
                     <row role="data">
                         <cell>Praepositus Sanctae <seg xml:id="ASK3.v233" corresp="v233">Trinitatis
                                 a praepositura</seg>
@@ -13070,6 +13329,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="344" facs="FFimg:ask_3!344.JPG" xml:id="ask3-125"/>
                 <p>Altare <seg xml:id="ASK3.v236" corresp="v236">ibidem</seg>. <rs type="person" ref="Q163">Martinus a <seg xml:id="ASK3.v237" corresp="v237">Stobnicza altarista</seg>
                     </rs> corporali
                     iuramento praestito deposuit census trium marcarum per <rs type="person" ref="Q164">dominum <seg xml:id="ASK3.v238" corresp="v238">Bukowieczki</seg>
@@ -13099,6 +13359,7 @@
                         <cell>16 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="344-1" xml:id="ask3-126"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q166">Ioannes altarista</rs>
@@ -13135,6 +13396,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="344v" facs="FFimg:ask_3!344v.JPG" xml:id="ask3-127"/>
                 <pb n="344" facs="FFimg:ask_3!344.JPG"/>
                 <p>Debita in eisdem</p>
                 <table>
@@ -13168,6 +13430,7 @@
                         <cell>2 fl. </cell>
                         <cell/>
                     </row>
+                    <milestone n="344v-1" xml:id="ask3-128"/>
                     <row role="data">
                         <cell>Altarista in Bytin</cell>
                         <cell>15 gr.<anchor n="v271" xml:id="ASK3.v271" corresp="v271"/>
@@ -13216,6 +13479,7 @@
                         <cell>24 gr.</cell>
                         <cell/>
                     </row>
+                    <milestone n="344v-2" xml:id="ask3-129"/>
                     <row role="data">
                         <cell>Quinque mansionariae per <seg xml:id="ASK3.v246" corresp="v246">
                                 <del>14</del>24 gr.</seg>
@@ -13244,11 +13508,16 @@
                         </cell>
                         <cell/>
                     </row>
+                    
                     <row role="data">
                         <cell>Praepositura Sancti Spiritus</cell>
                         <cell>24 gr.</cell>
                         <cell/>
                     </row>
+                    </table>
+                    <milestone n="345" facs="FFimg:ask_3!345.JPG" xml:id="ask3-130"/>
+                    <pb n="345" facs="FFimg:ask_3!345.JPG"/>
+                    <table>
                     <row role="data">
                         <cell>
                             <seg xml:id="ASK3.v272" corresp="v272" type="order">Lascze</seg>
@@ -13264,9 +13533,6 @@
                         <cell>2 fl.</cell>
                         <cell/>
                     </row>
-                </table>
-                <pb n="345" facs="FFimg:ask_3!345.JPG"/>
-                <table>
                     <row role="data">
                         <cell>Miedzichod <seg xml:id="ASK3.v250" corresp="v250">per <rs type="person" ref="Q175">dominum
                                 Ostrorog</rs>
@@ -13282,6 +13548,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="345-1" xml:id="ask3-131"/>
                 <p>Decanatus Miedzirzeczensis</p>
                 <table>
                     <row role="data">
@@ -13317,6 +13584,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="345v" facs="FFimg:ask_3!345v.JPG" xml:id="ask3-132"/>
                 <pb n="345v" facs="FFimg:ask_3!345v.JPG"/>
                 <p>Occupata per haereticos ac per alios debita</p>
                 <table>
@@ -13353,6 +13621,7 @@
                         <cell>1 mrc.</cell>
                         <cell/>
                     </row>
+                    <milestone n="345v-1" xml:id="ask3-133"/>
                     <row role="data">
                         <cell>Altaristae duo in Squirzina desolati</cell>
                         <cell/>
@@ -13393,6 +13662,7 @@
                         <cell>12 gr.</cell>
                         <cell/>
                     </row>
+                    <milestone n="345v-2" xml:id="ask3-134"/>
                     <row role="data">
                         <cell>Antiqua Curia</cell>
                         <cell>12 gr.</cell>
@@ -13443,6 +13713,7 @@
                         <cell>12 gr.</cell>
                         <cell/>
                     </row>
+                    <milestone n="346" facs="FFimg:ask_3!346.JPG" xml:id="ask3-135"/>
                     <row role="data">
                         <cell>Gorzicze</cell>
                         <cell>12 gr.</cell>
@@ -13479,6 +13750,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="346-1" xml:id="ask3-136"/>
                 <p>Collegiata ecclesia in Srzoda</p>
                 <table>
                     <row role="data">
@@ -13525,6 +13797,7 @@
                         <cell>24 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="346-2" xml:id="ask3-137"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q188">Paulus Pawlowski</rs>
@@ -13583,6 +13856,7 @@
                         <cell>8 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="346v" facs="FFimg:ask_3!346v.JPG" xml:id="ask3-138"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q194">Iacobus a Srzoda</rs>
@@ -13620,6 +13894,7 @@
                         <cell>16 gr.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="346v-1" xml:id="ask3-139"/>
                     <row role="data">
                         <cell>
                             <rs type="person" ref="Q198">Paulus Potluczek</rs> </cell>
@@ -13663,6 +13938,7 @@
                         <cell>s-t</cell>
                     </row>
                 </table>
+                <milestone n="347" facs="FFimg:ask_3!347.JPG" xml:id="ask3-140"/>
                 <pb n="347" facs="FFimg:ask_3!347.JPG"/>
                 <p>Debita in eisdem</p>
                 <table>
@@ -13707,6 +13983,7 @@
                         <cell/>
                     </row>
                 </table>
+                <milestone n="347-1" xml:id="ask3-141"/>
                 <p>Abbates</p>
                 <table>
                     <row role="data">
@@ -13714,27 +13991,32 @@
                         <cell>32 fl.</cell>
                         <cell/>
                     </row>
+                    <milestone n="347-2" xml:id="ask3-142"/>
                     <row role="data">
                         <cell>Przemethensis</cell>
                         <cell>12 fl.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="347-3" xml:id="ask3-143"/>
                     <row role="data">
                         <cell>Obrensis</cell>
                         <cell>8 fl.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="347-4" xml:id="ask3-144"/>
                     <row role="data">
                         <cell>Bledzowiensis</cell>
                         <cell>6 fl.</cell>
                         <cell>s-t</cell>
                     </row>
+                    <milestone n="347-5" xml:id="ask3-145"/>
                     <row role="data">
                         <cell>Paradisiensis</cell>
                         <cell>10 fl.</cell>
                         <cell/>
                     </row>
                 </table>
+                <milestone n="347-6" xml:id="ask3-146"/>
             </div>
             <div type="notes">
                 <note n="1" xml:id="n-1" target="#note-1">
