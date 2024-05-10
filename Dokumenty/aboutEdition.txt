@@ -1,0 +1,33 @@
+Rejestr kontrybucji diecezji poznańskiej z 1561 r.
+
+Informacja wstępna
+Strona zawiera informację o danych badawczych do edycji dwóch kopii rejestru kontrybucji z wielkopolskiej części diecezji poznańskiej z 1561 r. przechowywanych w Archiwum Głównym Akt Dawnych w Warszawie:
+
+A - Regestrum contributionis duplae in totum clerum pro serenissimo principe domino domino Sigismundo Augusto rege Poloniae anno Domini millesimo quingentesimo sexagesimo primo in synodo provinciali Varssouiensi decretae, cuius contributionis exactor deputatus venerabilis dominus Michael Skrzethussewsky canonicus Posnaniensis, Archiwum Główne Akt Dawnych, Archiwum Skarbu Koronnego, sygn. 1/7/0/3/3, k. 318-347.
+
+B - Regestrum contributionis duplae in totum clerum decretae pro serenissimo principe domino domino Sigismundo Augusto rege Poloniae anno Domini millesimo quingentesimo sexagesimo primo in synodo provinciali Varssouiensi, cuius contributionis exactor deputatus venerabilis dominus Michael Skzetussewski canonicus Posnaniensis, Archiwum Główne Akt Dawnych, Archiwum Skarbu Koronnego, sygn. 1/7/0/3/91, k. 1-78.
+
+Artykuł naukowy
+Artykuł naukowy przedłożony do czasopisma "Studia Źródłoznawcze" składa się z następujących części:
+
+Uwagi wstępne
+Geneza i sporządzenie rejestru
+Metodyka edycji rejestru
+Podsumowanie
+Bibliografia
+Edycja tradycyjna pełnotekstowa
+Edycja tradycyjna pełnotekstowa składa się z:
+
+Tekstu głównego z aparatem krytycznym
+Indeksu osób
+Indeksu miejscowości
+Edycja cyfrowa pełnotekstowa (XML-TEI)
+Edycja cyfrowa pełnotekstowa składa się z:
+
+Aplikacji internetowej TEI-Publisher, która zawiera skany rękopisów oraz tekst główny wraz z odsyłaczami do osób, miejsc i instytucji
+Bazy danych zawierającej informacje na temat osób, miejsc oraz instytucji wymienionych w obu rejestrach
+Edycja cyfrowa bazodanowa (SQL)
+Edycja cyfrowa bazodanowa składa się z:
+
+Aplikacji internetowej INDXR, która zawiera skany rękopisów oraz dane na temat osób, miejsc i instytucji wymienionych w obu rejestrach
+Plików z danymi do pobrania.

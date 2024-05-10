@@ -1,0 +1,3787 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <!--Adres bibliograficzny edycji cyfrowej-->
+        <fileDesc>
+            <titleStmt>
+                <!--Tytuł dokumentu-->
+                <title>Test</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <!--Tytuł projektu cyfrowego-->
+                    <title>Spisy 1561</title>
+                    <date>2023-2024</date>
+                </edition>
+                <!--edytor - przykład -->
+                <editor>Bogumil Szady et al.</editor>
+            </editionStmt>
+            <publicationStmt>
+                <!-- opis publikacji - poniżej przykład -->
+                <publisher>Instytut Historii PAN</publisher>
+                <pubPlace>Warszawa</pubPlace>
+                <availability>
+                    <licence>CC...</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- Do uzupełnienia opis rękopisów-->
+                <msDesc n="1" type="original">
+                    <msIdentifier xml:id="W.ASK91" xml:lang="la">
+                        <repository>AGAD ASK</repository>
+                        <idno>1/7/0/3/91</idno>
+                    </msIdentifier>
+                    <p>rozmiar: 220 mm x 330 mm </p>
+                    <p>k. 78 oraz 5 nlb (na początku oraz po k. 23, 64, 78).</p>
+                    <p>karty niezapisane: 20v, 28, 35v, 45, 52, 58v, 61v, 69v, 72v, 78.</p>
+                </msDesc>
+                <msDesc n="2" type="original">
+                    <msIdentifier xml:id="W.ASK3" xml:lang="la">
+                        <repository>AGAD ASK</repository>
+                        <idno>1/7/0/3/3</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <standOff>
+        <listApp>
+         <app xml:id="v1">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v1"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v1"/>
+            </rdg>
+         </app>
+         <app xml:id="v2">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v2"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v2"/>
+            </rdg>
+         </app>
+         <app xml:id="v3">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v3"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v3"/>
+            </rdg>
+         </app>
+         <app xml:id="v4">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v4"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v4"/>
+            </rdg>
+         </app>
+         <app xml:id="v5">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v5"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v5"/>
+            </rdg>
+         </app>
+         <app xml:id="v6">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v6"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v6"/>
+            </rdg>
+         </app>
+         <app xml:id="v7">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v7"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v7"/>
+            </rdg>
+         </app>
+         <app xml:id="v8">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v8"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v8"/>
+            </rdg>
+         </app>
+         <app xml:id="v9">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v9"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v9"/>
+            </rdg>
+            <note>
+                    <ab>Wyraz zapisany jaśniejszym atramentem, przetarty i rozmazany. Zapewne wpisany
+                  i przekreślony. Należy traktować jako zaległość, na co wskazuje brak potwierdzenia
+                  w rękopisie A.</ab>
+                </note>
+         </app>
+         <app xml:id="v10">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v10"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v10"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Korektura, przekreślono i wytarto częściowo słowo:
+               florenos</ab>
+                </note>
+         </app>
+         <app xml:id="v11">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v11"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v11"/>
+            </rdg>
+         </app>
+         <app xml:id="v12">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v12"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v12"/>
+            </rdg>
+         </app>
+         <app xml:id="v13">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v13"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v13"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: inna kolejność płatników: Erasmus Mielienski, Albertus
+                  Oborniczki.</ab>
+                </note>
+         </app>
+         <app xml:id="v14">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v14"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v14"/>
+            </rdg>
+         </app>
+         <app xml:id="v15">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v15"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v15"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Po zapisie dotyczącym Szymona Chabielskiego występuje zaległość:
+                  Ioannes Dąmbniczki 2 fl. Wiersz ten został przekreślony i pisarz dodał na końcu
+                  wiersza inną ręką i jaśniejszym atramentem uwagę o wpłacie: solvit. Cała
+                  informacja o tym płatniku i zapłaconym podatku została dopisana jaśniejszym
+                  atramentem jako ostatni wiersz wśród płatności kanoników katedry
+               poznańskiej.</ab>
+                </note>
+         </app>
+         <app xml:id="v16">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v16"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v16"/>
+            </rdg>
+            <note>
+                    <ab>Lekcja niepewna: Ninÿnskÿ.</ab>
+                </note>
+         </app>
+         <app xml:id="v17">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v17"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v17"/>
+            </rdg>
+         </app>
+         <app xml:id="v18">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v18"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v18"/>
+            </rdg>
+         </app>
+         <app xml:id="v19">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v19"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v19"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Inna kolejność, zaległość: Lucas a Gnesna 24 gr występuje po zapisie
+                  dotyczącym Leonarda Hermana. Wiersz ten został przekreślony i pisarz dodał na
+                  końcu wiersza inną ręką i jaśniejszym atramentem uwagę o wpłacie:
+               solvit.</ab>
+                </note>
+         </app>
+         <app xml:id="v20">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v20"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v20"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Inna kolejność, zapis ten znajduje się jako ostatnia pozycja wśród
+                  zaległości altarzystów katedralnych poznańskich, po płatności Adama z
+                  Poznania.</ab>
+                </note>
+         </app>
+         <app xml:id="v21">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v21"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v21"/>
+            </rdg>
+            <note>
+                    <ab>Liczba groszy wytarta.</ab>
+                </note>
+         </app>
+         <app xml:id="v22">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v22"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v22"/>
+            </rdg>
+         </app>
+         <app xml:id="v23">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v23"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v23"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: zapis w innym układzie.</ab>
+                </note>
+         </app>
+         <app xml:id="v24">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v24"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v24"/>
+            </rdg>
+         </app>
+         <app xml:id="v25">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v25"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v25"/>
+            </rdg>
+         </app>
+         <app xml:id="v26">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v26"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v26"/>
+            </rdg>
+         </app>
+         <app xml:id="v27">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v27"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v27"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Inna kolejność, płatność Jana Bnińskiego wpisana po Marcinie
+                  Żydowskim.</ab>
+                </note>
+         </app>
+         <app xml:id="v28">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v28"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v28"/>
+            </rdg>
+         </app>
+         <app xml:id="v29">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v29"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v29"/>
+            </rdg>
+         </app>
+         <app xml:id="v30">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v30"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v30"/>
+            </rdg>
+         </app>
+         <app xml:id="v31">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v31"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v31"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Inna kolejność, należność altarzysty Mikołaja pojawia się w tym
+                  miejscu jako zaległość w brzmieniu: Debita in eisdem. Nicolaus altarista, 8 gr.,
+                  solvit gr. 5, quia census perierunt marcae 3. Informacja o zapłaconej sumie
+                  zapisana inną ręką i jaśniejszym atramentem, zapewne dopisana w innym niż cały
+                  rejestr czasie.</ab>
+                </note>
+         </app>
+         <app xml:id="v32">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v32"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v32"/>
+            </rdg>
+         </app>
+         <app xml:id="v33">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v33"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v33"/>
+            </rdg>
+         </app>
+         <app xml:id="v34">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v34"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v34"/>
+            </rdg>
+         </app>
+         <app xml:id="v35">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v35"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v35"/>
+            </rdg>
+         </app>
+         <app xml:id="v360">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v36"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v360"/>
+            </rdg>
+         </app>
+         <app xml:id="v37">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v37"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v37"/>
+            </rdg>
+         </app>
+         <app xml:id="v38">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v38"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v38"/>
+            </rdg>
+         </app>
+         <app xml:id="v39">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v39"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v39"/>
+            </rdg>
+         </app>
+         <app xml:id="v40">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v40"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v40"/>
+            </rdg>
+         </app>
+         <app xml:id="v41">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v41"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v41"/>
+            </rdg>
+         </app>
+         <app xml:id="v42">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v42"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v42"/>
+            </rdg>
+         </app>
+         <app xml:id="v43">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v43"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v43"/>
+            </rdg>
+         </app>
+         <app xml:id="v44">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v44"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v44"/>
+            </rdg>
+         </app>
+         <app xml:id="v45">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v45"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v45"/>
+            </rdg>
+         </app>
+         <app xml:id="v46">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v46"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v46"/>
+            </rdg>
+         </app>
+         <app xml:id="v47">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v47"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v47"/>
+            </rdg>
+         </app>
+         <app xml:id="v48">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v48"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v48"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Inna kolejność, płatność Pawła z Rychwału wpisana wyżej po Baltazarze
+                  Strusiu (Strutius).</ab>
+                </note>
+         </app>
+         <app xml:id="v49">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v49"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v49"/>
+            </rdg>
+         </app>
+         <app xml:id="v50">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v50"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v50"/>
+            </rdg>
+         </app>
+         <app xml:id="v51">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v51"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v51"/>
+            </rdg>
+         </app>
+         <app xml:id="v52">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v52"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v52"/>
+            </rdg>
+         </app>
+         <app xml:id="v53">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v53"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v53"/>
+            </rdg>
+         </app>
+         <app xml:id="v54">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v54"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v54"/>
+            </rdg>
+         </app>
+         <app xml:id="v55">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v55"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v55"/>
+            </rdg>
+         </app>
+         <app xml:id="v56">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v56"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v56"/>
+            </rdg>
+         </app>
+         <app xml:id="v57">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v57"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v57"/>
+            </rdg>
+         </app>
+         <app xml:id="v58">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v58"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v58"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: inna kolejność płatników: Stanislaus illuminator, Post mortem Mathiae
+                  Gabin.</ab>
+                </note>
+         </app>
+         <app xml:id="v59">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v59"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v59"/>
+            </rdg>
+         </app>
+         <app xml:id="v60">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v60"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v60"/>
+            </rdg>
+         </app>
+         <app xml:id="v61">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v61"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v61"/>
+            </rdg>
+         </app>
+         <app xml:id="v62">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v62"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v62"/>
+            </rdg>
+         </app>
+         <app xml:id="v63">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v63"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v63"/>
+            </rdg>
+         </app>
+         <app xml:id="v64">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v64"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v64"/>
+            </rdg>
+         </app>
+         <app xml:id="v65">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v65"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v65"/>
+            </rdg>
+         </app>
+         <app xml:id="v66">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v66"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v66"/>
+            </rdg>
+         </app>
+         <app xml:id="v67">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v67"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v67"/>
+            </rdg>
+         </app>
+         <app xml:id="v68">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v68"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v68"/>
+            </rdg>
+         </app>
+         <app xml:id="v69">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v69"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v69"/>
+            </rdg>
+         </app>
+         <app xml:id="v70">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v70"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v70"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: po płatności plebana kościoła św. Małgorzaty jest zapis dotyczący
+                  altarii w kościele św. Barbary, bez podania sumy podatku: Altare in ecclesia
+                  sanctae Barbarae.</ab>
+                </note>
+         </app>
+         <app xml:id="v71">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v71"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v71"/>
+            </rdg>
+         </app>
+         <app xml:id="v72">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v72"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v72"/>
+            </rdg>
+         </app>
+         <app xml:id="v73">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v73"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v73"/>
+            </rdg>
+         </app>
+         <app xml:id="v74">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v74"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v74"/>
+            </rdg>
+         </app>
+         <app xml:id="v75">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v75"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v75"/>
+            </rdg>
+         </app>
+         <app xml:id="v76">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v76"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v76"/>
+            </rdg>
+         </app>
+         <app xml:id="v77">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v77"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v77"/>
+            </rdg>
+         </app>
+         <app xml:id="v78">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v78"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v78"/>
+            </rdg>
+         </app>
+         <app xml:id="v79">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v79"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v79"/>
+            </rdg>
+         </app>
+         <app xml:id="v80">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v80"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v80"/>
+            </rdg>
+         </app>
+         <app xml:id="v81">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v81"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v81"/>
+            </rdg>
+         </app>
+         <app xml:id="v82">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v82"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v82"/>
+            </rdg>
+         </app>
+         <app xml:id="v83">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v83"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v83"/>
+            </rdg>
+         </app>
+         <app xml:id="v84">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v84"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v84"/>
+            </rdg>
+         </app>
+         <app xml:id="v85">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v85"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v85"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Zaznaczona jaśniejszym atramentem kreska pozioma odnosi kwotę 4 fl.
+                  do osoby plebana Bartłomieja Siekierzeckiego.</ab>
+                </note>
+         </app>
+         <app xml:id="v86">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v86"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v86"/>
+            </rdg>
+         </app>
+         <app xml:id="v87">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v87"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v87"/>
+            </rdg>
+         </app>
+         <app xml:id="v88">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v88"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v88"/>
+            </rdg>
+         </app>
+         <app xml:id="v89">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v89"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v89"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Inna kolejność, płatność z parafii Spławie znajduje się kilka wierszy
+                  wyżej, przed parafią Wierzenica.</ab>
+                </note>
+         </app>
+         <app xml:id="v90">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v90"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v90"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Płatność z parafii Głuszyna dopisana inną ręką oraz jaśniejszym
+                  atramentem. Wynika to zapewne z faktu, że podatek został zapłacony z opóźnieniem –
+                  parafia w Głuszynie pojawia się powtórnie jako ostatnia wśród zalegających z
+                  uiszczeniem podatku (Debita in eisdem), przy której jaśniejszym atramentem
+                  dopisano: solvit.</ab>
+                </note>
+         </app>
+         <app xml:id="v91">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v91"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v91"/>
+            </rdg>
+            <note>
+                    <ab>Zob. przyp. <ref target="#v90">v90</ref>
+                    </ab>
+                </note>
+         </app>
+         <app xml:id="v92">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v92"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v92"/>
+            </rdg>
+         </app>
+         <app xml:id="v93">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v93"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v93"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Cały wiersz zapisany jaśniejszym atramentem. Wynika to prawdopodobnie
+                  z faktu, że podatek został zapłacony z opóźnieniem - przekreślony wiersz dotyczący
+                  mansjonarzy pojawia się powtórnie wśród zalegających z uiszczeniem podatku (Debita
+                  in eisdem), po wierszu: Post mortem Symonis Pakost.</ab>
+                </note>
+         </app>
+         <app xml:id="v94">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v94"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v94"/>
+            </rdg>
+         </app>
+         <app xml:id="v95">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v95"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v95"/>
+            </rdg>
+         </app>
+         <app xml:id="v96">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v96"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v96"/>
+            </rdg>
+         </app>
+         <app xml:id="v97">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v97"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v97"/>
+            </rdg>
+         </app>
+         <app xml:id="v98">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v98"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v98"/>
+            </rdg>
+         </app>
+         <app xml:id="v99">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v99"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v99"/>
+            </rdg>
+         </app>
+         <app xml:id="v100">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v100"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v100"/>
+            </rdg>
+         </app>
+         <app xml:id="v101">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v101"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v101"/>
+            </rdg>
+         </app>
+         <app xml:id="v102">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v102"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v102"/>
+            </rdg>
+         </app>
+         <app xml:id="v103">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v103"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v103"/>
+            </rdg>
+         </app>
+         <app xml:id="v104">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v104"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v104"/>
+            </rdg>
+         </app>
+         <app xml:id="v105">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v105"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v105"/>
+            </rdg>
+         </app>
+         <app xml:id="v106">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v106"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v106"/>
+            </rdg>
+         </app>
+         <app xml:id="v107">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v107"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v107"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Inna kolejność płatników: Martinus Molenda, Adam doctor.</ab>
+                </note>
+         </app>
+         <app xml:id="v108">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v108"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v108"/>
+            </rdg>
+            <note>
+                    <ab>Zob. przyp. <ref target="#v107">v107</ref>
+                    </ab>
+                </note>
+         </app>
+         <app xml:id="v109">
+            <rdg wit="ASK91">
+               <ref target="ASK91.109"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v109"/>
+            </rdg>
+         </app>
+         <app xml:id="v110">
+            <rdg wit="ASK91">
+               <ref target="ASK91.110"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v110"/>
+            </rdg>
+         </app>
+         <app xml:id="v111">
+            <rdg wit="ASK91">
+               <ref target="ASK91.111"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v111"/>
+            </rdg>
+         </app>
+         <app xml:id="v112">
+            <rdg wit="ASK91">
+               <ref target="ASK91.112"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v112"/>
+            </rdg>
+         </app>
+         <app xml:id="v113">
+            <rdg wit="ASK91">
+               <ref target="ASK91.113"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v113"/>
+            </rdg>
+         </app>
+         <app xml:id="v114">
+            <rdg wit="ASK91">
+               <ref target="ASK91.114"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v114"/>
+            </rdg>
+         </app>
+         <app xml:id="v115">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v115"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v115"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Korektura: wytarte słowo grossos zastąpione przez
+               florenos.</ab>
+                </note>
+         </app>
+         <app xml:id="v116">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v116"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v116"/>
+            </rdg>
+         </app>
+         <app xml:id="v117">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v117"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v117"/>
+            </rdg>
+         </app>
+         <app xml:id="v118">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v118"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v118"/>
+            </rdg>
+         </app>
+         <app xml:id="v119">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v119"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v119"/>
+            </rdg>
+         </app>
+         <app xml:id="v120">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v120"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v120"/>
+            </rdg>
+         </app>
+         <app xml:id="v121">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v121"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v121"/>
+            </rdg>
+         </app>
+         <app xml:id="v122">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v122"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v122"/>
+            </rdg>
+         </app>
+         <app xml:id="v123">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v123"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v123"/>
+            </rdg>
+         </app>
+         <app xml:id="v124">
+            <rdg wit="ASK91">
+               <ref target="ASK91.124"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v124"/>
+            </rdg>
+         </app>
+         <app xml:id="v125">
+            <rdg wit="ASK91">
+               <ref target="ASK91.125"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v125"/>
+            </rdg>
+         </app>
+         <app xml:id="v126">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v126"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v126"/>
+            </rdg>
+         </app>
+         <app xml:id="v127">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v127"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v127"/>
+            </rdg>
+         </app>
+         <app xml:id="v128">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v128"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v128"/>
+            </rdg>
+         </app>
+         <app xml:id="v129">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v129"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v129"/>
+            </rdg>
+         </app>
+         <app xml:id="v130">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v130"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v130"/>
+            </rdg>
+         </app>
+         <app xml:id="v131">
+            <rdg wit="ASK91">
+               <ref target="ASK91.131"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v131"/>
+            </rdg>
+         </app>
+         <app xml:id="v132">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v132"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v132"/>
+            </rdg>
+         </app>
+         <app xml:id="v133">
+            <rdg wit="ASK91">
+               <ref target="ASK91.133"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v133"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Inna kolejność płatników: Ioannes a Srzem, Ioannes
+               Brodnicza.</ab>
+                </note>
+         </app>
+         <app xml:id="v134">
+            <rdg wit="ASK91">
+               <ref target="ASK91.134"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v134"/>
+            </rdg>
+            <note>
+                    <ab>Zob. przyp. <ref target="#v133">v133</ref>
+                    </ab>
+                </note>
+         </app>
+         <app xml:id="v135">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v135"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v135"/>
+            </rdg>
+         </app>
+         <app xml:id="v136">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v136"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v136"/>
+            </rdg>
+         </app>
+         <app xml:id="v137">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v137"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v137"/>
+            </rdg>
+         </app>
+         <app xml:id="v138">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v138"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v138"/>
+            </rdg>
+         </app>
+         <app xml:id="v139">
+            <rdg wit="ASK91">
+               <ref target="ASK91.139"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v139"/>
+            </rdg>
+         </app>
+         <app xml:id="v140">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v140"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v140"/>
+            </rdg>
+         </app>
+         <app xml:id="v141">
+            <rdg wit="ASK91">
+               <ref target="ASK91.141"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v141"/>
+            </rdg>
+         </app>
+         <app xml:id="v142">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v142"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v142"/>
+            </rdg>
+         </app>
+         <app xml:id="v143">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v143"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v143"/>
+            </rdg>
+         </app>
+         <app xml:id="v144">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v144"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v144"/>
+            </rdg>
+         </app>
+         <app xml:id="v145">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v145"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v145"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Suma groszy jest wytarta i nieczytelna.</ab>
+                </note>
+         </app>
+         <app xml:id="v146">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v146"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v146"/>
+            </rdg>
+         </app>
+         <app xml:id="v147">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v147"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v147"/>
+            </rdg>
+         </app>
+         <app xml:id="v148">
+            <rdg wit="ASK91">
+               <ref target="ASK91.148"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v148"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Inna kolejność płatników.</ab>
+                </note>
+         </app>
+         <app xml:id="v149">
+            <rdg wit="ASK91">
+               <ref target="ASK91.149"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v149"/>
+            </rdg>
+            <note>
+                    <ab>Zob. przyp. <ref target="#v148">v148</ref>
+                    </ab>
+                </note>
+         </app>
+         <app xml:id="v150">
+            <rdg wit="ASK91">
+               <ref target="ASK91.150"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v150"/>
+            </rdg>
+         </app>
+         <app xml:id="v151">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v151"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v151"/>
+            </rdg>
+         </app>
+         <app xml:id="v152">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v152"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v152"/>
+            </rdg>
+         </app>
+         <app xml:id="v153">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v153"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v153"/>
+            </rdg>
+         </app>
+         <app xml:id="v154">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v154"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v154"/>
+            </rdg>
+         </app>
+         <app xml:id="v155">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v155"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v155"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Wytarte słowo: solvit.</ab>
+                </note>
+         </app>
+         <app xml:id="v156">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v156"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v156"/>
+            </rdg>
+         </app>
+         <app xml:id="v157">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v157"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v157"/>
+            </rdg>
+         </app>
+         <app xml:id="v158">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v158"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v158"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Inna kolejność, nazwa wymieniona jako ostania pozycja wśród parafii,
+                  po płatności: Praepositus in Dolsko Sancti Spiritus.</ab>
+                </note>
+         </app>
+         <app xml:id="v159">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v159"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v159"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Wytarte słowo: solvit.</ab>
+                </note>
+         </app>
+         <app xml:id="v160">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v160"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v160"/>
+            </rdg>
+         </app>
+         <app xml:id="v161">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v161"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v161"/>
+            </rdg>
+         </app>
+         <app xml:id="v162">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v162"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v162"/>
+            </rdg>
+         </app>
+         <app xml:id="v163">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v163"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v163"/>
+            </rdg>
+         </app>
+         <app xml:id="v164">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v164"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v164"/>
+            </rdg>
+         </app>
+         <app xml:id="v165">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v165"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v165"/>
+            </rdg>
+         </app>
+         <app xml:id="v166">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v166"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v166"/>
+            </rdg>
+         </app>
+         <app xml:id="v167">
+            <rdg wit="ASK91">
+               <ref target="ASK91.167"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v167"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Inna kolejność, wiersz wpisany niżej po płatności Malchera,
+                  altarzysty w kościele Bożego Ciała.</ab>
+                </note>
+         </app>
+         <app xml:id="v168">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v168"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v168"/>
+            </rdg>
+         </app>
+         <app xml:id="v169">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v169"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v169"/>
+            </rdg>
+         </app>
+         <app xml:id="v170">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v170"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v170"/>
+            </rdg>
+         </app>
+         <app xml:id="v171">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v171"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v171"/>
+            </rdg>
+         </app>
+         <app xml:id="v172">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v172"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v172"/>
+            </rdg>
+         </app>
+         <app xml:id="v173">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v173"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v173"/>
+            </rdg>
+         </app>
+         <app xml:id="v174">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v174"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v174"/>
+            </rdg>
+         </app>
+         <app xml:id="v175">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v175"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v175"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Po wpłacie z parafii Iłowiec (Gilowiecz) znajduje się przekreślony
+                  wpis z parafii Bronikowo.</ab>
+                </note>
+         </app>
+         <app xml:id="v176">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v176"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v176"/>
+            </rdg>
+         </app>
+         <app xml:id="v177">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v177"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v177"/>
+            </rdg>
+         </app>
+         <app xml:id="v178">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v178"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v178"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Płatność zapisana inną ręką oraz jaśniejszym atramentem.</ab>
+                </note>
+         </app>
+         <app xml:id="v179">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v179"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v179"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Wśród zaległości podatkowych znajdują się dwa wiersze. Pierwszy w
+                  brzmieniu: Przemeth Sancti Andreae. 2 fl. s-t, w którym słowo: solvit, zapisane
+                  zostało inną ręką i jaśniejszym atramentem. Informacja o tej płatności pojawia się
+                  także wcześniej dopisana jako ostatnia wśród parafii, które opłaciły kontrybucję.
+                  Drugi w brzmieniu: Sancti Spiritus ante Przemeth. 2 fl.</ab>
+                </note>
+         </app>
+         <app xml:id="v180">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v180"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v180"/>
+            </rdg>
+         </app>
+         <app xml:id="v181">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v181"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v181"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Po nazwie miejscowości niejasny znak lub litera; zapewne pisarz
+                  rozpoczął i przerwał zapis w tym samym wierszu następnej nazwy: Lipno.</ab>
+                </note>
+         </app>
+         <app xml:id="v182">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v182"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v182"/>
+            </rdg>
+         </app>
+         <app xml:id="v183">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v183"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v183"/>
+            </rdg>
+         </app>
+         <app xml:id="v184">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v184"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v184"/>
+            </rdg>
+         </app>
+         <app xml:id="v185">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v185"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v185"/>
+            </rdg>
+         </app>
+         <app xml:id="v186">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v186"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v186"/>
+            </rdg>
+         </app>
+         <app xml:id="v187">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v187"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v187"/>
+            </rdg>
+         </app>
+         <app xml:id="v188">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v188"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v188"/>
+            </rdg>
+         </app>
+         <app xml:id="v189">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v189"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v189"/>
+            </rdg>
+         </app>
+         <app xml:id="v190">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v190"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v190"/>
+            </rdg>
+         </app>
+         <app xml:id="v191">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v191"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v191"/>
+            </rdg>
+         </app>
+         <app xml:id="v192">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v192"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v192"/>
+            </rdg>
+         </app>
+         <app xml:id="v193">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v193"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v193"/>
+            </rdg>
+         </app>
+         <app xml:id="v194">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v194"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v194"/>
+            </rdg>
+         </app>
+         <app xml:id="v195">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v195"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v195"/>
+            </rdg>
+         </app>
+         <app xml:id="v196">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v196"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v196"/>
+            </rdg>
+         </app>
+         <app xml:id="v197">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v197"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v197"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Po Wojciechu Grodziskim płatność od trzeciego mansjonarza: Ioannes
+                  Domachowski. 24 gr. s-t.</ab>
+                </note>
+         </app>
+         <app xml:id="v198">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v198"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v198"/>
+            </rdg>
+         </app>
+         <app xml:id="v199">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v199"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v199"/>
+            </rdg>
+         </app>
+         <app xml:id="v200">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v200"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v200"/>
+            </rdg>
+         </app>
+         <app xml:id="v201">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v201"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v201"/>
+            </rdg>
+         </app>
+         <app xml:id="v202">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v202"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v202"/>
+            </rdg>
+         </app>
+         <app xml:id="v203">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v203"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v203"/>
+            </rdg>
+         </app>
+         <app xml:id="v204">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v204"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v204"/>
+            </rdg>
+         </app>
+         <app xml:id="v205">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v205"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v205"/>
+            </rdg>
+         </app>
+         <app xml:id="v206">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v206"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v206"/>
+            </rdg>
+         </app>
+         <app xml:id="v207">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v207"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v207"/>
+            </rdg>
+         </app>
+         <app xml:id="v208">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v208"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v208"/>
+            </rdg>
+         </app>
+         <app xml:id="v209">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v209"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v209"/>
+            </rdg>
+         </app>
+         <app xml:id="v210">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v210"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v210"/>
+            </rdg>
+         </app>
+         <app xml:id="v211">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v211"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v211"/>
+            </rdg>
+         </app>
+         <app xml:id="v212">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v212"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v212"/>
+            </rdg>
+         </app>
+         <app xml:id="v213">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v213"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v213"/>
+            </rdg>
+         </app>
+         <app xml:id="v214">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v214"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v214"/>
+            </rdg>
+         </app>
+         <app xml:id="v215">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v215"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v215"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Zapis w dwóch wierszach: 1. Lasoczicze. 12 gr. 2. Altare ibidem. W
+                  pierwszym wierszu po nazwie miejscowości: Lasoczicze niejasny znak lub litera;
+                  zapewne pisarz rozpoczął i przerwał zapis w tym samym wierszu słowa:
+               Altare.</ab>
+                </note>
+         </app>
+         <app xml:id="v216">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v216"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v216"/>
+            </rdg>
+         </app>
+         <app xml:id="v217">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v217"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v217"/>
+            </rdg>
+         </app>
+         <app xml:id="v218">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v218"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v218"/>
+            </rdg>
+         </app>
+         <app xml:id="v219">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v219"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v219"/>
+            </rdg>
+         </app>
+         <app xml:id="v220">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v220"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v220"/>
+            </rdg>
+         </app>
+         <app xml:id="v221">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v221"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v221"/>
+            </rdg>
+         </app>
+         <app xml:id="v222">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v222"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v222"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Wiersz zapisany jaśniejszym atramentem.</ab>
+                </note>
+         </app>
+         <app xml:id="v223">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v223"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v223"/>
+            </rdg>
+         </app>
+         <app xml:id="v224">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v224"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v224"/>
+            </rdg>
+         </app>
+         <app xml:id="v225">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v225"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v225"/>
+            </rdg>
+         </app>
+         <app xml:id="v226">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v226"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v226"/>
+            </rdg>
+         </app>
+         <app xml:id="v227">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v227"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v227"/>
+            </rdg>
+         </app>
+         <app xml:id="v228">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v228"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v228"/>
+            </rdg>
+         </app>
+         <app xml:id="v229">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v229"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v229"/>
+            </rdg>
+         </app>
+         <app xml:id="v230">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v230"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v230"/>
+            </rdg>
+         </app>
+         <app xml:id="v231">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v231"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v231"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: zapis w innym układzie.</ab>
+                </note>
+         </app>
+         <app xml:id="v232">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v232"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v232"/>
+            </rdg>
+         </app>
+         <app xml:id="v233">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v233"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v233"/>
+            </rdg>
+         </app>
+         <app xml:id="v234">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v234"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v234"/>
+            </rdg>
+         </app>
+         <app xml:id="v235">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v235"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v235"/>
+            </rdg>
+         </app>
+         <app xml:id="v236">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v236"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v236"/>
+            </rdg>
+         </app>
+         <app xml:id="v237">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v237"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v237"/>
+            </rdg>
+         </app>
+         <app xml:id="v238">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v238"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v238"/>
+            </rdg>
+         </app>
+         <app xml:id="v239">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v239"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v239"/>
+            </rdg>
+         </app>
+         <app xml:id="v240">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v240"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v240"/>
+            </rdg>
+         </app>
+         <app xml:id="v241">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v241"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v241"/>
+            </rdg>
+         </app>
+         <app xml:id="v242">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v242"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v242"/>
+            </rdg>
+         </app>
+         <app xml:id="v243">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v243"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v243"/>
+            </rdg>
+         </app>
+         <app xml:id="v244">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v244"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v244"/>
+            </rdg>
+         </app>
+         <app xml:id="v245">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v245"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v245"/>
+            </rdg>
+         </app>
+         <app xml:id="v246">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v246"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v246"/>
+            </rdg>
+         </app>
+         <app xml:id="v247">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v247"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v247"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Inna kolejność, wpisy miejscowości Lascze i Quilcz znajdują się niżej, po prepozyturze Św. Ducha (Praepositura Sancti Spiritus).</ab>
+                </note>
+         </app>
+         <app xml:id="v248">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v248"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v248"/>
+            </rdg>
+         </app>
+         <app xml:id="v249">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v249"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v249"/>
+            </rdg>
+         </app>
+         <app xml:id="v250">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v250"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v250"/>
+            </rdg>
+         </app>
+         <app xml:id="v251">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v251"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v251"/>
+            </rdg>
+         </app>
+         <app xml:id="v252">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v252"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v252"/>
+            </rdg>
+         </app>
+         <app xml:id="v253">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v253"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v253"/>
+            </rdg>
+         </app>
+         <app xml:id="v254">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v254"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v254"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Wpis w dwóch kolejnych wierszach: 1. Kursko. 12 g. 2. Templewo. 12 g.</ab>
+                </note>
+         </app>
+         <app xml:id="v255">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v255"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v255"/>
+            </rdg>
+         </app>
+         <app xml:id="v256">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v256"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v256"/>
+            </rdg>
+         </app>
+         <app xml:id="v257">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v257"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v257"/>
+            </rdg>
+         </app>
+         <app xml:id="v258">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v258"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v258"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Wpis w dwóch kolejnych wierszach: 1. Tyczina. 12 g. 2. Gorunsko. 12 g.</ab>
+                </note>
+         </app>
+         <app xml:id="v259">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v259"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v259"/>
+            </rdg>
+         </app>
+         <app xml:id="v260">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v260"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v260"/>
+            </rdg>
+         </app>
+         <app xml:id="v261">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v261"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v261"/>
+            </rdg>
+         </app>
+         <app xml:id="v262">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v262"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v262"/>
+            </rdg>
+         </app>
+         <app xml:id="v263">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v263"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v263"/>
+            </rdg>
+         </app>
+         <app xml:id="v264">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v264"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v264"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Inna kolejność, płatność Andrzeja Kaczki (Andreas Quaczka) zamieszczona niżej po płatności Wawrzyńca Cyganka (Laurentius Cziganek).</ab>
+                </note>
+         </app>
+         <app xml:id="v265">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v265"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v265"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Dwukropek po nazwisku Bacca, może oznaczać skrócenie od słowa „baccalaureus”.</ab>
+                </note>
+         </app>
+         <app xml:id="v266">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v266"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v266"/>
+            </rdg>
+         </app>
+         <app xml:id="v267">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v267"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v267"/>
+            </rdg>
+         </app>
+         <app xml:id="v268">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v268"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v268"/>
+            </rdg>
+         </app>
+         <app xml:id="v269">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v269"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v269"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Po płatności Leonarda Hermana znajduje się przekreślony wpis:
+                  Praedicator almanorum, 28 gr. Na lewym marginesie jaśniejszym atramentem, być może
+                  w innym czasie, pisarz dodał: Scriptus inter percepta.</ab>
+                </note>
+         </app>
+         <app xml:id="v270">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v270"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v270"/>
+            </rdg>
+            <note>
+                    <ab>Zob. przyp. <ref target="#v93">v93</ref>
+                    </ab>
+                </note>
+         </app>
+         <app xml:id="v271">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v271"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v271"/>
+            </rdg>
+            <note>
+                    <ab>ASK I 3: Po tej zaległości znajduje się zaległość od altarzysty: Altarista in Bytin 15 gr.</ab>
+                </note>
+         </app>
+         <app xml:id="v272">
+            <rdg wit="ASK91">
+               <ref target="ASK91.v272"/>
+            </rdg>
+            <rdg wit="ASK3">
+               <ref target="ASK3.v272"/>
+            </rdg>
+            <note>
+                    <ab>Zob. przyp. <ref target="#v247">v247</ref>
+                    </ab>
+                </note>
+         </app>
+      </listApp>
+    </standOff>
+    <text>
+        <body>
+            <div xml:id="ASK91">
+                <milestone unit="unnumbered"/>
+                <pb n="1" facs="FFimg:ask_91!0001_r.jpg"/>
+                <p>Regestrum contributionis duplae in totum clerum <seg xml:id="ASK91.v1" corresp="v1" type="order">decretae</seg> pro serenissimo principe domino domino
+                    <rs type="person" ref="Q207">Sigismundo Augusto</rs> rege Poloniae anno Domini millesimo quingentesimo sexagesimo
+                    primo in synodo provinciali Varssouiensi, cuius contributionis exactor deputatus
+                    venerabilis dominus <rs type="person" ref="Q208">Michael <seg xml:id="ASK91.v2" corresp="v2">Skzetussewski</seg>
+                    </rs> <rs type="institution" ref="Q929">canonicus Posnaniensis</rs>.</p>
+                <milestone unit="unnumbered"/>
+                <pb n="1v" facs="FFimg:ask_91!0001_v.jpg"/>
+                <p>Decanatus rurales</p>
+                <p>
+                    <rs type="place" ref="Q2910">Posnaniensis</rs>
+                </p>
+                <p>
+                    <rs type="place" ref="Q2917">Pysdrensis</rs>
+                </p>
+                <p>
+                    <rs type="place" ref="Q2913">Obornicensis</rs>
+                </p>
+                <p>
+                    <seg xml:id="ASK91.v3" corresp="v3">
+                        <rs type="place" ref="Q2919">Sthęszowiensis</rs>
+                    </seg>
+                </p>
+                <p>
+                    <rs type="place" ref="Q2912">Srzemensis</rs>
+                </p>
+                <p>
+                    <seg xml:id="ASK91.v4" corresp="v4">
+                        <rs type="place" ref="Q2914">Costensis</rs>
+                    </seg>
+                </p>
+                <p>
+                    <rs type="place" ref="Q2920">Novae Civitatis</rs>
+                </p>
+                <p>
+                    <seg xml:id="ASK91.v5" corresp="v5">
+                        <rs type="place" ref="Q2918">Wschowensis</rs>
+                    </seg>
+                </p>
+                <p>
+                    <rs type="place" ref="Q2915">Grodzicensis</rs>
+                </p>
+                <p>
+                    <rs type="place" ref="Q2916">Vronicensis</rs>
+                </p>
+                <p>
+                    <rs type="place" ref="Q2911">Miedzirzecensis</rs>
+                </p>
+                <milestone unit="unnumbered"/>
+                <pb n="2" facs="FFimg:ask_91!0002_r.jpg"/>
+                <p>Praelaturae et canonicatus <rs type="institution" ref="Q934">ecclesiae cathedralis Posnaniensis</rs>.</p>
+                <p>Reverendissimus in Christo pater et dominus dominus <rs type="person" ref="Q209">Andreas Czarnkowski</rs> Dei
+                    gratia <rs type="institution" ref="Q925">episcopus Posnaniensis</rs>, de suis proventibus, per manus venerabilis domini
+                    Foelicis Pomorski in <seg xml:id="ASK91.v6" corresp="v6">Cziazem</seg> plebani
+                    et sui thesaurarii solvit et numeravit in moneta per grossos triginta
+                            <expan>computan<ex>da</ex>
+                    </expan> florenos ducentos.</p>
+                <milestone unit="unnumbered"/>
+                <pb n="2v" facs="FFimg:ask_91!0002_v.jpg"/>
+                <table>
+                    <row role="label">
+                        <cell>Marcae usuales</cell>
+                        <cell>Taxa hac habetur anno Domini 153</cell>
+                        <cell>Marcae argenti</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="institution" ref="Q2870">Praepositus</rs>. <rs type="person" ref="Q211">Adam Conarski</rs> praepositus. Proventus extendunt se ad
+                            marcas centum octo usuales grossos octo. Moderatio facta ad marcas
+                            septuaginta</cell>
+                        <cell>s-t fl. octo</cell>
+                        <cell>ad mrc. argenti 10</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="institution" ref="Q926">Decanus</rs>. Dominus <rs type="person" ref="Q212">Andreas Przeczlawski</rs>. Summa proventum extendunt se ad
+                            marcas quinquaginta quatuor usuales</cell>
+                        <cell>
+                            <p>s-t fl. octo</p>
+                        </cell>
+                        <cell>argenti ad mrc. 10</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="institution" ref="Q922">Archidiaconus Posnaniensis</rs>. Reverendus dominus <rs type="person" ref="Q213">Martinus de Rusiecz</rs>. Ad
+                            marcas sexaginta septem usuales</cell>
+                        <cell>s-t fl. sex</cell>
+                        <cell>argenti ad mrc. 10</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="institution" ref="Q932">Cantor</rs>. Reverendus dominus <rs type="person" ref="Q34">Franciscus Wyssoczki</rs>. Proventus extendunt
+                            se ad marcas viginti cum media grossos 18 </cell>
+                        <cell>s-t fl. 4</cell>
+                        <cell>argenti ad mrc. 3</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="institution" ref="Q938">Custos</rs>. Reverendus dominus <rs type="person" ref="Q35">Martinus Galczinski</rs>, habet proventus in
+                            villa Kaczanowo et censibus emptis. Proventus extendunt se ad marcas
+                            usuales viginti novem et unum fertonem</cell>
+                        <cell>s-t fl. 6</cell>
+                        <cell>argenti ad mrc. 4,5</cell>
+                    </row>
+                </table>
+                <milestone unit="unnumbered"/>
+                <pb n="3" facs="FFimg:ask_91!0003_r.jpg"/>
+                <table>
+                    <row role="label">
+                        <cell>Marcae usuales</cell>
+                        <cell/>
+                        <cell>Argenti<anchor n="1" xml:id="note-1"/>
+                        </cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="institution" ref="Q2879">Scholasticus</rs> <rs type="person" ref="Q214">Ioannes Lawski</rs>
+                        </cell>
+                        <cell>s-t fl. 4</cell>
+                        <cell>taxata ad mrc. argenti tres</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="institution" ref="Q922">Srzemensis archidiaconus</rs> reverendus dominus <rs type="person" ref="Q215">Andreas Patricius</rs>. Habet
+                            proventus in decimis pecuniariis marcas 10,5 usuales</cell>
+                        <cell>s-t fl. duos</cell>
+                        <cell>argenti una cum media</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="institution" ref="Q922">Pczeuensis archidiaconus</rs> <rs type="person" ref="Q216">Laurentius Kierski</rs>. Proventus extendunt se ad
+                            marcas quatuor usuales</cell>
+                        <cell>s-t fl. 2</cell>
+                        <cell/>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="institution" ref="Q928">Cancellarius</rs> <rs type="person" ref="Q217">Stanislaus Warsewiczki</rs>. Habet proventus in decimis
+                            manipularibus et fertonibus. Marcas usuales duodecim grossos 16</cell>
+                        <cell>s-t fl. 2</cell>
+                        <cell>argenti duas mrc.</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="institution" ref="Q929">
+                                <rs type="person" ref="Q218">Stanislaus Slomowski</rs>
+                            </rs>. Proventus in decimis manipularibus et maldratis.
+                            Faciunt marcas usuales quadraginta tres</cell>
+                        <cell>s-t fl. 2</cell>
+                        <cell>argenti septem</cell>
+                    </row>
+                </table>
+                <milestone unit="unnumbered"/>
+                <pb n="3v" facs="FFimg:ask_91!0003_v.jpg"/>
+                <table>
+                    <row role="label">
+                        <cell>Marcae usuales</cell>
+                        <cell/>
+                        <cell>Marcae argenti</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="institution" ref="Q929">
+                                <rs type="person" ref="Q219">Ioannes Skrzetussewski</rs>
+                            </rs>. Habentur proventus. Marcae usuales quadraginta
+                            novem cum media grossi duodecim</cell>
+                        <cell>s-t fl. 4</cell>
+                        <cell>argenti septem</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="institution" ref="Q929">
+                                <rs type="person" ref="Q220">Ioannes Cokaliewski</rs>
+                            </rs>. Habet proventus. Marcas quindecim usuales</cell>
+                        <cell>s-t fl. 2</cell>
+                        <cell>argenti duas cum media</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="institution" ref="Q929">
+                                <rs type="person" ref="Q221">Ioannes Theologus</rs>
+                            </rs>. Proventus censuales in villa Jankowo. Census a
+                            cmethonibus et molendino aquatili incluso. Habet marcas usuales viginti
+                            quinque grossos duodecim</cell>
+                        <cell>s-t fl. 2</cell>
+                        <cell>argenti mrc. 4</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="institution" ref="Q929">
+                                <rs type="person" ref="Q222">Stanislaus Obiezierski</rs>
+                            </rs>
+                        </cell>
+                        <cell>s-t fl. 2</cell>
+                        <cell/>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="institution" ref="Q929">
+                                <rs type="person" ref="Q223">Iacobus Dziaduski</rs>
+                            </rs> suffraganeus</cell>
+                        <cell>3 fl. s-t</cell>
+                        <cell>argenti mrc. 1,5</cell>
+                    </row>
+                </table>
+                <milestone unit="unnumbered"/>
+                <pb n="4" facs="FFimg:ask_91!0004_r.jpg"/>
+                <table>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q224">Faelix Choynowski</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q34">Franciscus Vyszoczki</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q225">Paulus Glogowski</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q226">Petrus Volski</rs>
+                        </cell>
+                        <cell>4 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q208">Michael Skrzethussewski</rs> exactor</cell>
+                        <cell>2 fl.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <milestone unit="unnumbered"/>
+                <pb n="4v" facs="FFimg:ask_91!0004_v.jpg"/>
+                <table>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q227">Petrus Cuneczki</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q228">Stanislaus <seg xml:id="ASK91.v7" corresp="v7">Staręski</seg>
+                            </rs>
+                        </cell>
+                        <cell>4 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q229">Bartholomeus Siekierzeczki</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q230">Andreas Craiewski</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q231">Stanislaus Ruszieczki</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                </table>
+                <milestone unit="unnumbered"/>
+                <pb n="5" facs="FFimg:ask_91!0005_r.jpg"/>
+                <table>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q232">Iacobus Lanczki</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q19">Albertus <seg xml:id="ASK91.v8" corresp="v8">Rudniczki</seg>
+                            </rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>
+                            <del>s-t</del>
+                            <anchor n="v9" corresp="v9" xml:id="ASK91.v9"/>
+                        </cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q233">Stanislaus Cuninski</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q234">Ioannes Rzeskowski</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q235">Paulus Sarbinius</rs> doctor</cell>
+                        <cell>
+                            <seg xml:id="ASK91.v10" corresp="v10">2 fl.</seg>
+                        </cell>
+                        <cell>s-t</cell>
+                    </row>
+                </table>
+                <milestone unit="unnumbered"/>
+                <pb n="5v" facs="FFimg:ask_91!0005_v.jpg"/>
+                <table>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q236">Stanislaus Sziskowski</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q113">Ioannes Przespoliewski</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <seg xml:id="ASK91.v11" corresp="v11" type="order">
+                                <rs type="person" ref="Q238">Albertus
+                                Oborniczki</rs>
+                            </seg>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <seg xml:id="ASK91.v13" corresp="v13" type="order">
+                                <rs type="person" ref="Q237">Erasmus <seg xml:id="ASK91.v12" corresp="v12">Mielinski</seg>
+                                </rs>
+                            </seg>
+                        </cell>
+                        <cell>4 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q239">Ioannes Powodowski</rs>
+                        </cell>
+                        <cell>
+                            <anchor xml:id="ASK91.v14" n="v14" corresp="v14"/>
+                        </cell>
+                        <cell/>
+                    </row>
+                </table>
+                <milestone unit="unnumbered"/>
+                <pb n="6" facs="FFimg:ask_91!0006_r.jpg"/>
+                <table>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q240">Ioannes Bielinski</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q241">Ioannes Zimlinski</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q242">Simon Lugowski</rs>
+                        </cell>
+                        <cell>6 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q243">Laurentius Modliszewski</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q244">Hieronimus Choienski</rs>
+                        </cell>
+                        <cell>24 gr.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                </table>
+                <milestone unit="unnumbered"/>
+                <pb n="6v" facs="FFimg:ask_91!0006_v.jpg"/>
+                <table>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q245">Ioannes Dambniczki</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                </table>
+                <p>Debita in eisdem</p>
+                <table>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q246">Symon Chabelski</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell/>
+                    </row>
+                    <anchor xml:id="ASK91.v15" n="v15" corresp="v15"/>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q247">Ioannes Piotrowski</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell/>
+                    </row>
+                    <row role="data">
+                        <cell>Praebenda sancti Ioannis ante Posnaniam</cell>
+                        <cell>10 fl.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <milestone unit="unnumbered"/>
+                <pb n="7" facs="FFimg:ask_91!0007_r.jpg"/>
+                <p>Altaristae ecclesiae cathedralis Posnaniensis</p>
+                <table>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q248">Iacobus de Gnesna</rs>
+                        </cell>
+                        <cell>26 gr.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q177">Laurentius Cziaganek</rs>
+                        </cell>
+                        <cell>15 gr.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q249">Ioannes <seg xml:id="ASK91.v16" corresp="v16">
+                                <unclear>Ninijnskij</unclear>
+                            </seg>
+                            </rs> Idem dixit census tres marcas <seg xml:id="ASK91.v17" corresp="v17">periisse</seg> in domibus <expan>Posn<ex>aniae?</ex>
+                            </expan> muratis post conflagrationem</cell>
+                        <cell>12 gr.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                </table>
+                <milestone unit="unnumbered"/>
+                <pb n="7v" facs="FFimg:ask_91!0007_v.jpg"/>
+                <table>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q250">Thomas <seg xml:id="ASK91.v18" corresp="v18">Colaczek</seg>
+                            </rs>
+                        </cell>
+                        <cell>24 gr.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q251">Petrus Zerniczki</rs>
+                        </cell>
+                        <cell>15 gr.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q251">Petrus Zerniczki</rs>
+                        </cell>
+                        <cell>15 gr.</cell>
+                        <cell>s-t<anchor n="2" xml:id="note-2"/>
+                        </cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q136">Ioannes a Cobelin</rs>
+                        </cell>
+                        <cell>30 gr.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q252">Mathias a Popowo</rs>
+                        </cell>
+                        <cell>24 gr.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q253">Iacobus a Slugoczin</rs>
+                        </cell>
+                        <cell>28 gr.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q254">Gregorius Pakoslawski</rs>
+                        </cell>
+                        <cell>45 gr.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                </table>
+                <milestone unit="unnumbered"/>
+                <pb n="8" facs="FFimg:ask_91!0008_r.jpg"/>
+                <table>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q255">Gabriel Ridzinski</rs>. Grossi quatuor dimissi, quia census per dominum
+                            <rs type="person" ref="Q256">Stanislaum Ridzinski</rs> tres marcarum non solvuntur</cell>
+                        <cell>26 gr.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q257">Ioannes a Sirakow</rs>
+                        </cell>
+                        <cell>47 gr.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q31">Martinus <choice>
+                                <sic>molenda</sic>
+                                </choice>
+                            </rs>
+                            <anchor n="3" xml:id="note-3"/>
+                        </cell>
+                        <cell>18 gr.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q212">Andreas Przeczlawski</rs>
+                        </cell>
+                        <cell>22 gr.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q244">Hieronimus Choienski</rs>
+                        </cell>
+                        <cell>15 gr.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <seg xml:id="ASK91.v19" corresp="v19" type="order">
+                                <rs type="person" ref="Q258">Lucas a Gnesna</rs>
+                            </seg>
+                        </cell>
+                        <cell>24 gr.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                </table>
+                <milestone unit="unnumbered"/>
+                <pb n="8v" facs="FFimg:ask_91!0008_v.jpg"/>
+                <p>Debita in eisdem</p>
+                <table>
+                    <row role="data">
+                        <cell>Post mortem <rs type="person" ref="Q17">Ioannis Thomiczki</rs>
+                        </cell>
+                        <cell>28 gr.</cell>
+                        <cell/>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <seg xml:id="ASK91.v20" corresp="v20" type="order">De fundo Iariski
+                                villam eiusdem altaris domini <rs type="person" ref="Q262">Splawsczi</rs> occupaverunt, domini de
+                                <rs type="person" ref="Q261">Ostrorog</rs> collatores laico contulerunt</seg>
+                        </cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row role="data">
+                        <cell>Post mortem <rs type="person" ref="Q116">Michaelis</rs>
+                        </cell>
+                        <cell>18 gr.</cell>
+                        <cell/>
+                    </row>
+                    <row role="data">
+                        <cell>Post mortem <rs type="person" ref="Q259">Leonardi Herman</rs>
+                        </cell>
+                        <cell>10 gr.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <milestone unit="unnumbered"/>
+                <pb n="9" facs="FFimg:ask_91!0009_r.jpg"/>
+                <table>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q263">Albertus Zakrzewsky</rs>
+                        </cell>
+                        <cell>
+                            <del>gr.</del>
+                            <anchor xml:id="ASK91.v21" corresp="v21" n="v21"/>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q264">Stephanus Sdzarowsky</rs>
+                        </cell>
+                        <cell>26 gr.</cell>
+                        <cell/>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q237">Erasmus Mielienski</rs>
+                        </cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q239">Ioannes Powodowski</rs>
+                        </cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q265">Laurentius Budzilowski</rs> </cell>
+                        <cell>28 gr.</cell>
+                        <cell/>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q266">Adam doctor de Posnania</rs> </cell>
+                        <cell>9 gr.</cell>
+                        <cell>
+                            <anchor xml:id="ASK91.v22" corresp="v22" n="v22"/>
+                        </cell>
+                    </row>
+                </table>
+            </div>
+            <div xml:id="ASK3">
+                <milestone unit="unnumbered"/>
+                <pb n="318" facs="FFimg:ask_3!318.JPG"/>
+                <p>Regestrum contributionis duplae in totum clerum pro serenissimo principe domino
+                    domino <rs type="person" ref="Q207">Sigismundo Augusto</rs> rege Poloniae anno Domini millesimo quingentesimo
+                    sexagesimo primo in synodo provinciali Varssouiensi <seg xml:id="ASK3.v1" corresp="v1" type="order">decretae</seg>, cuius contributionis exactor deputatus
+                    venerabilis dominus <rs type="person" ref="Q208">Michael <seg xml:id="ASK3.v2" corresp="v2">Skrzethussewsky</seg>
+                    </rs> <rs type="institution" ref="Q929">canonicus Posnaniensis</rs>.</p>
+                <milestone unit="unnumbered"/>
+                <pb n="318v" facs="FFimg:ask_3!318v.JPG"/>
+                <p>Decanatus rurales</p>
+                <p>
+                    <rs type="place" ref="Q2910">Posnaniensis</rs>
+                </p>
+                <p>
+                    <rs type="place" ref="Q2917">Pysdrensis</rs>
+                </p>
+                <p>
+                    <rs type="place" ref="Q2913">Obornicensis</rs>
+                </p>
+                <p>
+                    <seg xml:id="ASK3.v3" corresp="v3">
+                        <rs type="place" ref="Q2919">Sthąssowiensis</rs>
+                    </seg>
+                </p>
+                <p>
+                    <rs type="place" ref="Q2912">Srzemensis</rs>
+                </p>
+                <p>
+                    <seg xml:id="ASK3.v4" corresp="v4">
+                        <rs type="place" ref="Q2914">Costhensis</rs>
+                    </seg>
+                </p>
+                <p>
+                    <rs type="place" ref="Q2920">Novae Civitatis</rs>
+                </p>
+                <p>
+                    <seg xml:id="ASK3.v5" corresp="v5">
+                        <rs type="place" ref="Q2918">Vschowensis</rs>
+                    </seg>
+                </p>
+                <p>
+                    <rs type="place" ref="Q2915">Grodzicensis</rs>
+                </p>
+                <p>
+                    <rs type="place" ref="Q2916">Vronicensis</rs>
+                </p>
+                <p>
+                    <rs type="place" ref="Q2911">Miedzirzecensis</rs>
+                </p>
+                <milestone unit="unnumbered"/>
+                <pb n="319" facs="FFimg:ask_3!319.JPG"/>
+                <p>Praelaturae et canonicatus <rs type="institution" ref="Q934">ecclesiae cathedralis Posnaniensis</rs>.</p>
+                <p>Reverendissimus in Christo pater et dominus dominus <rs type="person" ref="Q209">Andreas Czarnkowski</rs> Dei
+                    gratia <rs type="institution" ref="Q925">episcopus Posnaniensis</rs>, de suis proventibus, per manus venerabilis domini
+                    Foelicis Pomorski in <seg xml:id="ASK3.v6" corresp="v6">Cziaziem</seg> plebani
+                    et sui thesaurarii solvit et numeravit in moneta per grossos triginta
+                            <expan>computan<ex>da</ex>
+                    </expan> florenos ducentos.</p>
+                <milestone unit="unnumbered"/>
+                <table>
+                    <row role="data">
+                        <cell>
+                            <rs type="institution" ref="Q2870">
+                                <rs type="person" ref="Q211">Praepositus</rs>
+                            </rs>
+                        </cell>
+                        <cell>8 fl. in moneta</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="institution" ref="Q926">
+                                <rs type="person" ref="Q212">Decanus</rs>
+                            </rs>
+                        </cell>
+                        <cell>6 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="institution" ref="Q922">
+                                <rs type="person" ref="Q213">Archidiaconus Posnaniensis</rs>
+                            </rs>
+                        </cell>
+                        <cell>6 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="institution" ref="Q932">
+                                <rs type="person" ref="Q34">Cantor</rs>
+                            </rs>
+                        </cell>
+                        <cell>4 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="institution" ref="Q938">
+                                <rs type="person" ref="Q35">Custos</rs>
+                            </rs>
+                        </cell>
+                        <cell>6 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <milestone unit="unnumbered"/>
+                    <row role="data">
+                        <cell>
+                            <rs type="institution" ref="Q2879">
+                                <rs type="person" ref="Q214">Scholasticus</rs>
+                            </rs>
+                        </cell>
+                        <cell>4 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell rows="2">Archidiaconi</cell>
+                        <cell>
+                            <rs type="institution" ref="Q922">
+                                <rs type="person" ref="Q215">Srzemensis</rs>
+                            </rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="institution" ref="Q922">
+                                <rs type="person" ref="Q216">Pczevensis</rs>
+                            </rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="institution" ref="Q928">
+                                <rs type="person" ref="Q217">Cancellarius</rs>
+                            </rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="institution" ref="Q929">
+                                <rs type="person" ref="Q218">Stanislaus Szlomowsky</rs>
+                            </rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <milestone unit="unnumbered"/>
+                    <row role="data">
+                        <cell>
+                            <rs type="institution" ref="Q929">
+                                <rs type="person" ref="Q219">Ioannes Skrzethussewsky</rs>
+                            </rs>
+                        </cell>
+                        <cell>4 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="institution" ref="Q929">
+                                <rs type="person" ref="Q220">Ioannes Cokaliewski</rs>
+                            </rs> </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q221">Ioannes a Iuniwladislawia</rs> theologus</cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="institution" ref="Q929">
+                                <rs type="person" ref="Q222">Stanislaus Obiezierski</rs>
+                            </rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="institution" ref="Q929">
+                                <rs type="person" ref="Q223">Iacobus Dziaduski</rs>
+                            </rs> suffraganeus</cell>
+                        <cell>3 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                </table>
+                <milestone unit="unnumbered"/>
+                <pb n="319v" facs="FFimg:ask_3!319v.JPG"/>
+                <table>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q224">Faelix Choynowski</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q34">Franciscus Vyszoczki</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q225">Paulus Glogowski</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q226">Petrus Volski</rs>
+                        </cell>
+                        <cell>4 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q208">Michael Skrzethussewski</rs> exactor</cell>
+                        <cell>2 fl.</cell>
+                        <cell/>
+                    </row>
+                    <milestone unit="unnumbered"/>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q227">Petrus Cuneczki</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q228">Stanislaus <seg xml:id="ASK3.v7" corresp="v7">Starąsky</seg>
+                            </rs>
+                        </cell>
+                        <cell>4 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q229">Bartholomeus Siekierzeczki</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q230">Andreas Craiewski</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q231">Stanislaus Ruszieczki</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <milestone unit="unnumbered"/>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q232">Iacobus Lanczki</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q19">Albertus <seg xml:id="ASK3.v8" corresp="v8">Rudniczki cancellarius
+                                reverendissimi domini episcopi Posnaniensis</seg>
+                            </rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>
+                            <anchor n="v9" corresp="v9" xml:id="ASK3.v9"/>
+                        </cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q233">Stanislaus Cuninski</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q234">Ioannes Rzeskowski</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q235">Paulus Sarbinius</rs> doctor</cell>
+                        <cell>
+                            <seg xml:id="ASK3.v10" corresp="v10">mrc. 2 <del>fl.</del>
+                            </seg>
+                        </cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <milestone unit="unnumbered"/>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q236">Stanislaus Sziskowski</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q113">Ioannes Przespoliewski</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <seg xml:id="ASK3.v13" corresp="v13" type="order">
+                                <rs type="person" ref="Q237">Erasmus <seg xml:id="ASK3.v12" corresp="v12">Mielienski</seg>
+                                </rs>
+                            </seg>
+                        </cell>
+                        <cell>4 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <seg xml:id="ASK3.v11" corresp="v11" type="order">
+                                <rs type="person" ref="Q238">Albertus
+                                Oborniczki</rs>
+                            </seg>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q239">Ioannes Powodowski</rs>
+                        </cell>
+                        <cell>2 fl.<anchor xml:id="ASK3.v14" n="v14" corresp="v14"/>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <milestone unit="unnumbered"/>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q240">Ioannes Bielinski</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                </table>
+                <pb n="320" facs="FFimg:ask_3!320.JPG"/>
+                <table>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q241">Ioannes Zimlinski</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q242">Simon Lugowski</rs>
+                        </cell>
+                        <cell>6 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q243">Laurentius Modliszewski</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q244">Hieronimus Choienski</rs>
+                        </cell>
+                        <cell>24 gr.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <milestone unit="unnumbered"/>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q245">Ioannes Dambniczki</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                </table>
+                <p>Debita in eisdem</p>
+                <table>
+                    <row>
+                        <cell>
+                            <rs type="person" ref="Q246">Symon Chabelski</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>
+                            <del>Ioannes Dąmbniczki</del>
+                        </cell>
+                        <cell>
+                            <del>2 fl.</del>
+                        </cell>
+                        <cell>s-t<anchor xml:id="ASK3.v15" n="v15" corresp="v15"/>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <rs type="person" ref="Q247">Ioannes Piotrowski</rs>
+                        </cell>
+                        <cell>2 fl.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Praebenda sancti Ioannis ante Posnaniam</cell>
+                        <cell>10 fl.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <milestone unit="unnumbered"/>
+                <pb n="320v" facs="FFimg:ask_3!320v.JPG"/>
+                <p>Altaristae ecclesiae cathedralis Posnaniensis</p>
+                <table>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q248">Iacobus de Gnesna</rs>
+                        </cell>
+                        <cell>26 gr.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q177">Laurentius Cziaganek</rs>
+                        </cell>
+                        <cell>15 gr.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q249">Ioannes <seg xml:id="ASK3.v16" corresp="v16">Nininski</seg>
+                            </rs> Idem dixit
+                            census tres marcas<seg xml:id="ASK3.v17" corresp="v17"/> in domibus
+                                    <expan>Posn<ex>aniae</ex>
+                            </expan> muratis post conflagrationem</cell>
+                        <cell>12 gr.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                </table>
+                <milestone unit="unnumbered"/>
+                <table>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q250">Thomas <seg xml:id="ASK3.v18" corresp="v18">Kolaczek</seg>
+                            </rs>
+                        </cell>
+                        <cell>24 gr.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q251">Petrus Zerniczki</rs>
+                        </cell>
+                        <cell>15 gr.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q251">Petrus Zerniczki</rs>
+                        </cell>
+                        <cell>15 gr.</cell>
+                        <cell>s-t<anchor n="2" corresp="note-2"/>
+                        </cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q136">Ioannes a Cobelin</rs>
+                        </cell>
+                        <cell>30 gr.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q252">Mathias a Popowo</rs>
+                        </cell>
+                        <cell>24 gr.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q253">Iacobus a Slugoczin</rs>
+                        </cell>
+                        <cell>28 gr.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q254">Gregorius Pakoslawski</rs>
+                        </cell>
+                        <cell>45 gr.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                </table>
+                <milestone unit="unnumbered"/>
+                <table>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q255">Gabriel Ridzinski</rs>. Grossi quatuor dimissi, quia census per dominum
+                            <rs type="person" ref="Q256">Stanislaum Ridzinski</rs> tres marcarum non solvuntur</cell>
+                        <cell>26 gr.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q257">Ioannes a Sirakow</rs>
+                        </cell>
+                        <cell>47 gr.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q31">Martinus <choice>
+                                <sic>molenda</sic>
+                                </choice>
+                            </rs>
+                            <anchor n="3" corresp="note-3"/>
+                        </cell>
+                        <cell>18 gr.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q212">Andreas Przeczlawski</rs>
+                        </cell>
+                        <cell>22 gr.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q244">Hieronimus Choienski</rs>
+                        </cell>
+                        <cell>15 gr.</cell>
+                        <cell>s-t</cell>
+                    </row>
+                </table>
+                <milestone unit="unnumbered"/>
+                <pb n="321" facs="FFimg:ask_3!321.JPG"/>
+                <p>Debita in eisdem</p>
+                <table>
+                    <row role="data">
+                        <cell>Post mortem <rs type="person" ref="Q17">Ioannis Thomiczki</rs>
+                        </cell>
+                        <cell>28 gr.</cell>
+                        <cell/>
+                    </row>
+                    <row role="data">
+                        <cell>Post mortem <rs type="person" ref="Q116">Michaelis</rs>
+                        </cell>
+                        <cell>18 gr.</cell>
+                        <cell/>
+                    </row>
+                    <row role="data">
+                        <cell>Post mortem <rs type="person" ref="Q259">Leonardi Herman</rs>
+                        </cell>
+                        <cell>10 gr.</cell>
+                        <cell/>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <seg xml:id="ASK3.v19" corresp="v19" type="order">
+                                <del>
+                                    <rs type="person" ref="Q258">Lucas a Gnesna</rs>
+                                </del>
+                            </seg>
+                        </cell>
+                        <cell>
+                            <del>24 gr.</del>
+                        </cell>
+                        <cell>s-t
+                        </cell>
+                    </row>
+                    <milestone unit="unnumbered"/>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q263">Albertus Zakrzewsky</rs>
+                        </cell>
+                        <cell>
+                            <anchor xml:id="ASK3.v21" corresp="v21" n="v21"/>
+                        </cell>
+                        <cell/>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q264">Stephanus Sdzarowsky</rs>
+                        </cell>
+                        <cell>26 gr.</cell>
+                        <cell/>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q237">Erasmus Mielienski</rs>
+                        </cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q239">Ioannes Powodowski</rs>
+                        </cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q265">Laurentius Budzilowski</rs> </cell>
+                        <cell>28 gr.</cell>
+                        <cell/>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <rs type="person" ref="Q266">Adam doctor de Posnania</rs> </cell>
+                        <cell>9 gr.</cell>
+                        <cell>s-t<anchor xml:id="ASK3.v22" corresp="v22" n="v22"/>
+                        </cell>
+                    </row>
+                    <row role="data">
+                        <cell>
+                            <seg xml:id="ASK3.v20" corresp="v20" type="order">De fundo Iarzeczka
+                                villam eiusdem altaris domini <rs type="person" ref="Q262">Splawsczi</rs> occupaverunt, domini de
+                                <rs type="person" ref="Q261">Ostrorog</rs> collatores laico contulerunt</seg>
+                        </cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table> 
+            </div>
+            <div type="notes">
+                <note n="1" xml:id="n-1" target="#note-1">
+                    <ab> Układ tekstu wskazuje, że należy rozumieć jako: Marcae argenti</ab>
+                </note>
+                <note n="2" xml:id="n-2" target="#note-2">
+                    <ab>Nie można wykluczyć, że pomyłka pisarza - powtórzony wiersz.</ab>
+                </note>
+                <note n="3" xml:id="n-3" target="#note-3">
+                    <ab>Nazwisko lub przydomek. Zapisane małą literą.</ab>
+                </note>
+                <note n="4" xml:id="n-4" target="#note-4">
+                    <ab>3 wiardunki = 36 groszy, Wierzbowski, Vademecum, s. 215.</ab>
+                </note>
+                <note n="5" xml:id="n-5" target="#note-5">
+                    <ab>Nazwisko zapisane małą literą</ab>
+                </note>
+                <note n="6" xml:id="n-6" target="#note-6">
+                    <ab>Nazwa miejscowości pismem pogrubionym.</ab>
+                </note>
+                <note n="7" xml:id="n-7" target="#note-7">
+                    <ab> W źródle wielką literą. </ab>
+                </note>
+                <note n="8" xml:id="n-8" target="#note-8">
+                    <ab>W źródle małą literą.</ab>
+                </note>
+                <note n="9" xml:id="n-9" target="#note-9">
+                    <ab>Nazwisko lub przydomek, zapisane małą literą. Być może chodzi o
+                        „miechownika”</ab>
+                </note>
+                <note n="10" xml:id="n-10" target="#note-10">
+                    <ab>Drugi człon nazwy: monachorum, zapisany małą literą.</ab>
+                </note>
+                <note n="11" xml:id="n-11" target="#note-11">
+                    <ab>W postawie wydania małą literą.</ab>
+                </note>
+                <note n="12" xml:id="n-12" target="#note-12">
+                    <ab>W postawie wydania małą literą.</ab>
+                </note>
+                <note>
+                    <p>Korektura, przekreślono i wytarto częściowo słowo: florenos.</p>
+                </note>
+            </div>
+        </body>
+    </text>
+</TEI>

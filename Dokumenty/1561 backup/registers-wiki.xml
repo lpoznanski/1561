@@ -1,0 +1,2641 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Local Authority File: Person and place register</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy/>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <standOff>
+        <listPerson>
+            <person xml:id="Q106">
+                <persName type="main" xml:lang="pl">Jerzy z Sierakowa</persName>
+            </person>
+            <person xml:id="Q227">
+                <persName type="main" xml:lang="pl">Piotr Konecki</persName>
+            </person>
+            <person xml:id="Q105">
+                <persName type="main" xml:lang="pl">Michał Kościan</persName>
+            </person>
+            <person xml:id="Q226">
+                <persName type="main" xml:lang="pl">Piotr Wolski</persName>
+            </person>
+            <person xml:id="Q108">
+                <persName type="main" xml:lang="pl">Jan z Kościana</persName>
+            </person>
+            <person xml:id="Q229">
+                <persName type="main" xml:lang="pl">Bartłomiej Siekierzecki</persName>
+            </person>
+            <person xml:id="Q107">
+                <persName type="main" xml:lang="pl">Jan Potarzyca</persName>
+            </person>
+            <person xml:id="Q228">
+                <persName type="main" xml:lang="pl">Stanisław Staręski</persName>
+            </person>
+            <person xml:id="Q102">
+                <persName type="main" xml:lang="pl">Jan Wolsztyn</persName>
+            </person>
+            <person xml:id="Q223">
+                <persName type="main" xml:lang="pl">Jakub Dziaduski</persName>
+            </person>
+            <person xml:id="Q101">
+                <persName type="main" xml:lang="pl">Jakub Lorek</persName>
+            </person>
+            <person xml:id="Q222">
+                <persName type="main" xml:lang="pl">Stanisław Objezierski</persName>
+            </person>
+            <person xml:id="Q104">
+                <persName type="main" xml:lang="pl">Jakub Gwiazdowski</persName>
+            </person>
+            <person xml:id="Q225">
+                <persName type="main" xml:lang="pl">Paweł Głogowski</persName>
+            </person>
+            <person xml:id="Q103">
+                <persName type="main" xml:lang="pl">Maciej Klajber</persName>
+            </person>
+            <person xml:id="Q224">
+                <persName type="main" xml:lang="pl">Feliks Chojnowski</persName>
+            </person>
+            <person xml:id="Q109">
+                <persName type="main" xml:lang="pl">Melchior</persName>
+            </person>
+            <person xml:id="Q230">
+                <persName type="main" xml:lang="pl">Andrzej Krajewski</persName>
+            </person>
+            <person xml:id="Q111">
+                <persName type="main" xml:lang="pl">Szymon</persName>
+            </person>
+            <person xml:id="Q232">
+                <persName type="main" xml:lang="pl">Jakub Łącki</persName>
+            </person>
+            <person xml:id="Q110">
+                <persName type="main" xml:lang="pl">Wojciech z Zielęcina</persName>
+            </person>
+            <person xml:id="Q231">
+                <persName type="main" xml:lang="pl">Stanisław Rusiecki</persName>
+            </person>
+            <person xml:id="Q216">
+                <persName type="main" xml:lang="pl">Wawrzyniec Kierski</persName>
+            </person>
+            <person xml:id="Q215">
+                <persName type="main" xml:lang="pl">Andrzej Patrycy Nidecki</persName>
+            </person>
+            <person xml:id="Q218">
+                <persName type="main" xml:lang="pl">Stanisław Słomowski</persName>
+            </person>
+            <person xml:id="Q217">
+                <persName type="main" xml:lang="pl">Stanisław Warszewicki</persName>
+            </person>
+            <person xml:id="Q212">
+                <persName type="main" xml:lang="pl">Andrzej Przecławski</persName>
+            </person>
+            <person xml:id="Q7">
+                <persName type="main" xml:lang="pl">Florian Kotwicz</persName>
+            </person>
+            <person xml:id="Q211">
+                <persName type="main" xml:lang="pl">Adam Konarski</persName>
+            </person>
+            <person xml:id="Q8">
+                <persName type="main" xml:lang="pl">Jan z Kłecka</persName>
+            </person>
+            <person xml:id="Q214">
+                <persName type="main" xml:lang="pl">Jan Lawski</persName>
+            </person>
+            <person xml:id="Q9">
+                <persName type="main" xml:lang="pl">Jakub Kłecko</persName>
+            </person>
+            <person xml:id="Q213">
+                <persName type="main" xml:lang="pl">Marcin Izdbieński z Ruśca</persName>
+            </person>
+            <person xml:id="Q219">
+                <persName type="main" xml:lang="pl">Jan Skrzetuszewski</persName>
+            </person>
+            <person xml:id="Q100">
+                <persName type="main" xml:lang="pl">Michał Pczewita</persName>
+            </person>
+            <person xml:id="Q221">
+                <persName type="main" xml:lang="pl">Jan Kruczek (Corvinus)</persName>
+            </person>
+            <person xml:id="Q220">
+                <persName type="main" xml:lang="pl">Jan Kąkolewski</persName>
+            </person>
+            <person xml:id="Q128">
+                <persName type="main" xml:lang="pl">Andrzej Opaliński</persName>
+            </person>
+            <person xml:id="Q249">
+                <persName type="main" xml:lang="pl">Wawrzyniec Niniński</persName>
+            </person>
+            <person xml:id="Q127">
+                <persName type="main" xml:lang="pl">Wojciech Kaniorek</persName>
+            </person>
+            <person xml:id="Q248">
+                <persName type="main" xml:lang="pl">Jakub z Gniezna</persName>
+            </person>
+            <person xml:id="Q129">
+                <persName type="main" xml:lang="pl">Łukasz</persName>
+            </person>
+            <person xml:id="Q124">
+                <persName type="main" xml:lang="pl">Stanisław</persName>
+            </person>
+            <person xml:id="Q245">
+                <persName type="main" xml:lang="pl">Jan Dembnicki</persName>
+            </person>
+            <person xml:id="Q123">
+                <persName type="main" xml:lang="pl">Jerzy Szypłowski</persName>
+            </person>
+            <person xml:id="Q244">
+                <persName type="main" xml:lang="pl">Hieronim Chojeński</persName>
+            </person>
+            <person xml:id="Q126">
+                <persName type="main" xml:lang="pl">Paweł Oleśnicki</persName>
+            </person>
+            <person xml:id="Q247">
+                <persName type="main" xml:lang="pl">Jan Piotrowski</persName>
+            </person>
+            <person xml:id="Q125">
+                <persName type="main" xml:lang="pl">Jan Razek</persName>
+            </person>
+            <person xml:id="Q246">
+                <persName type="main" xml:lang="pl">Szymon Chabielski</persName>
+            </person>
+            <person xml:id="Q10">
+                <persName type="main" xml:lang="pl">Andrzej Kleczewita</persName>
+            </person>
+            <person xml:id="Q12">
+                <persName type="main" xml:lang="pl">Maciej z Pobiedzisk</persName>
+            </person>
+            <person xml:id="Q11">
+                <persName type="main" xml:lang="pl">Szymon Kamieniec</persName>
+            </person>
+            <person xml:id="Q14">
+                <persName type="main" xml:lang="pl">Paweł z Rychwału</persName>
+            </person>
+            <person xml:id="Q13">
+                <persName type="main" xml:lang="pl">Wawrzyniec</persName>
+            </person>
+            <person xml:id="Q16">
+                <persName type="main" xml:lang="pl">Paweł z Czarnkowa</persName>
+            </person>
+            <person xml:id="Q15">
+                <persName type="main" xml:lang="pl">Paweł Września</persName>
+            </person>
+            <person xml:id="Q18">
+                <persName type="main" xml:lang="pl">Szymon Pakość</persName>
+            </person>
+            <person xml:id="Q17">
+                <persName type="main" xml:lang="pl">Jan Tomicki</persName>
+            </person>
+            <person xml:id="Q131">
+                <persName type="main" xml:lang="pl">Wojciech Grodzisko</persName>
+            </person>
+            <person xml:id="Q252">
+                <persName type="main" xml:lang="pl">Maciej z Popowa</persName>
+            </person>
+            <person xml:id="Q130">
+                <persName type="main" xml:lang="pl">Jan Sczeska</persName>
+            </person>
+            <person xml:id="Q251">
+                <persName type="main" xml:lang="pl">Piotr Żernicki</persName>
+            </person>
+            <person xml:id="Q19">
+                <persName type="main" xml:lang="pl">Wojciech Rudnicki</persName>
+            </person>
+            <person xml:id="Q133">
+                <persName type="main" xml:lang="pl">Maciej Mokronowski</persName>
+            </person>
+            <person xml:id="Q254">
+                <persName type="main" xml:lang="pl">Grzegorz Pakosławski</persName>
+            </person>
+            <person xml:id="Q132">
+                <persName type="main" xml:lang="pl">Andrzej Górka</persName>
+            </person>
+            <person xml:id="Q253">
+                <persName type="main" xml:lang="pl">Jakub ze Sługocina</persName>
+            </person>
+            <person xml:id="Q250">
+                <persName type="main" xml:lang="pl">Tomasz Kołaczek</persName>
+            </person>
+            <person xml:id="Q117">
+                <persName type="main" xml:lang="pl">Józef</persName>
+            </person>
+            <person xml:id="Q238">
+                <persName type="main" xml:lang="pl">Wojciech Obornicki</persName>
+            </person>
+            <person xml:id="Q116">
+                <persName type="main" xml:lang="pl">Michał</persName>
+            </person>
+            <person xml:id="Q237">
+                <persName type="main" xml:lang="pl">Erazm Mieliński</persName>
+            </person>
+            <person xml:id="Q119">
+                <persName type="main" xml:lang="pl">Wojciech Sułocki</persName>
+            </person>
+            <person xml:id="Q118">
+                <persName type="main" xml:lang="pl">Andrzej</persName>
+            </person>
+            <person xml:id="Q239">
+                <persName type="main" xml:lang="pl">Jan Powodowski</persName>
+            </person>
+            <person xml:id="Q113">
+                <persName type="main" xml:lang="pl">Jan Przespolewski</persName>
+            </person>
+            <person xml:id="Q234">
+                <persName type="main" xml:lang="pl">Jan Rzęskowski</persName>
+            </person>
+            <person xml:id="Q112">
+                <persName type="main" xml:lang="pl">Stanisław z Kościana</persName>
+            </person>
+            <person xml:id="Q233">
+                <persName type="main" xml:lang="pl">Stanisław Koniński</persName>
+            </person>
+            <person xml:id="Q115">
+                <persName type="main" xml:lang="pl">Wojciech z Oborzysk</persName>
+            </person>
+            <person xml:id="Q236">
+                <persName type="main" xml:lang="pl">Stanisław Szyszkowski</persName>
+            </person>
+            <person xml:id="Q114">
+                <persName type="main" xml:lang="pl">Melchior</persName>
+            </person>
+            <person xml:id="Q235">
+                <persName type="main" xml:lang="pl">Paweł Sarbiniusz</persName>
+            </person>
+            <person xml:id="Q21">
+                <persName type="main" xml:lang="pl">Wawrzyniec Lacheta</persName>
+            </person>
+            <person xml:id="Q20">
+                <persName type="main" xml:lang="pl">Maciej</persName>
+            </person>
+            <person xml:id="Q23">
+                <persName type="main" xml:lang="pl">Józef Norek</persName>
+            </person>
+            <person xml:id="Q22">
+                <persName type="main" xml:lang="pl">Benedykt</persName>
+            </person>
+            <person xml:id="Q25">
+                <persName type="main" xml:lang="pl">Andrzej Kikiełko</persName>
+            </person>
+            <person xml:id="Q24">
+                <persName type="main" xml:lang="pl">Tomasz</persName>
+            </person>
+            <person xml:id="Q27">
+                <persName type="main" xml:lang="pl">Wojciech</persName>
+            </person>
+            <person xml:id="Q26">
+                <persName type="main" xml:lang="pl">Jan Quittemberg</persName>
+            </person>
+            <person xml:id="Q28">
+                <persName type="main" xml:lang="pl">Maciej z Kalisza</persName>
+            </person>
+            <person xml:id="Q120">
+                <persName type="main" xml:lang="pl">Jerzy</persName>
+            </person>
+            <person xml:id="Q241">
+                <persName type="main" xml:lang="pl">Jan Zimliński</persName>
+            </person>
+            <person xml:id="Q240">
+                <persName type="main" xml:lang="pl">Jan Bieliński</persName>
+            </person>
+            <person xml:id="Q122">
+                <persName type="main" xml:lang="pl">Herman</persName>
+            </person>
+            <person xml:id="Q243">
+                <persName type="main" xml:lang="pl">Wawrzyniec Modliszewski</persName>
+            </person>
+            <person xml:id="Q121">
+                <persName type="main" xml:lang="pl">Adrian</persName>
+            </person>
+            <person xml:id="Q242">
+                <persName type="main" xml:lang="pl">Szymon Lugowski</persName>
+            </person>
+            <person xml:id="Q149">
+                <persName type="main" xml:lang="pl">Michał Bydgoszcz</persName>
+            </person>
+            <person xml:id="Q146">
+                <persName type="main" xml:lang="pl">Szymon</persName>
+            </person>
+            <person xml:id="Q267">
+                <persName type="main" xml:lang="pl">Jakub Raczek z Gniezna</persName>
+            </person>
+            <person xml:id="Q145">
+                <persName type="main" xml:lang="pl">Jan</persName>
+            </person>
+            <person xml:id="Q266">
+                <persName type="main" xml:lang="pl">Adam z Poznania</persName>
+            </person>
+            <person xml:id="Q148">
+                <persName type="main" xml:lang="pl">Wojciech Konias</persName>
+            </person>
+            <person xml:id="Q269">
+                <persName type="main" xml:lang="pl">Gallus</persName>
+            </person>
+            <person xml:id="Q147">
+                <persName type="main" xml:lang="pl">Maciej</persName>
+            </person>
+            <person xml:id="Q268">
+                <persName type="main" xml:lang="pl">Wojciech</persName>
+            </person>
+            <person xml:id="Q30">
+                <persName type="main" xml:lang="pl">Marcin Przyborowski</persName>
+            </person>
+            <person xml:id="Q32">
+                <persName type="main" xml:lang="pl">Adam</persName>
+            </person>
+            <person xml:id="Q31">
+                <persName type="main" xml:lang="pl">Marcin Molenda</persName>
+            </person>
+            <person xml:id="Q34">
+                <persName type="main" xml:lang="pl">Franciszek Wysocki</persName>
+            </person>
+            <person xml:id="Q33">
+                <persName type="main" xml:lang="pl">Jan Mąkolski</persName>
+            </person>
+            <person xml:id="Q36">
+                <persName type="main" xml:lang="pl">Klemens</persName>
+            </person>
+            <person xml:id="Q35">
+                <persName type="main" xml:lang="pl">Marcin Gałczyński</persName>
+            </person>
+            <person xml:id="Q38">
+                <persName type="main" xml:lang="pl">Maciej Napora</persName>
+            </person>
+            <person xml:id="Q37">
+                <persName type="main" xml:lang="pl">Jan Szczygieł</persName>
+            </person>
+            <person xml:id="Q39">
+                <persName type="main" xml:lang="pl">Jan Jakiel</persName>
+            </person>
+            <person xml:id="Q153">
+                <persName type="main" xml:lang="pl">Wojciech</persName>
+            </person>
+            <person xml:id="Q274">
+                <persName type="main" xml:lang="pl">Jan Bniński</persName>
+            </person>
+            <person xml:id="Q152">
+                <persName type="main" xml:lang="pl">Marcin</persName>
+            </person>
+            <person xml:id="Q273">
+                <persName type="main" xml:lang="pl">Jan Skrzypiński</persName>
+            </person>
+            <person xml:id="Q155">
+                <persName type="main" xml:lang="pl">Krzysztof Lwowski</persName>
+            </person>
+            <person xml:id="Q276">
+                <persName type="main" xml:lang="pl">Jan Gniazdowski</persName>
+            </person>
+            <person xml:id="Q154">
+                <persName type="main" xml:lang="pl">Wacław</persName>
+            </person>
+            <person xml:id="Q275">
+                <persName type="main" xml:lang="pl">Marcin Żydowski</persName>
+            </person>
+            <person xml:id="Q270">
+                <persName type="main" xml:lang="pl">Krzysztof Dunin</persName>
+            </person>
+            <person xml:id="Q151">
+                <persName type="main" xml:lang="pl">Piotr Masiołek</persName>
+            </person>
+            <person xml:id="Q272">
+                <persName type="main" xml:lang="pl">Maciej Zadorski</persName>
+            </person>
+            <person xml:id="Q150">
+                <persName type="main" xml:lang="pl">Szymon</persName>
+            </person>
+            <person xml:id="Q271">
+                <persName type="main" xml:lang="pl">Jerzy Koźmin</persName>
+            </person>
+            <person xml:id="Q139">
+                <persName type="main" xml:lang="pl">Jan Klatka</persName>
+            </person>
+            <person xml:id="Q138">
+                <persName type="main" xml:lang="pl">Wojciech z Koźmina</persName>
+            </person>
+            <person xml:id="Q259">
+                <persName type="main" xml:lang="pl">Leonard Herman</persName>
+            </person>
+            <person xml:id="Q135">
+                <persName type="main" xml:lang="pl">Wojciech z Brodnicy</persName>
+            </person>
+            <person xml:id="Q256">
+                <persName type="main" xml:lang="pl">Stanisław Ridziński</persName>
+            </person>
+            <person xml:id="Q134">
+                <persName type="main" xml:lang="pl">Józef</persName>
+            </person>
+            <person xml:id="Q255">
+                <persName type="main" xml:lang="pl">Gabriel Ridziński</persName>
+            </person>
+            <person xml:id="Q137">
+                <persName type="main" xml:lang="pl">Stanisław Karśnicki</persName>
+            </person>
+            <person xml:id="Q258">
+                <persName type="main" xml:lang="pl">Łukasz z Gniezna</persName>
+            </person>
+            <person xml:id="Q257">
+                <persName type="main" xml:lang="pl">Jan z Sierakowa</persName>
+            </person>
+            <person xml:id="Q136">
+                <persName type="main" xml:lang="pl">Jan z Kobylina</persName>
+            </person>
+            <person xml:id="Q41">
+                <persName type="main" xml:lang="pl">Marcin</persName>
+            </person>
+            <person xml:id="Q40">
+                <persName type="main" xml:lang="pl">Walenty</persName>
+            </person>
+            <person xml:id="Q43">
+                <persName type="main" xml:lang="pl">Ambroży</persName>
+            </person>
+            <person xml:id="Q42">
+                <persName type="main" xml:lang="pl">Łukasz Górka</persName>
+            </person>
+            <person xml:id="Q45">
+                <persName type="main" xml:lang="pl">Żelicki</persName>
+            </person>
+            <person xml:id="Q44">
+                <persName type="main" xml:lang="pl">Biechowski</persName>
+            </person>
+            <person xml:id="Q47">
+                <persName type="main" xml:lang="pl">Tomicki</persName>
+            </person>
+            <person xml:id="Q46">
+                <persName type="main" xml:lang="pl">Niniński</persName>
+            </person>
+            <person xml:id="Q49">
+                <persName type="main" xml:lang="pl">Grudziński</persName>
+            </person>
+            <person xml:id="Q48">
+                <persName type="main" xml:lang="pl">Kasper Potulicki</persName>
+            </person>
+            <person xml:id="Q142">
+                <persName type="main" xml:lang="pl">Stefan</persName>
+            </person>
+            <person xml:id="Q263">
+                <persName type="main" xml:lang="pl">Wojciech Zakrzewski</persName>
+            </person>
+            <person xml:id="Q141">
+                <persName type="main" xml:lang="pl">Baltazar</persName>
+            </person>
+            <person xml:id="Q262">
+                <persName type="main" xml:lang="pl">Spławski</persName>
+            </person>
+            <person xml:id="Q144">
+                <persName type="main" xml:lang="pl">Andrzej</persName>
+            </person>
+            <person xml:id="Q265">
+                <persName type="main" xml:lang="pl">Wawrzyniec Budziłowski</persName>
+            </person>
+            <person xml:id="Q264">
+                <persName type="main" xml:lang="pl">Stefan Żdżarowski</persName>
+            </person>
+            <person xml:id="Q140">
+                <persName type="main" xml:lang="pl">Jan Buk</persName>
+            </person>
+            <person xml:id="Q261">
+                <persName type="main" xml:lang="pl">Ostroróg</persName>
+            </person>
+            <person xml:id="Q260">
+                <persName type="main" xml:lang="pl">Michał</persName>
+            </person>
+            <person xml:id="Q168">
+                <persName type="main" xml:lang="pl">Marcin syn Klemensa</persName>
+            </person>
+            <person xml:id="Q289">
+                <persName type="main" xml:lang="pl">Piotr ze Świątnik</persName>
+            </person>
+            <person xml:id="Q167">
+                <persName type="main" xml:lang="pl">Marcin syn Piotra</persName>
+            </person>
+            <person xml:id="Q288">
+                <persName type="main" xml:lang="pl">Maciej Kamola</persName>
+            </person>
+            <person xml:id="Q169">
+                <persName type="main" xml:lang="pl">Piotr</persName>
+            </person>
+            <person xml:id="Q50">
+                <persName type="main" xml:lang="pl">Andrzej Reczulski</persName>
+            </person>
+            <person xml:id="Q52">
+                <persName type="main" xml:lang="pl">Anna Oporowska</persName>
+            </person>
+            <person xml:id="Q51">
+                <persName type="main" xml:lang="pl">Łukasz Gultowski</persName>
+            </person>
+            <person xml:id="Q54">
+                <persName type="main" xml:lang="pl">Jan Tomicki</persName>
+            </person>
+            <person xml:id="Q53">
+                <persName type="main" xml:lang="pl">Szymon</persName>
+            </person>
+            <person xml:id="Q56">
+                <persName type="main" xml:lang="pl">Maciej Obara</persName>
+            </person>
+            <person xml:id="Q55">
+                <persName type="main" xml:lang="pl">Marcin Psarski</persName>
+            </person>
+            <person xml:id="Q58">
+                <persName type="main" xml:lang="pl">Jan ze Śniecisk</persName>
+            </person>
+            <person xml:id="Q290">
+                <persName type="main" xml:lang="pl">Andrzej z Łekna</persName>
+            </person>
+            <person xml:id="Q57">
+                <persName type="main" xml:lang="pl">Jan z Chodzieży</persName>
+            </person>
+            <person xml:id="Q59">
+                <persName type="main" xml:lang="pl">Piotr z Jutrosina</persName>
+            </person>
+            <person xml:id="Q175">
+                <persName type="main" xml:lang="pl">Jakub Ostroróg</persName>
+            </person>
+            <person xml:id="Q296">
+                <persName type="main" xml:lang="pl">Andrzej Kaźmirz</persName>
+            </person>
+            <person xml:id="Q174">
+                <persName type="main" xml:lang="pl">Stefan Potulicki</persName>
+            </person>
+            <person xml:id="Q295">
+                <persName type="main" xml:lang="pl">Maciej z Dolska</persName>
+            </person>
+            <person xml:id="Q298">
+                <persName type="main" xml:lang="pl">Stanisław</persName>
+            </person>
+            <person xml:id="Q177">
+                <persName type="main" xml:lang="pl">Wawrzyniec Cyganek</persName>
+            </person>
+            <person xml:id="Q176">
+                <persName type="main" xml:lang="pl">Łukasz Jankowski</persName>
+            </person>
+            <person xml:id="Q297">
+                <persName type="main" xml:lang="pl">Marcin z Poznania</persName>
+            </person>
+            <person xml:id="Q292">
+                <persName type="main" xml:lang="pl">Jakub Walasek</persName>
+            </person>
+            <person xml:id="Q170">
+                <persName type="main" xml:lang="pl">Mikołaj Przetocki</persName>
+            </person>
+            <person xml:id="Q291">
+                <persName type="main" xml:lang="pl">Franciszek Stelmach</persName>
+            </person>
+            <person xml:id="Q173">
+                <persName type="main" xml:lang="pl">Jan Rozbicki</persName>
+            </person>
+            <person xml:id="Q294">
+                <persName type="main" xml:lang="pl">Jan Zarzewo</persName>
+            </person>
+            <person xml:id="Q172">
+                <persName type="main" xml:lang="pl">Prokop Broniewski</persName>
+            </person>
+            <person xml:id="Q293">
+                <persName type="main" xml:lang="pl">Piotr z Wolsztyna</persName>
+            </person>
+            <person xml:id="Q157">
+                <persName type="main" xml:lang="pl">Jan Myliński</persName>
+            </person>
+            <person xml:id="Q278">
+                <persName type="main" xml:lang="pl">Sebastian z Książa</persName>
+            </person>
+            <person xml:id="Q156">
+                <persName type="main" xml:lang="pl">Wojciech Chełmski</persName>
+            </person>
+            <person xml:id="Q277">
+                <persName type="main" xml:lang="pl">Tomasz z Poznania</persName>
+            </person>
+            <person xml:id="Q159">
+                <persName type="main" xml:lang="pl">Jan Dziewierzewski</persName>
+            </person>
+            <person xml:id="Q158">
+                <persName type="main" xml:lang="pl">Wojciech Słopanowski</persName>
+            </person>
+            <person xml:id="Q279">
+                <persName type="main" xml:lang="pl">Wawrzyniec Rożnowski</persName>
+            </person>
+            <person xml:id="Q61">
+                <persName type="main" xml:lang="pl">Paweł z Kowalewa</persName>
+            </person>
+            <person xml:id="Q60">
+                <persName type="main" xml:lang="pl">Wawrzyniec Bieńkowski</persName>
+            </person>
+            <person xml:id="Q63">
+                <persName type="main" xml:lang="pl">Jan Brodnica</persName>
+            </person>
+            <person xml:id="Q62">
+                <persName type="main" xml:lang="pl">Jan ze Śremu</persName>
+            </person>
+            <person xml:id="Q65">
+                <persName type="main" xml:lang="pl">Jan Gajewski</persName>
+            </person>
+            <person xml:id="Q67">
+                <persName type="main" xml:lang="pl">Wojciech Sadliński</persName>
+            </person>
+            <person xml:id="Q66">
+                <persName type="main" xml:lang="pl">Marcin Lipski</persName>
+            </person>
+            <person xml:id="Q69">
+                <persName type="main" xml:lang="pl">Piotr z Kościana</persName>
+            </person>
+            <person xml:id="Q68">
+                <persName type="main" xml:lang="pl">Stefan</persName>
+            </person>
+            <person xml:id="Q164">
+                <persName type="main" xml:lang="pl">Bukowiecki</persName>
+            </person>
+            <person xml:id="Q285">
+                <persName type="main" xml:lang="pl">Szymon Busko</persName>
+            </person>
+            <person xml:id="Q163">
+                <persName type="main" xml:lang="pl">Marcin ze Stobnicy</persName>
+            </person>
+            <person xml:id="Q284">
+                <persName type="main" xml:lang="pl">Franciszek z Inowrocławia</persName>
+            </person>
+            <person xml:id="Q166">
+                <persName type="main" xml:lang="pl">Jan</persName>
+            </person>
+            <person xml:id="Q287">
+                <persName type="main" xml:lang="pl">Stanisław z Inowrocławia</persName>
+            </person>
+            <person xml:id="Q165">
+                <persName type="main" xml:lang="pl">Wojciech Czarnkowita</persName>
+            </person>
+            <person xml:id="Q286">
+                <persName type="main" xml:lang="pl">Jan Niszczota</persName>
+            </person>
+            <person xml:id="Q160">
+                <persName type="main" xml:lang="pl">Kikowska</persName>
+            </person>
+            <person xml:id="Q281">
+                <persName type="main" xml:lang="pl">Mikołaj Czerniewo</persName>
+            </person>
+            <person xml:id="Q280">
+                <persName type="main" xml:lang="pl">Błażej Psarski</persName>
+            </person>
+            <person xml:id="Q162">
+                <persName type="main" xml:lang="pl">Piotr Komorniki</persName>
+            </person>
+            <person xml:id="Q283">
+                <persName type="main" xml:lang="pl">Michał z Warty</persName>
+            </person>
+            <person xml:id="Q161">
+                <persName type="main" xml:lang="pl">Jan Pawłowski</persName>
+            </person>
+            <person xml:id="Q282">
+                <persName type="main" xml:lang="pl">Marcin Dunajów</persName>
+            </person>
+            <person xml:id="Q189">
+                <persName type="main" xml:lang="pl">Stanisław z Żerkowa</persName>
+            </person>
+            <person xml:id="Q70">
+                <persName type="main" xml:lang="pl">Bartłomiej Pniewita</persName>
+            </person>
+            <person xml:id="Q72">
+                <persName type="main" xml:lang="pl">Domachowita</persName>
+            </person>
+            <person xml:id="Q71">
+                <persName type="main" xml:lang="pl">Paweł</persName>
+            </person>
+            <person xml:id="Q74">
+                <persName type="main" xml:lang="pl">Wojciech Krobia</persName>
+            </person>
+            <person xml:id="Q73">
+                <persName type="main" xml:lang="pl">Marcin</persName>
+            </person>
+            <person xml:id="Q76">
+                <persName type="main" xml:lang="pl">Maciej Maliechownik</persName>
+            </person>
+            <person xml:id="Q75">
+                <persName type="main" xml:lang="pl">Stanisław Krobia</persName>
+            </person>
+            <person xml:id="Q78">
+                <persName type="main" xml:lang="pl">Błażej</persName>
+            </person>
+            <person xml:id="Q77">
+                <persName type="main" xml:lang="pl">Jakub</persName>
+            </person>
+            <person xml:id="Q191">
+                <persName type="main" xml:lang="pl">Wawrzyniec</persName>
+            </person>
+            <person xml:id="Q190">
+                <persName type="main" xml:lang="pl">Marcin z Łabiszyna</persName>
+            </person>
+            <person xml:id="Q79">
+                <persName type="main" xml:lang="pl">Jan Iwan</persName>
+            </person>
+            <person xml:id="Q197">
+                <persName type="main" xml:lang="pl">Wit</persName>
+            </person>
+            <person xml:id="Q196">
+                <persName type="main" xml:lang="pl">Franciszek</persName>
+            </person>
+            <person xml:id="Q199">
+                <persName type="main" xml:lang="pl">Paweł z Gostynia</persName>
+            </person>
+            <person xml:id="Q198">
+                <persName type="main" xml:lang="pl">Paweł Potluczek</persName>
+            </person>
+            <person xml:id="Q193">
+                <persName type="main" xml:lang="pl">Jan Zberkowski</persName>
+            </person>
+            <person xml:id="Q192">
+                <persName type="main" xml:lang="pl">Andrzej Kaczka</persName>
+            </person>
+            <person xml:id="Q195">
+                <persName type="main" xml:lang="pl">Tomasz ze Środy</persName>
+            </person>
+            <person xml:id="Q194">
+                <persName type="main" xml:lang="pl">Jakub ze Środy</persName>
+            </person>
+            <person xml:id="Q179">
+                <persName type="main" xml:lang="pl">Stanisław Chojnica</persName>
+            </person>
+            <person xml:id="Q299">
+                <persName type="main" xml:lang="pl">Kasper</persName>
+            </person>
+            <person xml:id="Q81">
+                <persName type="main" xml:lang="pl">Rokosowski</persName>
+            </person>
+            <person xml:id="Q80">
+                <persName type="main" xml:lang="pl">Piotr</persName>
+            </person>
+            <person xml:id="Q83">
+                <persName type="main" xml:lang="pl">Marcin</persName>
+            </person>
+            <person xml:id="Q82">
+                <persName type="main" xml:lang="pl">Szymon</persName>
+            </person>
+            <person xml:id="Q85">
+                <persName type="main" xml:lang="pl">Jakub</persName>
+            </person>
+            <person xml:id="Q84">
+                <persName type="main" xml:lang="pl">Maciej Longajek</persName>
+            </person>
+            <person xml:id="Q87">
+                <persName type="main" xml:lang="pl">Jan Kurowski</persName>
+            </person>
+            <person xml:id="Q86">
+                <persName type="main" xml:lang="pl">Jakub Sutorek</persName>
+            </person>
+            <person xml:id="Q89">
+                <persName type="main" xml:lang="pl">Jerzy</persName>
+            </person>
+            <person xml:id="Q88">
+                <persName type="main" xml:lang="pl">Wawrzyniec</persName>
+            </person>
+            <person xml:id="Q180">
+                <persName type="main" xml:lang="pl">Maciej</persName>
+            </person>
+            <person xml:id="Q186">
+                <persName type="main" xml:lang="pl">Franciszek</persName>
+            </person>
+            <person xml:id="Q185">
+                <persName type="main" xml:lang="pl">Wojciech</persName>
+            </person>
+            <person xml:id="Q188">
+                <persName type="main" xml:lang="pl">Paweł Pawłowski</persName>
+            </person>
+            <person xml:id="Q187">
+                <persName type="main" xml:lang="pl">Wit</persName>
+            </person>
+            <person xml:id="Q182">
+                <persName type="main" xml:lang="pl">Jakub</persName>
+            </person>
+            <person xml:id="Q184">
+                <persName type="main" xml:lang="pl">Sebastian</persName>
+            </person>
+            <person xml:id="Q183">
+                <persName type="main" xml:lang="pl">Wawrzyniec</persName>
+            </person>
+            <person xml:id="Q90">
+                <persName type="main" xml:lang="pl">Maciej</persName>
+            </person>
+            <person xml:id="Q92">
+                <persName type="main" xml:lang="pl">Mikołaj Gostyński</persName>
+            </person>
+            <person xml:id="Q91">
+                <persName type="main" xml:lang="pl">Daniel</persName>
+            </person>
+            <person xml:id="Q94">
+                <persName type="main" xml:lang="pl">Trojan Wroński</persName>
+            </person>
+            <person xml:id="Q93">
+                <persName type="main" xml:lang="pl">Baltazar</persName>
+            </person>
+            <person xml:id="Q96">
+                <persName type="main" xml:lang="pl">Paweł Koźmin</persName>
+            </person>
+            <person xml:id="Q95">
+                <persName type="main" xml:lang="pl">Marcin Strzelcze</persName>
+            </person>
+            <person xml:id="Q98">
+                <persName type="main" xml:lang="pl">Melchior</persName>
+            </person>
+            <person xml:id="Q97">
+                <persName type="main" xml:lang="pl">Stanisław Kościan Grodzicki</persName>
+            </person>
+            <person xml:id="Q99">
+                <persName type="main" xml:lang="pl">Stanisław z Sieradza</persName>
+            </person>
+            <person xml:id="Q304">
+                <persName type="main" xml:lang="pl">Wojciech</persName>
+            </person>
+            <person xml:id="Q303">
+                <persName type="main" xml:lang="pl">Baltazar Struś</persName>
+            </person>
+            <person xml:id="Q306">
+                <persName type="main" xml:lang="pl">Stanisław ze Żnina</persName>
+            </person>
+            <person xml:id="Q305">
+                <persName type="main" xml:lang="pl">Paweł z Łąk</persName>
+            </person>
+            <person xml:id="Q300">
+                <persName type="main" xml:lang="pl">Paweł</persName>
+            </person>
+            <person xml:id="Q302">
+                <persName type="main" xml:lang="pl">Łukasz Ditius</persName>
+            </person>
+            <person xml:id="Q301">
+                <persName type="main" xml:lang="pl">Adam</persName>
+            </person>
+            <person xml:id="Q308">
+                <persName type="main" xml:lang="pl">Jerzy Arglaben</persName>
+            </person>
+            <person xml:id="Q307">
+                <persName type="main" xml:lang="pl">Jerzy ze Świętego Marcina</persName>
+            </person>
+            <person xml:id="Q309">
+                <persName type="main" xml:lang="pl">Jan Piwo</persName>
+            </person>
+            <person xml:id="Q205">
+                <persName type="main" xml:lang="pl">Michał Ziemiński</persName>
+            </person>
+            <person xml:id="Q326">
+                <persName type="main" xml:lang="pl">Jerzy</persName>
+            </person>
+            <person xml:id="Q204">
+                <persName type="main" xml:lang="pl">Leonard</persName>
+            </person>
+            <person xml:id="Q325">
+                <persName type="main" xml:lang="pl">Stanisław Śrem</persName>
+            </person>
+            <person xml:id="Q207">
+                <persName type="main" xml:lang="pl">Zygmunt II August</persName>
+            </person>
+            <person xml:id="Q206">
+                <persName type="main" xml:lang="pl">Łukasz</persName>
+            </person>
+            <person xml:id="Q327">
+                <persName type="main" xml:lang="pl">Kasztelanowa lądzka</persName>
+            </person>
+            <person xml:id="Q201">
+                <persName type="main" xml:lang="pl">Florian</persName>
+            </person>
+            <person xml:id="Q322">
+                <persName type="main" xml:lang="pl">Maciej ze Słupcy</persName>
+            </person>
+            <person xml:id="Q200">
+                <persName type="main" xml:lang="pl">Hipolit Strzałkowski</persName>
+            </person>
+            <person xml:id="Q321">
+                <persName type="main" xml:lang="pl">Wawrzyniec z Krzywinia</persName>
+            </person>
+            <person xml:id="Q203">
+                <persName type="main" xml:lang="pl">Skrzetuski</persName>
+            </person>
+            <person xml:id="Q324">
+                <persName type="main" xml:lang="pl">Maciej Gąbin</persName>
+            </person>
+            <person xml:id="Q202">
+                <persName type="main" xml:lang="pl">Wojciech</persName>
+            </person>
+            <person xml:id="Q323">
+                <persName type="main" xml:lang="pl">Stanisław</persName>
+            </person>
+            <person xml:id="Q209">
+                <persName type="main" xml:lang="pl">Andrzej Czarnkowski</persName>
+            </person>
+            <person xml:id="Q208">
+                <persName type="main" xml:lang="pl">Michał Skrzetuszewski</persName>
+            </person>
+            <person xml:id="Q315">
+                <persName type="main" xml:lang="pl">Piotr Lugowski</persName>
+            </person>
+            <person xml:id="Q314">
+                <persName type="main" xml:lang="pl">Kasper</persName>
+            </person>
+            <person xml:id="Q317">
+                <persName type="main" xml:lang="pl">Henryk Szink</persName>
+            </person>
+            <person xml:id="Q316">
+                <persName type="main" xml:lang="pl">Noe Szink</persName>
+            </person>
+            <person xml:id="Q311">
+                <persName type="main" xml:lang="pl">Stanisław</persName>
+            </person>
+            <person xml:id="Q310">
+                <persName type="main" xml:lang="pl">Piotr Wilczopolski</persName>
+            </person>
+            <person xml:id="Q313">
+                <persName type="main" xml:lang="pl">Błocki</persName>
+            </person>
+            <person xml:id="Q312">
+                <persName type="main" xml:lang="pl">Jan Wino</persName>
+            </person>
+            <person xml:id="Q319">
+                <persName type="main" xml:lang="pl">Wincenty z Poznania</persName>
+            </person>
+            <person xml:id="Q318">
+                <persName type="main" xml:lang="pl">Wawrzyniec Wągrowiec</persName>
+            </person>
+            <person xml:id="Q320">
+                <persName type="main" xml:lang="pl">Sebastian Zbąszyń</persName>
+            </person>
+        </listPerson>
+        <listPlace>
+            <place xml:id="Q3640">
+                <placeName type="main" xml:lang="pl">Piotrowo</placeName>
+            </place>
+            <place xml:id="Q2917">
+                <placeName type="main" xml:lang="pl">dekanat - Pyzdry</placeName>
+            </place>
+            <place xml:id="Q2916">
+                <placeName type="main" xml:lang="pl">dekanat - Wronki</placeName>
+            </place>
+            <place xml:id="Q2919">
+                <placeName type="main" xml:lang="pl">dekanat - Stęszew</placeName>
+            </place>
+            <place xml:id="Q2918">
+                <placeName type="main" xml:lang="pl">dekanat - Wschowa</placeName>
+            </place>
+            <place xml:id="Q2913">
+                <placeName type="main" xml:lang="pl">dekanat - Oborniki</placeName>
+            </place>
+            <place xml:id="Q2912">
+                <placeName type="main" xml:lang="pl">dekanat - Śrem</placeName>
+            </place>
+            <place xml:id="Q2915">
+                <placeName type="main" xml:lang="pl">dekanat - Grodzisk</placeName>
+            </place>
+            <place xml:id="Q2914">
+                <placeName type="main" xml:lang="pl">dekanat - Kościan</placeName>
+            </place>
+            <place xml:id="Q3645">
+                <placeName type="main" xml:lang="pl">Bogusław</placeName>
+            </place>
+            <place xml:id="Q3648">
+                <placeName type="main" xml:lang="pl">Mitręga</placeName>
+            </place>
+            <place xml:id="Q2911">
+                <placeName type="main" xml:lang="pl">dekanat - Międzyrzecz</placeName>
+            </place>
+            <place xml:id="Q2910">
+                <placeName type="main" xml:lang="pl">dekanat - Poznań</placeName>
+            </place>
+            <place xml:id="Q3642">
+                <placeName type="main" xml:lang="pl">Śródka</placeName>
+            </place>
+            <place xml:id="Q3641">
+                <placeName type="main" xml:lang="pl">Słomowo</placeName>
+            </place>
+            <place xml:id="Q3644">
+                <placeName type="main" xml:lang="pl">Zaczułtowo Wielkie</placeName>
+            </place>
+            <place xml:id="Q3643">
+                <placeName type="main" xml:lang="pl">Izdebno</placeName>
+            </place>
+            <place xml:id="Q3639">
+                <placeName type="main" xml:lang="pl">Milino</placeName>
+            </place>
+            <place xml:id="Q3638">
+                <placeName type="main" xml:lang="pl">Mościejewo</placeName>
+            </place>
+            <place xml:id="Q3635">
+                <placeName type="main" xml:lang="pl">Jabłonowo</placeName>
+            </place>
+            <place xml:id="Q2964">
+                <placeName type="main" xml:lang="pl">Jutrosin</placeName>
+            </place>
+            <place xml:id="Q2920">
+                <placeName type="main" xml:lang="pl">dekanat - Nowe Miasto</placeName>
+            </place>
+            <place xml:id="Q2963">
+                <placeName type="main" xml:lang="pl">Miłosław</placeName>
+            </place>
+            <place xml:id="Q3634">
+                <placeName type="main" xml:lang="pl">Będlewo</placeName>
+            </place>
+            <place xml:id="Q3637">
+                <placeName type="main" xml:lang="pl">Krępe</placeName>
+            </place>
+            <place xml:id="Q2921">
+                <placeName type="main" xml:lang="pl">Trzciel</placeName>
+            </place>
+            <place xml:id="Q3636">
+                <placeName type="main" xml:lang="pl">Kikowo</placeName>
+            </place>
+            <place xml:id="Q3633">
+                <placeName type="main" xml:lang="pl">Niemierzewo</placeName>
+            </place>
+            <place xml:id="Q2962">
+                <placeName type="main" xml:lang="pl">Osieczna</placeName>
+            </place>
+            <place xml:id="Q3632">
+                <placeName type="main" xml:lang="pl">Kępa</placeName>
+            </place>
+        </listPlace>
+        <listOrg>
+            <org xml:id="Q469">
+                <orgName type="main" xml:lang="pl">kolegium mansjonarzy - parafia - Wszyscy Św - Sieraków</orgName>
+            </org>
+            <org xml:id="Q589">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Klemens Pp - Zielęcino</orgName>
+            </org>
+            <org xml:id="Q468">
+                <orgName type="main" xml:lang="pl">kolegium mansjonarzy - parafia - Wojciech Bp, Jadwiga Wd - Bnin</orgName>
+            </org>
+            <org xml:id="Q2111">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Pieski</orgName>
+            </org>
+            <org xml:id="Q465">
+                <orgName type="main" xml:lang="pl">kolegium mansjonarzy - parafia - WnNMP - Ostroróg</orgName>
+            </org>
+            <org xml:id="Q586">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Katarzyna PM - Wronki</orgName>
+            </org>
+            <org xml:id="Q464">
+                <orgName type="main" xml:lang="pl">kolegium mansjonarzy - parafia - WnNMP - Dębno</orgName>
+            </org>
+            <org xml:id="Q585">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Katarzyna PM - Solec</orgName>
+            </org>
+            <org xml:id="Q467">
+                <orgName type="main" xml:lang="pl">kolegium mansjonarzy - parafia - WnNMP, Wawrzyniec M - Koźmin</orgName>
+            </org>
+            <org xml:id="Q588">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Klemens Pp - Zakrzewo</orgName>
+            </org>
+            <org xml:id="Q466">
+                <orgName type="main" xml:lang="pl">kolegium mansjonarzy - parafia - WnNMP, Jan Ch, Jan Ew - Kościan</orgName>
+            </org>
+            <org xml:id="Q593">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Maciej, Mateusz AAp - Bieździadowo</orgName>
+            </org>
+            <org xml:id="Q2358">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Siemowo</orgName>
+            </org>
+            <org xml:id="Q472">
+                <orgName type="main" xml:lang="pl">kustodia kolegiacka - parafia - Stanisław Bp - Szamotuły</orgName>
+            </org>
+            <org xml:id="Q592">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Maciej Ap, Jadwiga Wd - Łodzia</orgName>
+            </org>
+            <org xml:id="Q471">
+                <orgName type="main" xml:lang="pl">kustodia kolegiacka - kościół kolegiacki - NMP (in Summo) - Poznań</orgName>
+            </org>
+            <org xml:id="Q595">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Małgorzata PM - Gostyń</orgName>
+            </org>
+            <org xml:id="Q473">
+                <orgName type="main" xml:lang="pl">mansjonaria - kościół filialny - Stanisław - Poznań</orgName>
+            </org>
+            <org xml:id="Q470">
+                <orgName type="main" xml:lang="pl">kolegium mansjonarzy kolegiackich - parafia - WnNMP, Stanisław Bp - Zbąszyń</orgName>
+            </org>
+            <org xml:id="Q591">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Łukasz Ew - Świerczyna</orgName>
+            </org>
+            <org xml:id="Q590">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Leonard O - Lubiń</orgName>
+            </org>
+            <org xml:id="Q458">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów - parafia - WnNMP, Wawrzyniec M - Koźmin</orgName>
+            </org>
+            <org xml:id="Q579">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Katarzyna PM - Łęgowo</orgName>
+            </org>
+            <org xml:id="Q457">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów - parafia - WnNMP, Piotr i Paweł AAp, Stanisław Bp - Buk</orgName>
+            </org>
+            <org xml:id="Q578">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Katarzyna PM - Koszuty</orgName>
+            </org>
+            <org xml:id="Q699">
+                <orgName type="main" xml:lang="pl">plebania - parafia - NarNMP - Tulce</orgName>
+            </org>
+            <org xml:id="Q1274">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Drożyn</orgName>
+            </org>
+            <org xml:id="Q459">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów kolegiackich - kościół kolegiacki - Mikołaj - Poznań</orgName>
+            </org>
+            <org xml:id="Q575">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Katarzyna PM - Brodnica</orgName>
+            </org>
+            <org xml:id="Q696">
+                <orgName type="main" xml:lang="pl">plebania - parafia - NarNMP - Poniec</orgName>
+            </org>
+            <org xml:id="Q454">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów - parafia - WnNMP - Śrem</orgName>
+            </org>
+            <org xml:id="Q574">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Katarzyna PM - Bledzew</orgName>
+            </org>
+            <org xml:id="Q453">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów - parafia - WnNMP - Oborniki</orgName>
+            </org>
+            <org xml:id="Q577">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Katarzyna PM - Głuchowo</orgName>
+            </org>
+            <org xml:id="Q456">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów - parafia - WnNMP, Jan Ch, Jan Ew - Kościan</orgName>
+            </org>
+            <org xml:id="Q698">
+                <orgName type="main" xml:lang="pl">plebania - parafia - NarNMP - Sobota</orgName>
+            </org>
+            <org xml:id="Q576">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Katarzyna PM - Dokowo Mokre</orgName>
+            </org>
+            <org xml:id="Q455">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów - parafia - WnNMP, Jan Ch - Śmigiel</orgName>
+            </org>
+            <org xml:id="Q582">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Katarzyna PM - Potulice</orgName>
+            </org>
+            <org xml:id="Q461">
+                <orgName type="main" xml:lang="pl">kolegium mansjonarzy - kościół filialny - Stanisław - Poznań</orgName>
+            </org>
+            <org xml:id="Q581">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Katarzyna PM - Pogrzybowo</orgName>
+            </org>
+            <org xml:id="Q1039">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Boguszyno</orgName>
+            </org>
+            <org xml:id="Q2249">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Radzewo</orgName>
+            </org>
+            <org xml:id="Q460">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów kolegiackich - kościół kolegiacki - NMP (in Summo) - Poznań</orgName>
+            </org>
+            <org xml:id="Q584">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Katarzyna PM - Skoroszewice</orgName>
+            </org>
+            <org xml:id="Q463">
+                <orgName type="main" xml:lang="pl">kolegium mansjonarzy - parafia - Stanisław Bp - Szamotuły</orgName>
+            </org>
+            <org xml:id="Q583">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Katarzyna PM - Rożnowo</orgName>
+            </org>
+            <org xml:id="Q462">
+                <orgName type="main" xml:lang="pl">kolegium mansjonarzy - parafia - NarNMP - Pyzdry</orgName>
+            </org>
+            <org xml:id="Q2004">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Nowa Wieś</orgName>
+            </org>
+            <org xml:id="Q580">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Katarzyna PM - Opatówko</orgName>
+            </org>
+            <org xml:id="Q2005">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Nowa Wieś</orgName>
+            </org>
+            <org xml:id="Q1163">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Chycina</orgName>
+            </org>
+            <org xml:id="Q369">
+                <orgName type="main" xml:lang="pl">altaria - kościół filialny - Stanisław - Poznań</orgName>
+            </org>
+            <org xml:id="Q366">
+                <orgName type="main" xml:lang="pl">altaria - kościół filialny - Boże Ciało - Kościan</orgName>
+            </org>
+            <org xml:id="Q487">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Andrzej Ap - Nekla</orgName>
+            </org>
+            <org xml:id="Q365">
+                <orgName type="main" xml:lang="pl">altaria - kościół filialny - Barbara - Lwówek</orgName>
+            </org>
+            <org xml:id="Q486">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Andrzej Ap - Mokronos</orgName>
+            </org>
+            <org xml:id="Q368">
+                <orgName type="main" xml:lang="pl">altaria - kościół filialny - Katarzyna, Jakub - Lwówek</orgName>
+            </org>
+            <org xml:id="Q489">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Andrzej Ap - Sarnowo</orgName>
+            </org>
+            <org xml:id="Q1040">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Bojanice</orgName>
+            </org>
+            <org xml:id="Q367">
+                <orgName type="main" xml:lang="pl">altaria - kościół filialny - Gertruda - Poznań</orgName>
+            </org>
+            <org xml:id="Q494">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Andrzej Ap, Małgorzata PM - Konojad</orgName>
+            </org>
+            <org xml:id="Q3107">
+                <orgName type="main" xml:lang="pl">parafia - WnNMP, NMP, Stanisław Bp, Andrzej Ap, Dorota PM - Ostrów</orgName>
+            </org>
+            <org xml:id="Q373">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Jan Ch - Brzostkowo</orgName>
+            </org>
+            <org xml:id="Q372">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Jakub W Ap - Święciechów</orgName>
+            </org>
+            <org xml:id="Q375">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Katarzyna PM - Wronki</orgName>
+            </org>
+            <org xml:id="Q496">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Andrzej Ap, Maria Magdalena - Brody</orgName>
+            </org>
+            <org xml:id="Q374">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Jan Ch, Jan Ew - Lwówek</orgName>
+            </org>
+            <org xml:id="Q490">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Andrzej Ap - Spławie</orgName>
+            </org>
+            <org xml:id="Q492">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Andrzej Ap, Dorota PM - Iłowiec Mały</orgName>
+            </org>
+            <org xml:id="Q371">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Andrzej Ap - Komorniki</orgName>
+            </org>
+            <org xml:id="Q491">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Andrzej Ap - Wyskocz</orgName>
+            </org>
+            <org xml:id="Q1048">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Bonikowo</orgName>
+            </org>
+            <org xml:id="Q370">
+                <orgName type="main" xml:lang="pl">altaria - kościół filialny - Wszyscy Św. - Poznań</orgName>
+            </org>
+            <org xml:id="Q2020">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Ocieszyno</orgName>
+            </org>
+            <org xml:id="Q479">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Andrzej Ap - Boruszyno</orgName>
+            </org>
+            <org xml:id="Q1055">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Borówko</orgName>
+            </org>
+            <org xml:id="Q476">
+                <orgName type="main" xml:lang="pl">mansjonaria - parafia - WnNMP, Wawrzyniec M - Koźmin</orgName>
+            </org>
+            <org xml:id="Q1170">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Cielcza</orgName>
+            </org>
+            <org xml:id="Q475">
+                <orgName type="main" xml:lang="pl">mansjonaria - parafia - WnNMP, Jan Ch, Jan Ew - Kościan</orgName>
+            </org>
+            <org xml:id="Q598">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Małgorzata PM - Parkowo</orgName>
+            </org>
+            <org xml:id="Q477">
+                <orgName type="main" xml:lang="pl">mansjonaria - parafia - Wojciech Bp, Jadwiga Wd - Bnin</orgName>
+            </org>
+            <org xml:id="Q483">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Andrzej Ap - Kunowo</orgName>
+            </org>
+            <org xml:id="Q482">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Andrzej Ap - Komorniki</orgName>
+            </org>
+            <org xml:id="Q485">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Andrzej Ap - Lutomie</orgName>
+            </org>
+            <org xml:id="Q364">
+                <orgName type="main" xml:lang="pl">starostwo - Rogoźno</orgName>
+            </org>
+            <org xml:id="Q363">
+                <orgName type="main" xml:lang="pl">kasztelania - Kalisz</orgName>
+            </org>
+            <org xml:id="Q1056">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Borszyn</orgName>
+            </org>
+            <org xml:id="Q2025">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Ogrody</orgName>
+            </org>
+            <org xml:id="Q481">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Andrzej Ap - Gołanice</orgName>
+            </org>
+            <org xml:id="Q480">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Andrzej Ap - Golina</orgName>
+            </org>
+            <org xml:id="Q388">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Mikołaj Bp - Ujście</orgName>
+            </org>
+            <org xml:id="Q387">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Mikołaj Bp - Skwierzyna</orgName>
+            </org>
+            <org xml:id="Q389">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Mikołaj Bp, Katarzyna PM - Krzywiń</orgName>
+            </org>
+            <org xml:id="Q395">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Stanisław Bp - Szamotuły</orgName>
+            </org>
+            <org xml:id="Q394">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Piotr i Paweł AAp - Kostrzyn</orgName>
+            </org>
+            <org xml:id="Q397">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Św. Krzyż, Michał A - Domachowo</orgName>
+            </org>
+            <org xml:id="Q396">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Św. Duch, NPNMP - Włościejewki</orgName>
+            </org>
+            <org xml:id="Q391">
+                <orgName type="main" xml:lang="pl">altaria - parafia - NarNMP - Poniec</orgName>
+            </org>
+            <org xml:id="Q1222">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Dąbrowa</orgName>
+            </org>
+            <org xml:id="Q390">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Mikołaj Bp, Maria Magdalena - Górka</orgName>
+            </org>
+            <org xml:id="Q393">
+                <orgName type="main" xml:lang="pl">altaria - parafia - NMP, Jan Ch, Jan Ew - Kryrowo</orgName>
+            </org>
+            <org xml:id="Q1344">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Głuszyna</orgName>
+            </org>
+            <org xml:id="Q392">
+                <orgName type="main" xml:lang="pl">altaria - parafia - NarNMP - Pyzdry</orgName>
+            </org>
+            <org xml:id="Q377">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Maciej Ap, Jadwiga Wd - Łodzia</orgName>
+            </org>
+            <org xml:id="Q376">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Łukasz Ew - Świerczyna</orgName>
+            </org>
+            <org xml:id="Q379">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Marcin Bp - Jarocin</orgName>
+            </org>
+            <org xml:id="Q378">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Małgorzata PM - Gostyń</orgName>
+            </org>
+            <org xml:id="Q2209">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Przyczyna Górna</orgName>
+            </org>
+            <org xml:id="Q384">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Michał A, Agnieszka - Pogorzel</orgName>
+            </org>
+            <org xml:id="Q2204">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Przewóz</orgName>
+            </org>
+            <org xml:id="Q2568">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Templewo</orgName>
+            </org>
+            <org xml:id="Q383">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Michał A - Dolsko</orgName>
+            </org>
+            <org xml:id="Q386">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Mikołaj Bp - Skoki</orgName>
+            </org>
+            <org xml:id="Q385">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Mikołaj Bp - Krobia</orgName>
+            </org>
+            <org xml:id="Q380">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Marcin Bp - Strzelce Wielkie</orgName>
+            </org>
+            <org xml:id="Q1113">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Charbielino</orgName>
+            </org>
+            <org xml:id="Q382">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Maria Magdalena - Jaraczewo</orgName>
+            </org>
+            <org xml:id="Q381">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Marcin Bp - Wilkowo</orgName>
+            </org>
+            <org xml:id="Q1364">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Gorazdowo</orgName>
+            </org>
+            <org xml:id="Q1123">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Chełmsko</orgName>
+            </org>
+            <org xml:id="Q1366">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Goruńsko</orgName>
+            </org>
+            <org xml:id="Q1372">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Gorzyca</orgName>
+            </org>
+            <org xml:id="Q1130">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Chludowo</orgName>
+            </org>
+            <org xml:id="Q399">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Św. Trójca - Stęszew</orgName>
+            </org>
+            <org xml:id="Q398">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Św. Trójca - Nowe Miasto</orgName>
+            </org>
+            <org xml:id="Q2585">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Trzebaw</orgName>
+            </org>
+            <org xml:id="Q2588">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Trzebosz</orgName>
+            </org>
+            <org xml:id="Q1185">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Czarmyśl</orgName>
+            </org>
+            <org xml:id="Q2395">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Sława</orgName>
+            </org>
+            <org xml:id="Q2159">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Policko</orgName>
+            </org>
+            <org xml:id="Q1070">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Brudzewo</orgName>
+            </org>
+            <org xml:id="Q2052">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Osiecko</orgName>
+            </org>
+            <org xml:id="Q1098">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Budziszewo</orgName>
+            </org>
+            <org xml:id="Q1099">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Bukowiec</orgName>
+            </org>
+            <org xml:id="Q900">
+                <orgName type="main" xml:lang="pl">prepozytura - kościół filialny - Św. Duch - Oborniki</orgName>
+            </org>
+            <org xml:id="Q906">
+                <orgName type="main" xml:lang="pl">prepozytura - kościół szpitalny - Św. Trójca - Lwówek</orgName>
+            </org>
+            <org xml:id="Q905">
+                <orgName type="main" xml:lang="pl">prepozytura - kościół szpitalny - Św. Duch - Pniewy</orgName>
+            </org>
+            <org xml:id="Q908">
+                <orgName type="main" xml:lang="pl">prepozytura - parafia - WnNMP - Ostroróg</orgName>
+            </org>
+            <org xml:id="Q907">
+                <orgName type="main" xml:lang="pl">prepozytura - parafia - NarNMP - Pyzdry</orgName>
+            </org>
+            <org xml:id="Q902">
+                <orgName type="main" xml:lang="pl">prepozytura - kościół filialny - Św. Duch - Rogoźno</orgName>
+            </org>
+            <org xml:id="Q901">
+                <orgName type="main" xml:lang="pl">prepozytura - kościół filialny - Św. Duch - Pyzdry</orgName>
+            </org>
+            <org xml:id="Q904">
+                <orgName type="main" xml:lang="pl">prepozytura - kościół filialny - Św. Trójca - Chodzież</orgName>
+            </org>
+            <org xml:id="Q903">
+                <orgName type="main" xml:lang="pl">prepozytura - kościół filialny - Św. Duch - Szamotuły</orgName>
+            </org>
+            <org xml:id="Q909">
+                <orgName type="main" xml:lang="pl">prepozytura kolegiacka - kościół kolegiacki - Mikołaj - Poznań</orgName>
+            </org>
+            <org xml:id="Q1943">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Morawsko</orgName>
+            </org>
+            <org xml:id="Q1835">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Łężce Wielkie</orgName>
+            </org>
+            <org xml:id="Q1712">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Krzon</orgName>
+            </org>
+            <org xml:id="Q920">
+                <orgName type="main" xml:lang="pl">altaria katedralna - kościół katedralny - Poznań</orgName>
+            </org>
+            <org xml:id="Q801">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wawrzyniec M - Kamieniec</orgName>
+            </org>
+            <org xml:id="Q922">
+                <orgName type="main" xml:lang="pl">archidiakonat katedralny - śremski - kościół katedralny - Poznań</orgName>
+            </org>
+            <org xml:id="Q921">
+                <orgName type="main" xml:lang="pl">altaria kolegiacka - kościół kolegiacki - Środa</orgName>
+            </org>
+            <org xml:id="Q800">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Walenty M - Pakosław</orgName>
+            </org>
+            <org xml:id="Q928">
+                <orgName type="main" xml:lang="pl">kancelaria katedralna - kościół katedralny - Poznań</orgName>
+            </org>
+            <org xml:id="Q927">
+                <orgName type="main" xml:lang="pl">dziekania kolegiacka - kościół kolegiacki - Środa</orgName>
+            </org>
+            <org xml:id="Q809">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wawrzyniec M - Żytowiecko</orgName>
+            </org>
+            <org xml:id="Q808">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wawrzyniec M - Woniesiecz</orgName>
+            </org>
+            <org xml:id="Q929">
+                <orgName type="main" xml:lang="pl">kanonia katedralna - św. Jan - kościół katedralny - Poznań</orgName>
+            </org>
+            <org xml:id="Q803">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wawrzyniec M - Nieproszewo</orgName>
+            </org>
+            <org xml:id="Q802">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wawrzyniec M - Lubasz</orgName>
+            </org>
+            <org xml:id="Q805">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wawrzyniec M - Stary Dwór</orgName>
+            </org>
+            <org xml:id="Q926">
+                <orgName type="main" xml:lang="pl">dziekania katedralna - kościół katedralny - Poznań</orgName>
+            </org>
+            <org xml:id="Q804">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wawrzyniec M - Pniewy</orgName>
+            </org>
+            <org xml:id="Q925">
+                <orgName type="main" xml:lang="pl">biskupstwo - kościół katedralny - Poznań</orgName>
+            </org>
+            <org xml:id="Q1609">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Kolniczki</orgName>
+            </org>
+            <org xml:id="Q2811">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Zębsko</orgName>
+            </org>
+            <org xml:id="Q911">
+                <orgName type="main" xml:lang="pl">prepozytura kolegiacka - parafia - WnNMP, Stanisław Bp - Zbąszyń</orgName>
+            </org>
+            <org xml:id="Q910">
+                <orgName type="main" xml:lang="pl">prepozytura kolegiacka - parafia - Stanisław Bp - Szamotuły</orgName>
+            </org>
+            <org xml:id="Q917">
+                <orgName type="main" xml:lang="pl">prepozytura szpitalna - kościół szpitalny - Św. Krzyż - Poznań</orgName>
+            </org>
+            <org xml:id="Q916">
+                <orgName type="main" xml:lang="pl">prepozytura szpitalna - kościół szpitalny - Św. Duch - Stęszew</orgName>
+            </org>
+            <org xml:id="Q919">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Lasocice</orgName>
+            </org>
+            <org xml:id="Q918">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Cielcza</orgName>
+            </org>
+            <org xml:id="Q913">
+                <orgName type="main" xml:lang="pl">prepozytura szpitalna - kościół szpitalny - Św. Duch - Kościan</orgName>
+            </org>
+            <org xml:id="Q912">
+                <orgName type="main" xml:lang="pl">prepozytura szpitalna - kościół szpitalny - Św. Duch - Dolsk</orgName>
+            </org>
+            <org xml:id="Q915">
+                <orgName type="main" xml:lang="pl">prepozytura szpitalna - kościół szpitalny - Św. Duch - Poznań</orgName>
+            </org>
+            <org xml:id="Q914">
+                <orgName type="main" xml:lang="pl">prepozytura szpitalna - kościół szpitalny - Św. Duch - Koźmin</orgName>
+            </org>
+            <org xml:id="Q1978">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Niechłód</orgName>
+            </org>
+            <org xml:id="Q1611">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Kolsko</orgName>
+            </org>
+            <org xml:id="Q2701">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Witosław</orgName>
+            </org>
+            <org xml:id="Q1972">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Niałek Wielki</orgName>
+            </org>
+            <org xml:id="Q942">
+                <orgName type="main" xml:lang="pl">opactwo - opactwo - Obra</orgName>
+            </org>
+            <org xml:id="Q700">
+                <orgName type="main" xml:lang="pl">plebania - parafia - NarNMP - Zbarzewo</orgName>
+            </org>
+            <org xml:id="Q820">
+                <orgName type="main" xml:lang="pl">plebania - parafia - WnNMP - Dębno</orgName>
+            </org>
+            <org xml:id="Q941">
+                <orgName type="main" xml:lang="pl">opactwo - opactwo - Lubiń</orgName>
+            </org>
+            <org xml:id="Q944">
+                <orgName type="main" xml:lang="pl">opactwo - opactwo - Przemęt</orgName>
+            </org>
+            <org xml:id="Q702">
+                <orgName type="main" xml:lang="pl">plebania - parafia - NarNMP, Wojciech, Stanisław BBp - Borzęcice</orgName>
+            </org>
+            <org xml:id="Q823">
+                <orgName type="main" xml:lang="pl">plebania - parafia - WnNMP - Gołębino</orgName>
+            </org>
+            <org xml:id="Q943">
+                <orgName type="main" xml:lang="pl">opactwo - opactwo - Paradyż</orgName>
+            </org>
+            <org xml:id="Q701">
+                <orgName type="main" xml:lang="pl">plebania - parafia - NarNMP, Mikołaj Bp - Benice</orgName>
+            </org>
+            <org xml:id="Q822">
+                <orgName type="main" xml:lang="pl">plebania - parafia - WnNMP - Giecz</orgName>
+            </org>
+            <org xml:id="Q940">
+                <orgName type="main" xml:lang="pl">opactwo - opactwo - Bledzew</orgName>
+            </org>
+            <org xml:id="Q828">
+                <orgName type="main" xml:lang="pl">plebania - parafia - WnNMP - Lutynia</orgName>
+            </org>
+            <org xml:id="Q946">
+                <orgName type="main" xml:lang="pl">plebania - kościół parafialny - Przeprostynia</orgName>
+            </org>
+            <org xml:id="Q824">
+                <orgName type="main" xml:lang="pl">plebania - parafia - WnNMP - Góra</orgName>
+            </org>
+            <org xml:id="Q945">
+                <orgName type="main" xml:lang="pl">plebania - kościół filialny - Sobiałkowo</orgName>
+            </org>
+            <org xml:id="Q703">
+                <orgName type="main" xml:lang="pl">plebania - parafia - NawNMP - Biechowo</orgName>
+            </org>
+            <org xml:id="Q706">
+                <orgName type="main" xml:lang="pl">plebania - parafia - NawNMP, Bartłomiej Ap - Lubosz</orgName>
+            </org>
+            <org xml:id="Q931">
+                <orgName type="main" xml:lang="pl">kanonia kolegiacka - kościół kolegiacki - Środa</orgName>
+            </org>
+            <org xml:id="Q930">
+                <orgName type="main" xml:lang="pl">kanonia katedralna - kościół katedralny - Poznań</orgName>
+            </org>
+            <org xml:id="Q933">
+                <orgName type="main" xml:lang="pl">kapelania - kaplica - Siekowo</orgName>
+            </org>
+            <org xml:id="Q932">
+                <orgName type="main" xml:lang="pl">kantoria katedralna - kościół katedralny - Poznań</orgName>
+            </org>
+            <org xml:id="Q939">
+                <orgName type="main" xml:lang="pl">kustodia kolegiacka - kościół kolegiacki - Środa</orgName>
+            </org>
+            <org xml:id="Q818">
+                <orgName type="main" xml:lang="pl">plebania - parafia - WnNMP - Czerlenino</orgName>
+            </org>
+            <org xml:id="Q938">
+                <orgName type="main" xml:lang="pl">kustodia katedralna - kościół katedralny - Poznań</orgName>
+            </org>
+            <org xml:id="Q935">
+                <orgName type="main" xml:lang="pl">kapituła kolegiacka - kościół kolegiacki - Środa</orgName>
+            </org>
+            <org xml:id="Q934">
+                <orgName type="main" xml:lang="pl">kapituła katedralna - kościół katedralny - Poznań</orgName>
+            </org>
+            <org xml:id="Q816">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wit, Modest MM, Krescencja PM, NPNMP - Rogoźno</orgName>
+            </org>
+            <org xml:id="Q937">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów katedralnych - kościół katedralny - Poznań</orgName>
+            </org>
+            <org xml:id="Q936">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów - kościół kolegiacki - Środa</orgName>
+            </org>
+            <org xml:id="Q815">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wit M, Dorota PM, Kazimierz Królewicz - Gułtowo</orgName>
+            </org>
+            <org xml:id="Q1911">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Mikuszewo</orgName>
+            </org>
+            <org xml:id="Q843">
+                <orgName type="main" xml:lang="pl">plebania - parafia - WnNMP, Jan Ch - Śmigiel</orgName>
+            </org>
+            <org xml:id="Q601">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Marcin Bp - Białężyno</orgName>
+            </org>
+            <org xml:id="Q721">
+                <orgName type="main" xml:lang="pl">plebania - parafia - NPNMP, Jakub W Ap - Dąbrówka</orgName>
+            </org>
+            <org xml:id="Q842">
+                <orgName type="main" xml:lang="pl">plebania - parafia - WnNMP, Bartłomiej Ap, Wojciech Bp - Drzeczkowo</orgName>
+            </org>
+            <org xml:id="Q603">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Marcin Bp - Bukowiec Wielki</orgName>
+            </org>
+            <org xml:id="Q724">
+                <orgName type="main" xml:lang="pl">plebania - parafia - OczNMP, Mateusz Ap, Maria Magdalena - Starygród</orgName>
+            </org>
+            <org xml:id="Q845">
+                <orgName type="main" xml:lang="pl">plebania - parafia - WnNMP, Jan Ch, Jan Ew - Kościan</orgName>
+            </org>
+            <org xml:id="Q602">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Marcin Bp - Bukowiec Mały</orgName>
+            </org>
+            <org xml:id="Q723">
+                <orgName type="main" xml:lang="pl">plebania - parafia - NPNMP, Stanisław Bp, Jadwiga Wd, Katarzyna - Oporowo</orgName>
+            </org>
+            <org xml:id="Q720">
+                <orgName type="main" xml:lang="pl">plebania - parafia - NMPŚ - Krzycko Małe</orgName>
+            </org>
+            <org xml:id="Q608">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Marcin Bp - Granowo</orgName>
+            </org>
+            <org xml:id="Q847">
+                <orgName type="main" xml:lang="pl">plebania - parafia - WnNMP, Marcin Bp - Falkwald</orgName>
+            </org>
+            <org xml:id="Q605">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Marcin Bp - Długie Stare</orgName>
+            </org>
+            <org xml:id="Q846">
+                <orgName type="main" xml:lang="pl">plebania - parafia - WnNMP, Katarzyna PM - Jutrosin</orgName>
+            </org>
+            <org xml:id="Q725">
+                <orgName type="main" xml:lang="pl">plebania - parafia - OczNMP, Wawrzyniec M - Mączniki</orgName>
+            </org>
+            <org xml:id="Q607">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Marcin Bp - Gostyń Stary</orgName>
+            </org>
+            <org xml:id="Q849">
+                <orgName type="main" xml:lang="pl">plebania - parafia - WnNMP, Michał A - Kiekrz</orgName>
+            </org>
+            <org xml:id="Q606">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Marcin Bp - Duszniki</orgName>
+            </org>
+            <org xml:id="Q848">
+                <orgName type="main" xml:lang="pl">plebania - parafia - WnNMP, Mateusz Ap - Kopanica</orgName>
+            </org>
+            <org xml:id="Q834">
+                <orgName type="main" xml:lang="pl">plebania - parafia - WnNMP - Słomowo</orgName>
+            </org>
+            <org xml:id="Q833">
+                <orgName type="main" xml:lang="pl">plebania - parafia - WnNMP - Psarskie</orgName>
+            </org>
+            <org xml:id="Q830">
+                <orgName type="main" xml:lang="pl">plebania - parafia - WnNMP - Oborniki</orgName>
+            </org>
+            <org xml:id="Q835">
+                <orgName type="main" xml:lang="pl">plebania - parafia - WnNMP - Stobnica</orgName>
+            </org>
+            <org xml:id="Q714">
+                <orgName type="main" xml:lang="pl">plebania - parafia - NMP, Jan Ch, Jan Ew - Kryrowo</orgName>
+            </org>
+            <org xml:id="Q717">
+                <orgName type="main" xml:lang="pl">plebania - parafia - NMP, Wszyscy Św - Bytyń</orgName>
+            </org>
+            <org xml:id="Q837">
+                <orgName type="main" xml:lang="pl">plebania - parafia - WnNMP - Śrem</orgName>
+            </org>
+            <org xml:id="Q865">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wojciech Bp - Stary Klasztor</orgName>
+            </org>
+            <org xml:id="Q623">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Marcin Bp, Wincenty M - Skórzewo</orgName>
+            </org>
+            <org xml:id="Q864">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wojciech Bp - Smolice</orgName>
+            </org>
+            <org xml:id="Q622">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Marcin Bp, Piotr wO - Konarzewo</orgName>
+            </org>
+            <org xml:id="Q501">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Anna - Kiszewo</orgName>
+            </org>
+            <org xml:id="Q746">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Stanisław Bp - Ceradz Stary</orgName>
+            </org>
+            <org xml:id="Q625">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Maria Magdalena - Czarnków</orgName>
+            </org>
+            <org xml:id="Q867">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wojciech Bp, Jadwiga Wd - Bnin</orgName>
+            </org>
+            <org xml:id="Q2870">
+                <orgName type="main" xml:lang="pl">prepozytura katedralna - kościół katedralny - Poznań</orgName>
+            </org>
+            <org xml:id="Q866">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wojciech Bp - Trzciel</orgName>
+            </org>
+            <org xml:id="Q745">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Stanisław Bp - Borek</orgName>
+            </org>
+            <org xml:id="Q740">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Piotr wO - Ptaszkowo Wielkie</orgName>
+            </org>
+            <org xml:id="Q861">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wojciech Bp - Margonin</orgName>
+            </org>
+            <org xml:id="Q621">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Marcin Bp - Wilkowo</orgName>
+            </org>
+            <org xml:id="Q863">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wojciech Bp - Pogorzelica</orgName>
+            </org>
+            <org xml:id="Q742">
+                <orgName type="main" xml:lang="pl">plebania - parafia - PKrzyża Św, ZKrzyża Św - Bieganowo</orgName>
+            </org>
+            <org xml:id="Q862">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wojciech Bp - Panienka</orgName>
+            </org>
+            <org xml:id="Q741">
+                <orgName type="main" xml:lang="pl">plebania - parafia - PKrzyża Św, Mikołaj Bp, Agnieszka PM - Wysocko Wielkie</orgName>
+            </org>
+            <org xml:id="Q620">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Marcin Bp - Śmieciska</orgName>
+            </org>
+            <org xml:id="Q509">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Barbara PM - Tomice</orgName>
+            </org>
+            <org xml:id="Q627">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Maria Magdalena - Jaraczewo</orgName>
+            </org>
+            <org xml:id="Q506">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Anna, Wszyscy Św - Białcz</orgName>
+            </org>
+            <org xml:id="Q869">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wojciech Bp, Katarzyna PM - Cerkwica</orgName>
+            </org>
+            <org xml:id="Q868">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wojciech Bp, Jadwiga Wd - Wilkowyja</orgName>
+            </org>
+            <org xml:id="Q626">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Maria Magdalena - Goślina Długa</orgName>
+            </org>
+            <org xml:id="Q508">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Barbara PM - Gryżyna</orgName>
+            </org>
+            <org xml:id="Q628">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Maria Magdalena - Pczew</orgName>
+            </org>
+            <org xml:id="Q749">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Stanisław Bp - Lechnino</orgName>
+            </org>
+            <org xml:id="Q2879">
+                <orgName type="main" xml:lang="pl">scholasteria katedralna - kościół katedralny - Poznań</orgName>
+            </org>
+            <org xml:id="Q2876">
+                <orgName type="main" xml:lang="pl">prepozytura szpitalna - kościół szpitalny - Osieczna</orgName>
+            </org>
+            <org xml:id="Q2875">
+                <orgName type="main" xml:lang="pl">prepozytura szpitalna - kościół szpitalny - Krobia</orgName>
+            </org>
+            <org xml:id="Q2878">
+                <orgName type="main" xml:lang="pl">prepozytura szpitalna - kościół szpitalny - Zbąszyń</orgName>
+            </org>
+            <org xml:id="Q870">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wojciech Bp, Mateusz Ap - Jankowo</orgName>
+            </org>
+            <org xml:id="Q2877">
+                <orgName type="main" xml:lang="pl">prepozytura szpitalna - kościół szpitalny - Poniec</orgName>
+            </org>
+            <org xml:id="Q2872">
+                <orgName type="main" xml:lang="pl">prepozytura szpitalna - kościół szpitalny - Jarocin</orgName>
+            </org>
+            <org xml:id="Q2871">
+                <orgName type="main" xml:lang="pl">prepozytura kolegiacka - kościół kolegiacki - Środa</orgName>
+            </org>
+            <org xml:id="Q2874">
+                <orgName type="main" xml:lang="pl">prepozytura szpitalna - kościół szpitalny - Kostrzyń</orgName>
+            </org>
+            <org xml:id="Q2873">
+                <orgName type="main" xml:lang="pl">prepozytura szpitalna - kościół szpitalny - Kębłowo</orgName>
+            </org>
+            <org xml:id="Q612">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Marcin Bp - Łaszczyno</orgName>
+            </org>
+            <org xml:id="Q853">
+                <orgName type="main" xml:lang="pl">plebania - parafia - WnNMP, Mikołaj Bp - Wierzbno</orgName>
+            </org>
+            <org xml:id="Q732">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Piotr i Paweł AAp - Obrzycko</orgName>
+            </org>
+            <org xml:id="Q611">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Marcin Bp - Kaczanowo</orgName>
+            </org>
+            <org xml:id="Q856">
+                <orgName type="main" xml:lang="pl">plebania - parafia - WnNMP, Piotr i Paweł AAp, Stanisław Bp - Buk</orgName>
+            </org>
+            <org xml:id="Q614">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Marcin Bp - Odalanów</orgName>
+            </org>
+            <org xml:id="Q735">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Piotr i Paweł AAp - Rąbino</orgName>
+            </org>
+            <org xml:id="Q2881">
+                <orgName type="main" xml:lang="pl">altaria kolegiacka - parafia - NMP, Maria Magdalena - Poznań</orgName>
+            </org>
+            <org xml:id="Q855">
+                <orgName type="main" xml:lang="pl">plebania - parafia - WnNMP, Piotr i Paweł AAp - Wolsztyn</orgName>
+            </org>
+            <org xml:id="Q613">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Marcin Bp - Mchy</orgName>
+            </org>
+            <org xml:id="Q2880">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Marcin Bp - Poznań</orgName>
+            </org>
+            <org xml:id="Q850">
+                <orgName type="main" xml:lang="pl">plebania - parafia - WnNMP, Michał A - Wieleń</orgName>
+            </org>
+            <org xml:id="Q610">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Marcin Bp - Jarocin</orgName>
+            </org>
+            <org xml:id="Q731">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Piotr i Paweł AAp - Niepart</orgName>
+            </org>
+            <org xml:id="Q852">
+                <orgName type="main" xml:lang="pl">plebania - parafia - WnNMP, Mikołaj Bp - Niezamyśl</orgName>
+            </org>
+            <org xml:id="Q851">
+                <orgName type="main" xml:lang="pl">plebania - parafia - WnNMP, Mikołaj Bp - Książ</orgName>
+            </org>
+            <org xml:id="Q730">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Piotr i Paweł AAp - Kostrzyn</orgName>
+            </org>
+            <org xml:id="Q619">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Marcin Bp - Swarządz</orgName>
+            </org>
+            <org xml:id="Q616">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Marcin Bp - Rakoniewice</orgName>
+            </org>
+            <org xml:id="Q857">
+                <orgName type="main" xml:lang="pl">plebania - parafia - WnNMP, Wawrzyniec M - Koźmin</orgName>
+            </org>
+            <org xml:id="Q739">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Piotr i Paweł, Andrzej AAp - Przemęt</orgName>
+            </org>
+            <org xml:id="Q618">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Marcin Bp - Strzelce Wielkie</orgName>
+            </org>
+            <org xml:id="Q617">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Marcin Bp - Skaradowo</orgName>
+            </org>
+            <org xml:id="Q2887">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów kolegiackich - parafia - NMP, Maria Magdalena - Poznań</orgName>
+            </org>
+            <org xml:id="Q2886">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów - parafia - Marcin Bp - Poznań</orgName>
+            </org>
+            <org xml:id="Q2889">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Mikołaj Bp - Żerków</orgName>
+            </org>
+            <org xml:id="Q2888">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Marcin Bp - Poznań</orgName>
+            </org>
+            <org xml:id="Q2883">
+                <orgName type="main" xml:lang="pl">kanonia kolegiacka - parafia - NMP, Maria Magdalena - Poznań</orgName>
+            </org>
+            <org xml:id="Q1310">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Gać</orgName>
+            </org>
+            <org xml:id="Q2882">
+                <orgName type="main" xml:lang="pl">dziekania kolegiacka - parafia - NMP, Maria Magdalena - Poznań</orgName>
+            </org>
+            <org xml:id="Q2885">
+                <orgName type="main" xml:lang="pl">kapituła kolegiacka - parafia - NMP, Maria Magdalena - Poznań</orgName>
+            </org>
+            <org xml:id="Q2884">
+                <orgName type="main" xml:lang="pl">kantoria kolegiacka - parafia - NMP, Maria Magdalena - Poznań</orgName>
+            </org>
+            <org xml:id="Q887">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wszyscy Św - Sieraków</orgName>
+            </org>
+            <org xml:id="Q2890">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Stanisław Bp, Franciszek z A - Żerków</orgName>
+            </org>
+            <org xml:id="Q403">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Wawrzyniec M - Żytowiecko</orgName>
+            </org>
+            <org xml:id="Q645">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Michał A - Milesna Górka</orgName>
+            </org>
+            <org xml:id="Q886">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wszyscy Św - Rokitno</orgName>
+            </org>
+            <org xml:id="Q402">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Wawrzyniec M - Woniesiecz</orgName>
+            </org>
+            <org xml:id="Q523">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Florian M - Wiry Wielkie</orgName>
+            </org>
+            <org xml:id="Q644">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Michał A - Łukowo</orgName>
+            </org>
+            <org xml:id="Q889">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wszyscy Św - Tarnowo</orgName>
+            </org>
+            <org xml:id="Q405">
+                <orgName type="main" xml:lang="pl">altaria - parafia - WnNMP - Oborniki</orgName>
+            </org>
+            <org xml:id="Q647">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Michał A - Rogalinko</orgName>
+            </org>
+            <org xml:id="Q2892">
+                <orgName type="main" xml:lang="pl">prepozytura kolegiacka - parafia - NMP, Maria Magdalena - Poznań</orgName>
+            </org>
+            <org xml:id="Q646">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Michał A - Parzęczewo</orgName>
+            </org>
+            <org xml:id="Q888">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wszyscy Św - Słupia</orgName>
+            </org>
+            <org xml:id="Q404">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Wit, Modest MM, Krescencja PM, NPNMP - Rogoźno</orgName>
+            </org>
+            <org xml:id="Q1561">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Kępa Mała</orgName>
+            </org>
+            <org xml:id="Q2891">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wojciech Bp - Poznań</orgName>
+            </org>
+            <org xml:id="Q520">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Fabian, Sebastian MM - Osowa Sień</orgName>
+            </org>
+            <org xml:id="Q762">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Ścięcie Jana Ch - Chojnica</orgName>
+            </org>
+            <org xml:id="Q883">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wszyscy Św - Nietrzanowo</orgName>
+            </org>
+            <org xml:id="Q641">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Michał A - Iwno</orgName>
+            </org>
+            <org xml:id="Q761">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Szymon i Juda Tadeusz AAp - Kosiczyno</orgName>
+            </org>
+            <org xml:id="Q640">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Michał A - Górka Mnisza</orgName>
+            </org>
+            <org xml:id="Q882">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wszyscy Św - Morka</orgName>
+            </org>
+            <org xml:id="Q643">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Michał A - Kwilcz</orgName>
+            </org>
+            <org xml:id="Q401">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Wawrzyniec M - Pniewy</orgName>
+            </org>
+            <org xml:id="Q764">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Św. Duch, NPNMP - Włościejewki</orgName>
+            </org>
+            <org xml:id="Q884">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wszyscy Św - Otorowo</orgName>
+            </org>
+            <org xml:id="Q763">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Św. Duch - Przemęt</orgName>
+            </org>
+            <org xml:id="Q400">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Św. Trójca, Wawrzyniec M - Osieczna</orgName>
+            </org>
+            <org xml:id="Q642">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Michał A - Konary</orgName>
+            </org>
+            <org xml:id="Q521">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Filip, Jakub Mn AAp - Gozdowo</orgName>
+            </org>
+            <org xml:id="Q407">
+                <orgName type="main" xml:lang="pl">altaria - parafia - WnNMP - Śrem</orgName>
+            </org>
+            <org xml:id="Q528">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Idzi O - Modrze</orgName>
+            </org>
+            <org xml:id="Q649">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Michał A - Szamarzewo</orgName>
+            </org>
+            <org xml:id="Q648">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Michał A - Siedlec</orgName>
+            </org>
+            <org xml:id="Q527">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Idzi O - Czerwony Kościół</orgName>
+            </org>
+            <org xml:id="Q406">
+                <orgName type="main" xml:lang="pl">altaria - parafia - WnNMP - Słomowo</orgName>
+            </org>
+            <org xml:id="Q409">
+                <orgName type="main" xml:lang="pl">altaria - parafia - WnNMP, Jan Ch, Jan Ew - Kościan</orgName>
+            </org>
+            <org xml:id="Q408">
+                <orgName type="main" xml:lang="pl">altaria - parafia - WnNMP, Jan Ch - Śmigiel</orgName>
+            </org>
+            <org xml:id="Q1207">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Czesram</orgName>
+            </org>
+            <org xml:id="Q890">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wszyscy Św - Wielawieś</orgName>
+            </org>
+            <org xml:id="Q1688">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Kręsko</orgName>
+            </org>
+            <org xml:id="Q771">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Św. Krzyż, Mikołaj Bp - Biezdrowo</orgName>
+            </org>
+            <org xml:id="Q650">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Michał A - Urzazowo</orgName>
+            </org>
+            <org xml:id="Q891">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wszyscy Św - Wielichowo</orgName>
+            </org>
+            <org xml:id="Q770">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Św. Krzyż, Michał A - Domachowo</orgName>
+            </org>
+            <org xml:id="Q1562">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Kęsica</orgName>
+            </org>
+            <org xml:id="Q513">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Bartłomiej Ap - Lgiń</orgName>
+            </org>
+            <org xml:id="Q876">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wszyscy Św - Jeżewo</orgName>
+            </org>
+            <org xml:id="Q634">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Michał A - Błociszewo</orgName>
+            </org>
+            <org xml:id="Q755">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Stanisław Bp - Rydzyna</orgName>
+            </org>
+            <org xml:id="Q512">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Bartłomiej Ap - Kiebłów</orgName>
+            </org>
+            <org xml:id="Q875">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wszyscy Św - Chorynia</orgName>
+            </org>
+            <org xml:id="Q754">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Stanisław Bp - Romiejewice</orgName>
+            </org>
+            <org xml:id="Q636">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Michał A - Czacz</orgName>
+            </org>
+            <org xml:id="Q635">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Michał A - Chwałkowo</orgName>
+            </org>
+            <org xml:id="Q877">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wszyscy Św - Kąkolewo</orgName>
+            </org>
+            <org xml:id="Q514">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Bartłomiej Ap - Objezierze</orgName>
+            </org>
+            <org xml:id="Q872">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wojciech, Stanisław BBp - Chrzypsko Wielkie</orgName>
+            </org>
+            <org xml:id="Q632">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Mateusz Ap - Opalenica</orgName>
+            </org>
+            <org xml:id="Q511">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Bartłomiej Ap - Bojanowo</orgName>
+            </org>
+            <org xml:id="Q874">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wszyscy Św - Biała</orgName>
+            </org>
+            <org xml:id="Q631">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Maria Magdalena, Roch W - Wieszczyczyno</orgName>
+            </org>
+            <org xml:id="Q873">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wojciech, Stanisław BBp - Dalewo</orgName>
+            </org>
+            <org xml:id="Q638">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Michał A - Gołaszyno</orgName>
+            </org>
+            <org xml:id="Q637">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Michał A - Dolsko</orgName>
+            </org>
+            <org xml:id="Q879">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wszyscy Św - Ludomie</orgName>
+            </org>
+            <org xml:id="Q1336">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Głogowa</orgName>
+            </org>
+            <org xml:id="Q881">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wszyscy Św - Michorzewo Mokre</orgName>
+            </org>
+            <org xml:id="Q760">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Szymon i Juda Tadeusz AAp - Kołaczkowo</orgName>
+            </org>
+            <org xml:id="Q1579">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Kleszczewo</orgName>
+            </org>
+            <org xml:id="Q2543">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Śródka</orgName>
+            </org>
+            <org xml:id="Q1334">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Głęboczek</orgName>
+            </org>
+            <org xml:id="Q546">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Jakub W Ap, Katarzyna PM - Łęki Wielkie</orgName>
+            </org>
+            <org xml:id="Q667">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Mikołaj Bp - Owieńska</orgName>
+            </org>
+            <org xml:id="Q425">
+                <orgName type="main" xml:lang="pl">kapituła kolegiacka - kościół kolegiacki - Mikołaj - Poznań</orgName>
+            </org>
+            <org xml:id="Q545">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Jakub W Ap, Jadwiga Wd - Lusowo</orgName>
+            </org>
+            <org xml:id="Q424">
+                <orgName type="main" xml:lang="pl">kanonia kolegiacka - parafia - Stanisław Bp - Szamotuły</orgName>
+            </org>
+            <org xml:id="Q669">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Mikołaj Bp - Prochy</orgName>
+            </org>
+            <org xml:id="Q548">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Jan Ch - Brzostkowo</orgName>
+            </org>
+            <org xml:id="Q427">
+                <orgName type="main" xml:lang="pl">kapituła kolegiacka - parafia - Stanisław Bp - Szamotuły</orgName>
+            </org>
+            <org xml:id="Q668">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Mikołaj Bp - Pawłowice</orgName>
+            </org>
+            <org xml:id="Q547">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Jan Ch - Bardo</orgName>
+            </org>
+            <org xml:id="Q426">
+                <orgName type="main" xml:lang="pl">kapituła kolegiacka - kościół kolegiacki - NMP (in Summo) - Poznań</orgName>
+            </org>
+            <org xml:id="Q663">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Mikołaj Bp - Krobia</orgName>
+            </org>
+            <org xml:id="Q542">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Jakub W Ap - Miłosław</orgName>
+            </org>
+            <org xml:id="Q421">
+                <orgName type="main" xml:lang="pl">kancelaria kolegiacka - kościół kolegiacki - NMP (in Summo) - Poznań</orgName>
+            </org>
+            <org xml:id="Q662">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Mikołaj Bp - Kaława</orgName>
+            </org>
+            <org xml:id="Q420">
+                <orgName type="main" xml:lang="pl">dziekania kolegiacka - parafia - WnNMP, Stanisław Bp - Zbąszyń</orgName>
+            </org>
+            <org xml:id="Q783">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Św. Trójca - Włoszakowice</orgName>
+            </org>
+            <org xml:id="Q541">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Jakub W Ap - Goślina Kościelna</orgName>
+            </org>
+            <org xml:id="Q665">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Mikołaj Bp - Lewice</orgName>
+            </org>
+            <org xml:id="Q544">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Jakub W Ap - Święciechów</orgName>
+            </org>
+            <org xml:id="Q786">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Św. Trójca, Maria Magdalena, Mateusz Ap - Pruśca</orgName>
+            </org>
+            <org xml:id="Q423">
+                <orgName type="main" xml:lang="pl">kanonia kolegiacka - kościół kolegiacki - NMP (in Summo) - Poznań</orgName>
+            </org>
+            <org xml:id="Q664">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Mikołaj Bp - Leszno</orgName>
+            </org>
+            <org xml:id="Q543">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Jakub W Ap - Sokolniki</orgName>
+            </org>
+            <org xml:id="Q422">
+                <orgName type="main" xml:lang="pl">kanonia kolegiacka - kościół kolegiacki - Mikołaj - Poznań</orgName>
+            </org>
+            <org xml:id="Q429">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów - kościół filialny - Gertruda - Poznań</orgName>
+            </org>
+            <org xml:id="Q549">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Jan Ch - Chociszewo</orgName>
+            </org>
+            <org xml:id="Q1749">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Langfuld</orgName>
+            </org>
+            <org xml:id="Q791">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Św. Trójca, Wawrzyniec M - Osieczna</orgName>
+            </org>
+            <org xml:id="Q670">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Mikołaj Bp - Radzim</orgName>
+            </org>
+            <org xml:id="Q672">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Mikołaj Bp - Siedlec</orgName>
+            </org>
+            <org xml:id="Q551">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Jan Ch - Grodziszczko</orgName>
+            </org>
+            <org xml:id="Q430">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów - kościół filialny - Stanisław - Poznań</orgName>
+            </org>
+            <org xml:id="Q550">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Jan Ch - Gnino</orgName>
+            </org>
+            <org xml:id="Q671">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Mikołaj Bp - Ryczywół</orgName>
+            </org>
+            <org xml:id="Q1741">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Kursko</orgName>
+            </org>
+            <org xml:id="Q898">
+                <orgName type="main" xml:lang="pl">prebenda organisty - parafia - WnNMP - Śrem</orgName>
+            </org>
+            <org xml:id="Q777">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Św. Trójca - Lutogniew</orgName>
+            </org>
+            <org xml:id="Q414">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Wszyscy Św - Ludomie</orgName>
+            </org>
+            <org xml:id="Q656">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Michał A, NMP, Andrzej Ap, Zofia - Połajewo</orgName>
+            </org>
+            <org xml:id="Q535">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Jadwiga Wd - Mądre</orgName>
+            </org>
+            <org xml:id="Q413">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Wojciech Bp - Trzciel</orgName>
+            </org>
+            <org xml:id="Q534">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Jadwiga Wd - Grodzisko</orgName>
+            </org>
+            <org xml:id="Q655">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Michał A, Maria Magdalena - Czempiń</orgName>
+            </org>
+            <org xml:id="Q897">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Zofia M - Słaboszewo</orgName>
+            </org>
+            <org xml:id="Q779">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Św. Trójca - Przetoczno</orgName>
+            </org>
+            <org xml:id="Q537">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Jadwiga Wd - Wilczyna</orgName>
+            </org>
+            <org xml:id="Q658">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Mikołaj Bp - Dupiewo</orgName>
+            </org>
+            <org xml:id="Q416">
+                <orgName type="main" xml:lang="pl">altaria kolegiacka - kościół kolegiacki - Mikołaj - Poznań</orgName>
+            </org>
+            <org xml:id="Q415">
+                <orgName type="main" xml:lang="pl">altaria - parafia - Wszyscy Św - Sieraków</orgName>
+            </org>
+            <org xml:id="Q778">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Św. Trójca - Nowe Miasto</orgName>
+            </org>
+            <org xml:id="Q657">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Mikołaj Bp - Czeszewo</orgName>
+            </org>
+            <org xml:id="Q536">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Jadwiga Wd - Siekierki Wielkie</orgName>
+            </org>
+            <org xml:id="Q899">
+                <orgName type="main" xml:lang="pl">prepozytura - kościół filialny - Stanisław - Poznań</orgName>
+            </org>
+            <org xml:id="Q652">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Michał A - Wytomyśl</orgName>
+            </org>
+            <org xml:id="Q410">
+                <orgName type="main" xml:lang="pl">altaria - parafia - WnNMP, Piotr i Paweł AAp - Wolsztyn</orgName>
+            </org>
+            <org xml:id="Q531">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Jadwiga Wd - Brenno</orgName>
+            </org>
+            <org xml:id="Q894">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wszyscy Św, Stanisław Bp, Wawrzyniec M - Mieszków</orgName>
+            </org>
+            <org xml:id="Q530">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Jacek W, Wawrzyniec M - Babimost</orgName>
+            </org>
+            <org xml:id="Q893">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Wszyscy Św, Mikołaj Bp - Oborzyska</orgName>
+            </org>
+            <org xml:id="Q651">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Michał A - Winna Góra</orgName>
+            </org>
+            <org xml:id="Q896">
+                <orgName type="main" xml:lang="pl">plebania - parafia - ZKrzyża Św, NPNMP - Raszkowo</orgName>
+            </org>
+            <org xml:id="Q654">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Michał A, Agnieszka - Pogorzel</orgName>
+            </org>
+            <org xml:id="Q412">
+                <orgName type="main" xml:lang="pl">altaria - parafia - WnNMP, Wawrzyniec M - Koźmin</orgName>
+            </org>
+            <org xml:id="Q775">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Św. Trójca - Jaszkowo</orgName>
+            </org>
+            <org xml:id="Q533">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Jadwiga Wd - Grabowo</orgName>
+            </org>
+            <org xml:id="Q653">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Michał A - Zajączkowo</orgName>
+            </org>
+            <org xml:id="Q411">
+                <orgName type="main" xml:lang="pl">altaria - parafia - WnNMP, Piotr i Paweł AAp, Stanisław Bp - Buk</orgName>
+            </org>
+            <org xml:id="Q532">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Jadwiga Wd - Dębowa Łęka</orgName>
+            </org>
+            <org xml:id="Q895">
+                <orgName type="main" xml:lang="pl">plebania - parafia - ZKrzyża Św, Katarzyna PM - Dobrzyca</orgName>
+            </org>
+            <org xml:id="Q418">
+                <orgName type="main" xml:lang="pl">altaria kolegiacka - parafia - WnNMP, Stanisław Bp - Zbąszyń</orgName>
+            </org>
+            <org xml:id="Q539">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Jadwiga Wd, Andrzej Ap - Pępowo Małe</orgName>
+            </org>
+            <org xml:id="Q659">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Mikołaj Bp - Dupino</orgName>
+            </org>
+            <org xml:id="Q417">
+                <orgName type="main" xml:lang="pl">altaria kolegiacka - kościół kolegiacki - NMP (in Summo) - Poznań</orgName>
+            </org>
+            <org xml:id="Q419">
+                <orgName type="main" xml:lang="pl">dziekania kolegiacka - parafia - Stanisław Bp - Szamotuły</orgName>
+            </org>
+            <org xml:id="Q2605">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Tylewice</orgName>
+            </org>
+            <org xml:id="Q780">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Św. Trójca - Stęszew</orgName>
+            </org>
+            <org xml:id="Q1513">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Jezierzyce</orgName>
+            </org>
+            <org xml:id="Q540">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Jakub W Ap - Cerekwica</orgName>
+            </org>
+            <org xml:id="Q782">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Św. Trójca - Witaszyce</orgName>
+            </org>
+            <org xml:id="Q1750">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Lasocice</orgName>
+            </org>
+            <org xml:id="Q2841">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Żarzyn</orgName>
+            </org>
+            <org xml:id="Q689">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Mikołaj Bp, Wawrzyniec M - Mosina</orgName>
+            </org>
+            <org xml:id="Q447">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów - parafia - Piotr i Paweł AAp - Kostrzyn</orgName>
+            </org>
+            <org xml:id="Q688">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Mikołaj Bp, Maria Magdalena - Górka</orgName>
+            </org>
+            <org xml:id="Q446">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów - parafia - NarNMP - Pyzdry</orgName>
+            </org>
+            <org xml:id="Q449">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów - parafia - Stanisław Bp - Wschowa</orgName>
+            </org>
+            <org xml:id="Q448">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów - parafia - Stanisław Bp - Szamotuły</orgName>
+            </org>
+            <org xml:id="Q569">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Jan Ch, Wojciech, Stanisław BBp - Ciążym</orgName>
+            </org>
+            <org xml:id="Q443">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów - parafia - Mikołaj Bp - Skwierzyna</orgName>
+            </org>
+            <org xml:id="Q564">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Jan Ch, Dorota PM - Potarzyca</orgName>
+            </org>
+            <org xml:id="Q685">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Mikołaj Bp, Florian M - Chodzież</orgName>
+            </org>
+            <org xml:id="Q563">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Jan Ch, Andrzej Ap, Elżbieta Wd - Międzychód</orgName>
+            </org>
+            <org xml:id="Q684">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Mikołaj Bp, Barbara PM - Goniębice</orgName>
+            </org>
+            <org xml:id="Q442">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów - parafia - Mikołaj Bp - Krobia</orgName>
+            </org>
+            <org xml:id="Q566">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Jan Ch, Małgorzata PM - Rozdrażewo</orgName>
+            </org>
+            <org xml:id="Q445">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów - parafia - NarNMP - Poniec</orgName>
+            </org>
+            <org xml:id="Q565">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Jan Ch, Jan Ew - Lwówek</orgName>
+            </org>
+            <org xml:id="Q444">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów - parafia - Mikołaj Bp, Katarzyna PM - Krzywiń</orgName>
+            </org>
+            <org xml:id="Q686">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Mikołaj Bp, Katarzyna PM - Krzywiń</orgName>
+            </org>
+            <org xml:id="Q208">
+                <orgName type="main" xml:lang="pl">Michał Skrzetuszewski</orgName>
+            </org>
+            <org xml:id="Q571">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Jan Ew, Stanisław Bp - Gogolewo</orgName>
+            </org>
+            <org xml:id="Q450">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów - parafia - Św. Trójca - Nowe Miasto</orgName>
+            </org>
+            <org xml:id="Q692">
+                <orgName type="main" xml:lang="pl">plebania - parafia - NarNMP - Kołaczkowice</orgName>
+            </org>
+            <org xml:id="Q570">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Jan Ch, Wszyscy Św - Mórkowo</orgName>
+            </org>
+            <org xml:id="Q691">
+                <orgName type="main" xml:lang="pl">plebania - parafia - NarNMP - Kazimierz</orgName>
+            </org>
+            <org xml:id="Q452">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów - parafia - Wawrzyniec M - Pniewy</orgName>
+            </org>
+            <org xml:id="Q694">
+                <orgName type="main" xml:lang="pl">plebania - parafia - NarNMP - Lgowo</orgName>
+            </org>
+            <org xml:id="Q573">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Katarzyna PM - Bagrowo</orgName>
+            </org>
+            <org xml:id="Q451">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów - parafia - Św. Trójca, Wawrzyniec M - Osieczna</orgName>
+            </org>
+            <org xml:id="Q572">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Józef OblNMP - Kicina</orgName>
+            </org>
+            <org xml:id="Q690">
+                <orgName type="main" xml:lang="pl">plebania - parafia - NarNMP - Kamiona</orgName>
+            </org>
+            <org xml:id="Q2610">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Uchorowo</orgName>
+            </org>
+            <org xml:id="Q436">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów - parafia - Jan Ch, Jan Ew - Lwówek</orgName>
+            </org>
+            <org xml:id="Q678">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Mikołaj Bp - Ujście</orgName>
+            </org>
+            <org xml:id="Q435">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów - parafia - Jan Ch - Międzyrzecz</orgName>
+            </org>
+            <org xml:id="Q556">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Jan Ch - Międzyrzecz</orgName>
+            </org>
+            <org xml:id="Q798">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Urszula PM - Ruchocice</orgName>
+            </org>
+            <org xml:id="Q438">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów - parafia - Marcin Bp - Jarocin</orgName>
+            </org>
+            <org xml:id="Q559">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Jan Ch - Piła</orgName>
+            </org>
+            <org xml:id="Q437">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów - parafia - Małgorzata PM - Gostyń</orgName>
+            </org>
+            <org xml:id="Q558">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Jan Ch - Murzynowo Kościelne</orgName>
+            </org>
+            <org xml:id="Q679">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Mikołaj Bp - Wierzenica</orgName>
+            </org>
+            <org xml:id="Q432">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów - parafia - Bartłomiej Ap - Kiebłów</orgName>
+            </org>
+            <org xml:id="Q674">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Mikołaj Bp - Skoki</orgName>
+            </org>
+            <org xml:id="Q794">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Św. Trójca, Wszyscy Św - Noskowo</orgName>
+            </org>
+            <org xml:id="Q673">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Mikołaj Bp - Siedlimin</orgName>
+            </org>
+            <org xml:id="Q431">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów - kościół filialny - Wszyscy Św. - Poznań</orgName>
+            </org>
+            <org xml:id="Q434">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów - parafia - Jakub W Ap - Święciechów</orgName>
+            </org>
+            <org xml:id="Q797">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Trzej Królowie - Żabno</orgName>
+            </org>
+            <org xml:id="Q676">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Mikołaj Bp - Słopanowo</orgName>
+            </org>
+            <org xml:id="Q675">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Mikołaj Bp - Skwierzyna</orgName>
+            </org>
+            <org xml:id="Q433">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów - parafia - Jadwiga Wd - Grodzisko</orgName>
+            </org>
+            <org xml:id="Q439">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów - parafia - Marcin Bp - Strzelce Wielkie</orgName>
+            </org>
+            <org xml:id="Q2869">
+                <orgName type="main" xml:lang="pl">prebenda kaznodziei kolegiackiego - kościół kolegiacki - Środa</orgName>
+            </org>
+            <org xml:id="Q560">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Jan Ch - Radomicko</orgName>
+            </org>
+            <org xml:id="Q681">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Mikołaj Bp - Zieleniec</orgName>
+            </org>
+            <org xml:id="Q1413">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Grochowo</orgName>
+            </org>
+            <org xml:id="Q2502">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Szamotuły Stare</orgName>
+            </org>
+            <org xml:id="Q680">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Mikołaj Bp - Wszeborz</orgName>
+            </org>
+            <org xml:id="Q441">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów - parafia - Michał A - Dolsko</orgName>
+            </org>
+            <org xml:id="Q1898">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Mieczewo</orgName>
+            </org>
+            <org xml:id="Q440">
+                <orgName type="main" xml:lang="pl">kolegium altarzystów - parafia - Mateusz Ap - Opalenica</orgName>
+            </org>
+            <org xml:id="Q682">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Mikołaj Bp - Żydowo</orgName>
+            </org>
+            <org xml:id="Q1772">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Lipno</orgName>
+            </org>
+            <org xml:id="Q1411">
+                <orgName type="main" xml:lang="pl">plebania - parafia - Grobia</orgName>
+            </org>
+        </listOrg>
+    </standOff>
+</TEI>
